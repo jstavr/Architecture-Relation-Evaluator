@@ -1,0 +1,68 @@
+__mon_yday;000099.025;lib/sh/mktime.c;99.35;0x0;{const unsigned short [][]};{};{};{}
+_nl_default_dirname;000062.018;lib/intl/bindtextdom.c;62.37;0x0;{const char []};{};{};{}
+_nl_default_dirname;000302.018;lib/intl/dcigettext.c;302.37;0x0;{const char []};{};{};{}
+_nl_default_dirname;000304.011;lib/intl/dcigettext.c;304.30;0x0;{const char []};{};{};{}
+_rl_possible_control_prefixes;000402.026;lib/readline/rlprivate.h;402.55;0x0;{const char *const []};{};{};{}
+_rl_possible_control_prefixes;000948.019;lib/readline/bind.c;948.48;0x0;{const char *const []};{};{};{}
+_rl_possible_meta_prefixes;000403.026;lib/readline/rlprivate.h;403.52;0x0;{const char *const []};{};{};{}
+_rl_possible_meta_prefixes;000952.019;lib/readline/bind.c;952.45;0x0;{const char *const []};{};{};{}
+binsizes;000232.027;lib/malloc/malloc.c;232.35;0x8;{const unsigned long []};{};{};{}
+boolean_varlist;001422.002;lib/readline/bind.c;1422.17;0x8;{constanonymous []};{};{};{}
+brace_arg_separator;000060.017;braces.c;60.36;0x8;{const int};{};{};{}
+build_version;000038.010;version.c;38.23;0x0;{const int};{};{};{}
+cclass_name;000125.025;lib/glob/smatch.c;125.36;0x8;{const char *const []};{};{};{}
+cmd_error_table;000405.026;error.c;405.41;0x8;{const char *const []};{};{};{}
+compacts;000103.002;builtins/complete.c;103.10;0x8;{const _compacts []};{};{};{}
+compopts;000135.002;builtins/complete.c;135.10;0x8;{const _compopt []};{};{};{}
+default_funmap;000059.020;lib/readline/funmap.c;59.34;0x8;{const FUNMAP []};{};{};{}
+default_prefixes;000088.019;lib/readline/tilde.c;88.35;0x8;{const char *[]};{};{};{}
+default_prefixes;000088.019;lib/tilde/tilde.c;88.35;0x8;{const char *[]};{};{};{}
+default_suffixes;000094.019;lib/readline/tilde.c;94.35;0x8;{const char *[]};{};{};{}
+default_suffixes;000094.019;lib/tilde/tilde.c;94.35;0x8;{const char *[]};{};{};{}
+is_basic_table;000029.019;lib/sh/shmbchar.c;29.33;0x0;{const unsigned int []};{};{};{}
+is_basic_table;000307.026;include/shmbchar.h;307.40;0x0;{const unsigned int []};{};{};{}
+keymap_names;001806.002;lib/readline/bind.c;1806.14;0x8;{constanonymous []};{};{};{}
+long_args;000237.002;shell.c;237.11;0x8;{constanonymous []};{};{};{}
+maxquad;000075.036;include/typemax.h;75.43;0x8;{const unsigned long};{};{};{}
+name_key_alist;001774.024;lib/readline/bind.c;1774.38;0x8;{const assoc_list []};{};{};{}
+no_semi_successors;007170.017;y.tab.c;7170.35;0x8;{const int []};{};{};{}
+o_options;000187.002;builtins/set.c;187.11;0x0;{constanonymous []};{};{};{}
+parser_directives;001114.002;lib/readline/bind.c;1114.19;0x8;{constanonymous []};{};{};{}
+patch_level;000037.010;version.c;37.21;0x0;{const int};{};{};{}
+plone;000042.031;lib/intl/plural-exp.c;42.36;0x8;{const expression};{};{};{}
+plvar;000037.031;lib/intl/plural-exp.c;37.36;0x8;{const expression};{};{};{}
+precs;001017.017;execute_cmd.c;1017.22;0x8;{const int []};{};{};{}
+shell_flags;000040.032;flags.h;40.43;0x0;{const flags_alist []};{};{};{}
+shell_flags;000172.025;flags.c;172.36;0x0;{const flags_alist []};{};{};{}
+string_varlist;001519.002;lib/readline/bind.c;1519.16;0x8;{constanonymous []};{};{};{}
+tc_strings;000370.031;lib/readline/terminal.c;370.41;0x8;{const _tc_string []};{};{};{}
+yycheck;000523.027;lib/intl/plural.c;523.34;0x8;{const yysigned_char []};{};{};{}
+yycheck;001172.026;y.tab.c;1172.33;0x8;{const yytype_int16 []};{};{};{}
+yydefact;000479.027;lib/intl/plural.c;479.35;0x8;{const unsigned char []};{};{};{}
+yydefact;000998.026;y.tab.c;998.34;0x8;{const yytype_uint8 []};{};{};{}
+yydefgoto;000487.027;lib/intl/plural.c;487.36;0x8;{const yysigned_char []};{};{};{}
+yydefgoto;001038.026;y.tab.c;1038.35;0x8;{const yytype_int16 []};{};{};{}
+yypact;000495.027;lib/intl/plural.c;495.33;0x8;{const yysigned_char []};{};{};{}
+yypact;001049.026;y.tab.c;1049.32;0x8;{const yytype_int16 []};{};{};{}
+yypgoto;000503.027;lib/intl/plural.c;503.34;0x8;{const yysigned_char []};{};{};{}
+yypgoto;001089.026;y.tab.c;1089.33;0x8;{const yytype_int16 []};{};{};{}
+yyprhs;000417.027;lib/intl/plural.c;417.33;0x8;{const unsigned char []};{};{};{}
+yyprhs;000790.027;y.tab.c;790.33;0x8;{const yytype_uint16 []};{};{};{}
+yyr1;000463.027;lib/intl/plural.c;463.31;0x8;{const unsigned char []};{};{};{}
+yyr1;000952.026;y.tab.c;952.30;0x8;{const yytype_uint8 []};{};{};{}
+yyr2;000470.027;lib/intl/plural.c;470.31;0x8;{const unsigned char []};{};{};{}
+yyr2;000974.026;y.tab.c;974.30;0x8;{const yytype_uint8 []};{};{};{}
+yyrhs;000424.027;lib/intl/plural.c;424.32;0x8;{const yysigned_char []};{};{};{}
+yyrhs;000812.025;y.tab.c;812.30;0x8;{const yytype_int8 []};{};{};{}
+yyrline;000434.027;lib/intl/plural.c;434.34;0x8;{const unsigned char []};{};{};{}
+yyrline;000886.027;y.tab.c;886.34;0x8;{const yytype_uint16 []};{};{};{}
+yystos;000535.027;lib/intl/plural.c;535.33;0x8;{const unsigned char []};{};{};{}
+yystos;001244.026;y.tab.c;1244.32;0x8;{const yytype_uint8 []};{};{};{}
+yytable;000513.027;lib/intl/plural.c;513.34;0x8;{const unsigned char []};{};{};{}
+yytable;001102.027;y.tab.c;1102.34;0x8;{const yytype_uint16 []};{};{};{}
+yytname;000444.025;lib/intl/plural.c;444.32;0x8;{const char *const []};{};{};{}
+yytname;000911.025;y.tab.c;911.32;0x8;{const char *const []};{};{};{}
+yytoknum;000455.032;lib/intl/plural.c;455.40;0x8;{const unsigned short []};{};{};{}
+yytoknum;000939.027;y.tab.c;939.35;0x8;{const yytype_uint16 []};{};{};{}
+yytranslate;000383.027;lib/intl/plural.c;383.38;0x8;{const unsigned char []};{};{};{}
+yytranslate;000752.026;y.tab.c;752.37;0x8;{const yytype_uint8 []};{};{};{}

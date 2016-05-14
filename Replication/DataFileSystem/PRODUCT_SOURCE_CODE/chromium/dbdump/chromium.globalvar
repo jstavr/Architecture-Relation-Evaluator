@@ -1,0 +1,1701 @@
+<Type,Traits,DifferentiatingType>instance_;000282.025;base/memory/singleton.h;283.13;0x0;{base::subtle::AtomicWord};{Singleton};{};{}
+<Type>buffer_;000136.004;base/memory/singleton.h;136.46;0x0;{base::AlignedMemory<sizeof(Type),ALIGNOF(Type)>};{StaticMemorySingletonTraits};{};{}
+<Type>dead_;000138.004;base/memory/singleton.h;138.44;0x0;{base::subtle::Atomic32};{StaticMemorySingletonTraits};{};{}
+<WifiData>factory_function_;000011.004;content/browser/geolocation/device_data_provider.cc;11.51;0x0;{DeviceDataProvider<WifiData>::ImplFactoryFunction};{DeviceDataProvider};{};{}
+<WifiData>instance_;000009.004;content/browser/geolocation/device_data_provider.cc;9.43;0x0;{int DeviceDataProvider<WifiData> *};{DeviceDataProvider};{};{}
+APIPermission;000032.006;chrome/browser/extensions/extension_preference_api.cc;32.31;0x0;{using};{extensions};{};{}
+APIPermission;000034.006;chrome/browser/extensions/extension_tab_util.cc;34.31;0x0;{using};{extensions};{};{}
+ATTRIBUTE_WEAK;000061.014;third_party/tcmalloc/chromium/src/maybe_threads.cc;61.28;0x0;{int __THROW};{};{};{}
+ATTRIBUTE_WEAK;000063.014;third_party/tcmalloc/chromium/src/maybe_threads.cc;63.28;0x0;{__THROW};{};{};{}
+ATTRIBUTE_WEAK;000065.014;third_party/tcmalloc/chromium/src/maybe_threads.cc;65.28;0x0;{int __THROW};{};{};{}
+AddRules;000019.010;chrome/browser/extensions/api/declarative/declarative_api.cc;19.18;0x0;{namespace};{};{};{}
+AddUrl;000028.010;chrome/browser/history/history_extension_api.cc;28.16;0x0;{namespace};{};{};{}
+AtomicOps_Internalx86CPUFeatures;000023.004;base/atomicops_internals_x86_gcc.h;23.36;0x0;{BASE_EXPORTAtomicOps_x86CPUFeatureStruct};{};{};{}
+AtomicOps_Internalx86CPUFeatures;000041.037;base/atomicops_internals_x86_gcc.cc;41.69;0x0;{AtomicOps_x86CPUFeatureStruct};{};{};{}
+Attach;000052.010;chrome/browser/extensions/api/debugger/debugger_api.cc;52.16;0x0;{namespace};{};{};{}
+AutofillExternalDelegate;000026.006;chrome/browser/autofill/autocomplete_history_manager.h;26.30;0x0;{class};{};{};{}
+AutofillProfile;000021.006;chrome/browser/api/webdata/autofill_web_data.h;21.21;0x0;{class};{};{};{}
+BookmarkTreeNode;000049.006;chrome/browser/bookmarks/bookmark_extension_api.cc;49.33;0x0;{using};{bookmarks};{};{}
+BrowserProcess;000034.002;chrome/browser/memory_details_linux.cc;34.16;0x0;{BrowserType};{};{};{}
+BrowserThread;000050.006;chrome/browser/bookmarks/bookmark_extension_api.cc;50.28;0x0;{using};{content};{};{}
+BulkTransfer;000017.010;chrome/browser/extensions/api/usb/usb_api.cc;17.22;0x0;{namespace};{};{};{}
+CACHELINE_ALIGNED;000113.002;third_party/tcmalloc/chromium/src/system-alloc.cc;113.19;0x0;{MemoryAligner};{};{};{}
+ChooseEntry;000055.010;chrome/browser/extensions/api/file_system/file_system_api.cc;55.21;0x0;{namespace};{};{};{}
+Clear;000034.010;chrome/browser/extensions/api/content_settings/content_settings_api.cc;34.15;0x0;{namespace};{};{};{}
+CloseDevice;000018.010;chrome/browser/extensions/api/usb/usb_api.cc;18.21;0x0;{namespace};{};{};{}
+Connect;000066.010;chrome/browser/extensions/api/bluetooth/bluetooth_api.cc;66.17;0x0;{namespace};{};{};{}
+Contains;000027.010;chrome/browser/extensions/api/permissions/permissions_api.cc;27.18;0x0;{namespace};{};{};{}
+ContentSecurityPolicyIsLegal;000065.006;chrome/common/extensions/extension.cc;65.61;0x0;{using};{extensions::csp_validator};{};{}
+ContentSecurityPolicyIsSandboxed;000066.006;chrome/common/extensions/extension.cc;66.65;0x0;{using};{extensions::csp_validator};{};{}
+ContentSecurityPolicyIsSecure;000067.006;chrome/common/extensions/extension.cc;67.62;0x0;{using};{extensions::csp_validator};{};{}
+ControlTransfer;000019.010;chrome/browser/extensions/api/usb/usb_api.cc;19.25;0x0;{namespace};{};{};{}
+Create;000021.010;chrome/browser/extensions/api/app_window/app_window_api.cc;21.16;0x0;{namespace};{};{};{}
+CreditCard;000022.006;chrome/browser/api/webdata/autofill_web_data.h;22.16;0x0;{class};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000434.031;base/third_party/dynamic_annotations/dynamic_annotations.h;434.65;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000437.031;base/third_party/dynamic_annotations/dynamic_annotations.h;437.65;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000440.042;base/third_party/dynamic_annotations/dynamic_annotations.h;440.76;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000443.042;base/third_party/dynamic_annotations/dynamic_annotations.h;443.76;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000446.035;base/third_party/dynamic_annotations/dynamic_annotations.h;446.69;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000449.034;base/third_party/dynamic_annotations/dynamic_annotations.h;449.68;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000452.034;base/third_party/dynamic_annotations/dynamic_annotations.h;452.68;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000455.034;base/third_party/dynamic_annotations/dynamic_annotations.h;455.68;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000458.031;base/third_party/dynamic_annotations/dynamic_annotations.h;458.65;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000461.029;base/third_party/dynamic_annotations/dynamic_annotations.h;461.63;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000464.029;base/third_party/dynamic_annotations/dynamic_annotations.h;464.63;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000467.030;base/third_party/dynamic_annotations/dynamic_annotations.h;467.64;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000470.030;base/third_party/dynamic_annotations/dynamic_annotations.h;470.64;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000473.045;base/third_party/dynamic_annotations/dynamic_annotations.h;473.79;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000476.045;base/third_party/dynamic_annotations/dynamic_annotations.h;476.79;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000479.030;base/third_party/dynamic_annotations/dynamic_annotations.h;479.64;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000482.030;base/third_party/dynamic_annotations/dynamic_annotations.h;482.64;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000485.030;base/third_party/dynamic_annotations/dynamic_annotations.h;485.64;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000488.030;base/third_party/dynamic_annotations/dynamic_annotations.h;488.64;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000491.041;base/third_party/dynamic_annotations/dynamic_annotations.h;491.75;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000494.029;base/third_party/dynamic_annotations/dynamic_annotations.h;494.63;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000496.032;base/third_party/dynamic_annotations/dynamic_annotations.h;496.66;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000499.029;base/third_party/dynamic_annotations/dynamic_annotations.h;499.63;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000502.029;base/third_party/dynamic_annotations/dynamic_annotations.h;502.63;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000505.029;base/third_party/dynamic_annotations/dynamic_annotations.h;505.63;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000508.029;base/third_party/dynamic_annotations/dynamic_annotations.h;508.63;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000511.030;base/third_party/dynamic_annotations/dynamic_annotations.h;511.64;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000514.022;base/third_party/dynamic_annotations/dynamic_annotations.h;514.56;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000516.032;base/third_party/dynamic_annotations/dynamic_annotations.h;516.66;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000518.032;base/third_party/dynamic_annotations/dynamic_annotations.h;518.66;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000520.032;base/third_party/dynamic_annotations/dynamic_annotations.h;520.66;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000522.032;base/third_party/dynamic_annotations/dynamic_annotations.h;522.66;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000524.032;base/third_party/dynamic_annotations/dynamic_annotations.h;524.66;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000526.032;base/third_party/dynamic_annotations/dynamic_annotations.h;526.66;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000528.044;base/third_party/dynamic_annotations/dynamic_annotations.h;528.78;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000531.030;base/third_party/dynamic_annotations/dynamic_annotations.h;531.64;0x0;{int};{};{};{}
+DYNAMIC_ANNOTATIONS_ATTRIBUTE_WEAK;000533.032;base/third_party/dynamic_annotations/dynamic_annotations.h;533.66;0x0;{int};{};{};{}
+Debug;000117.011;net/third_party/nss/ssl/sslimpl.h;117.16;0x0;{int};{};{};{}
+DeleteRange;000030.010;chrome/browser/history/history_extension_api.cc;30.21;0x0;{namespace};{};{};{}
+DeleteUrl;000029.010;chrome/browser/history/history_extension_api.cc;29.19;0x0;{namespace};{};{};{}
+Detach;000053.010;chrome/browser/extensions/api/debugger/debugger_api.cc;53.16;0x0;{namespace};{};{};{}
+Device;000025.006;chrome/browser/extensions/api/usb/usb_api.cc;25.47;0x0;{using};{extensions::api::experimental_usb};{};{}
+Disconnect;000067.010;chrome/browser/extensions/api/bluetooth/bluetooth_api.cc;67.20;0x0;{namespace};{};{};{}
+Extension;000035.006;chrome/browser/extensions/extension_tab_util.cc;35.27;0x0;{using};{extensions};{};{}
+FREEBL_GetVector;000551.025;net/third_party/nss/ssl/bodge/loader.h;551.41;0x0;{FREEBLGetVectorFn};{};{};{}
+FindDevice;000020.010;chrome/browser/extensions/api/usb/usb_api.cc;20.20;0x0;{namespace};{};{};{}
+FindInstance;000313.006;webkit/plugins/npapi/plugin_host.cc;313.33;0x0;{using};{webkit::npapi};{};{}
+GCRY_THREAD_OPTION_PTHREAD_IMPL;000034.000;printing/backend/print_backend_cups.cc;34.31;0x0;{int};{};{};{}
+GSS_C_NT_ANONYMOUS;000074.008;net/http/http_auth_gssapi_posix.cc;74.26;0x0;{gss_OID};{};{};{}
+GSS_C_NT_EXPORT_NAME;000075.008;net/http/http_auth_gssapi_posix.cc;75.28;0x0;{gss_OID};{};{};{}
+GSS_C_NT_HOSTBASED_SERVICE;000073.008;net/http/http_auth_gssapi_posix.cc;73.34;0x0;{gss_OID};{};{};{}
+GSS_C_NT_HOSTBASED_SERVICE_X;000072.008;net/http/http_auth_gssapi_posix.cc;72.36;0x0;{gss_OID};{};{};{}
+GSS_C_NT_MACHINE_UID_NAME;000070.008;net/http/http_auth_gssapi_posix.cc;70.33;0x0;{gss_OID};{};{};{}
+GSS_C_NT_STRING_UID_NAME;000071.008;net/http/http_auth_gssapi_posix.cc;71.32;0x0;{gss_OID};{};{};{}
+GSS_C_NT_USER_NAME;000069.008;net/http/http_auth_gssapi_posix.cc;69.26;0x0;{gss_OID};{};{};{}
+Get;000035.010;chrome/browser/extensions/api/content_settings/content_settings_api.cc;35.13;0x0;{namespace};{};{};{}
+Get;000038.010;chrome/browser/extensions/api/cookies/cookies_api.cc;38.13;0x0;{namespace};{};{};{}
+Get;000081.010;chrome/browser/extensions/api/tabs/tabs.cc;81.13;0x0;{namespace};{};{};{}
+GetAcceptLanguages;000018.010;chrome/browser/extensions/api/i18n/i18n_api.cc;18.28;0x0;{namespace};{};{};{}
+GetAll;000028.010;chrome/browser/extensions/api/permissions/permissions_api.cc;28.16;0x0;{namespace};{};{};{}
+GetAll;000034.010;chrome/browser/extensions/api/cookies/cookies_helpers.cc;34.16;0x0;{namespace};{};{};{}
+GetAll;000039.010;chrome/browser/extensions/api/cookies/cookies_api.cc;39.16;0x0;{namespace};{};{};{}
+GetAll;000082.010;chrome/browser/extensions/api/tabs/tabs.cc;82.16;0x0;{namespace};{};{};{}
+GetAllCookieStores;000040.010;chrome/browser/extensions/api/cookies/cookies_api.cc;40.28;0x0;{namespace};{};{};{}
+GetAllFrames;000032.010;chrome/browser/extensions/api/web_navigation/web_navigation_api.cc;32.22;0x0;{namespace};{};{};{}
+GetCurrent;000083.010;chrome/browser/extensions/api/tabs/tabs.cc;83.20;0x0;{namespace};{};{};{}
+GetDevices;000068.010;chrome/browser/extensions/api/bluetooth/bluetooth_api.cc;68.20;0x0;{namespace};{};{};{}
+GetFrame;000031.010;chrome/browser/extensions/api/web_navigation/web_navigation_api.cc;31.18;0x0;{namespace};{};{};{}
+GetLastFocused;000084.010;chrome/browser/extensions/api/tabs/tabs.cc;84.24;0x0;{namespace};{};{};{}
+GetMediaFileSystems;000041.010;chrome/browser/extensions/api/media_galleries/media_galleries_api.cc;41.29;0x0;{namespace};{};{};{}
+GetRules;000020.010;chrome/browser/extensions/api/declarative/declarative_api.cc;20.18;0x0;{namespace};{};{};{}
+GetServices;000069.010;chrome/browser/extensions/api/bluetooth/bluetooth_api.cc;69.21;0x0;{namespace};{};{};{}
+GetVisits;000031.010;chrome/browser/history/history_extension_api.cc;31.19;0x0;{namespace};{};{};{}
+GtkButtonWidth;000031.011;chrome/browser/ui/gtk/reload_button_gtk.cc;31.25;0x8;{int};{};{};{}
+InfoBarService;000026.006;chrome/browser/autofill/autofill_manager_delegate.h;26.20;0x0;{class};{};{};{}
+InterruptTransfer;000021.010;chrome/browser/extensions/api/usb/usb_api.cc;21.27;0x0;{namespace};{};{};{}
+IsochronousTransfer;000023.010;chrome/browser/extensions/api/usb/usb_api.cc;23.29;0x0;{namespace};{};{};{}
+JournalFileMethods;069188.033;third_party/sqlite/amalgamation/sqlite3.c;69188.51;0x8;{sqlite3_io_methods};{};{};{}
+LocksInitializedEarly;000090.014;net/third_party/nss/ssl/sslnonce.c;90.35;0x8;{PRBool};{};{};{}
+LogCCLayerSorter;000023.021;cc/CCLayerSorter.cpp;23.37;0x8;{WTFLogChannel};{};{};{}
+LogCCLayerSorter;000025.021;cc/CCLayerSorter.cpp;25.37;0x8;{WTFLogChannel};{};{};{}
+MediaGalleries;000040.010;chrome/browser/extensions/api/media_galleries/media_galleries_api.cc;40.24;0x0;{namespace};{};{};{}
+NameOfThisSharedLib;000137.019;net/third_party/nss/ssl/bodge/loader.c;137.38;0x8;{const char *};{};{};{}
+NavigationController;000034.006;chrome/browser/extensions/browser_event_router.cc;34.35;0x0;{using};{content};{};{}
+NavigationController;000088.006;chrome/browser/extensions/api/tabs/tabs.cc;88.35;0x0;{using};{content};{};{}
+NavigationEntry;000032.006;chrome/browser/extensions/extension_tab_util.cc;32.30;0x0;{using};{content};{};{}
+NavigationEntry;000089.006;chrome/browser/extensions/api/tabs/tabs.cc;89.30;0x0;{using};{content};{};{}
+OnDetach;000054.010;chrome/browser/extensions/api/debugger/debugger_api.cc;54.18;0x0;{namespace};{};{};{}
+OnEvent;000055.010;chrome/browser/extensions/api/debugger/debugger_api.cc;55.17;0x0;{namespace};{};{};{}
+OnVisitRemoved;000033.010;chrome/browser/history/history_extension_api.cc;33.24;0x0;{namespace};{};{};{}
+OnVisited;000032.010;chrome/browser/history/history_extension_api.cc;32.19;0x0;{namespace};{};{};{}
+OpenURLParams;000090.006;chrome/browser/extensions/api/tabs/tabs.cc;90.28;0x0;{using};{content};{};{}
+PNG_IDAT;000039.000;third_party/libpng/png.c;39.8;0x0;{int};{};{};{}
+PNG_IEND;000040.000;third_party/libpng/png.c;40.8;0x0;{int};{};{};{}
+PNG_IHDR;000038.000;third_party/libpng/png.c;38.8;0x0;{int};{};{};{}
+PNG_PLTE;000041.000;third_party/libpng/png.c;41.8;0x0;{int};{};{};{}
+PNG_bKGD;000042.000;third_party/libpng/png.c;42.8;0x0;{int};{};{};{}
+PNG_cHRM;000043.000;third_party/libpng/png.c;43.8;0x0;{int};{};{};{}
+PNG_gAMA;000044.000;third_party/libpng/png.c;44.8;0x0;{int};{};{};{}
+PNG_hIST;000045.000;third_party/libpng/png.c;45.8;0x0;{int};{};{};{}
+PNG_iCCP;000046.000;third_party/libpng/png.c;46.8;0x0;{int};{};{};{}
+PNG_iTXt;000047.000;third_party/libpng/png.c;47.8;0x0;{int};{};{};{}
+PNG_oFFs;000048.000;third_party/libpng/png.c;48.8;0x0;{int};{};{};{}
+PNG_pCAL;000049.000;third_party/libpng/png.c;49.8;0x0;{int};{};{};{}
+PNG_pHYs;000051.000;third_party/libpng/png.c;51.8;0x0;{int};{};{};{}
+PNG_sBIT;000052.000;third_party/libpng/png.c;52.8;0x0;{int};{};{};{}
+PNG_sCAL;000050.000;third_party/libpng/png.c;50.8;0x0;{int};{};{};{}
+PNG_sPLT;000053.000;third_party/libpng/png.c;53.8;0x0;{int};{};{};{}
+PNG_sRGB;000054.000;third_party/libpng/png.c;54.8;0x0;{int};{};{};{}
+PNG_tEXt;000055.000;third_party/libpng/png.c;55.8;0x0;{int};{};{};{}
+PNG_tIME;000056.000;third_party/libpng/png.c;56.8;0x0;{int};{};{};{}
+PNG_tRNS;000057.000;third_party/libpng/png.c;57.8;0x0;{int};{};{};{}
+PNG_zTXt;000058.000;third_party/libpng/png.c;58.8;0x0;{int};{};{};{}
+PasswordFormManager;000014.006;chrome/browser/password_manager/password_manager_delegate.h;14.25;0x0;{class};{};{};{}
+PluginHost;000314.006;webkit/plugins/npapi/plugin_host.cc;314.31;0x0;{using};{webkit::npapi};{};{}
+PluginInstance;000315.006;webkit/plugins/npapi/plugin_host.cc;315.35;0x0;{using};{webkit::npapi};{};{}
+PrefServiceBase;000027.006;chrome/browser/autofill/autofill_manager_delegate.h;27.21;0x0;{class};{};{};{}
+Profile;000015.006;chrome/browser/password_manager/password_manager_delegate.h;15.13;0x0;{class};{};{};{}
+Profile;000023.006;chrome/browser/api/webdata/autofill_web_data.h;23.13;0x0;{class};{};{};{}
+RE2;000841.006;third_party/re2/re2/re2.h;841.14;0x0;{using};{re2};{};{}
+Read;000070.010;chrome/browser/extensions/api/bluetooth/bluetooth_api.cc;70.14;0x0;{namespace};{};{};{}
+Referrer;000091.006;chrome/browser/extensions/api/tabs/tabs.cc;91.23;0x0;{using};{content};{};{}
+Remove;000029.010;chrome/browser/extensions/api/permissions/permissions_api.cc;29.16;0x0;{namespace};{};{};{}
+Remove;000041.010;chrome/browser/extensions/api/cookies/cookies_api.cc;41.16;0x0;{namespace};{};{};{}
+RemoveRules;000021.010;chrome/browser/extensions/api/declarative/declarative_api.cc;21.21;0x0;{namespace};{};{};{}
+RenderViewHost;000092.006;chrome/browser/extensions/api/tabs/tabs.cc;92.29;0x0;{using};{content};{};{}
+Request;000030.010;chrome/browser/extensions/api/permissions/permissions_api.cc;30.17;0x0;{namespace};{};{};{}
+Resolve;000021.010;chrome/browser/extensions/api/dns/dns_api.cc;21.17;0x0;{namespace};{};{};{}
+SaveAsMHTML;000029.010;chrome/browser/extensions/api/page_capture/page_capture_api.cc;29.21;0x0;{namespace};{};{};{}
+ScriptExecutor;000094.006;chrome/browser/extensions/api/tabs/tabs.cc;94.32;0x0;{using};{extensions};{};{}
+Search;000034.010;chrome/browser/history/history_extension_api.cc;34.16;0x0;{namespace};{};{};{}
+SendCommand;000056.010;chrome/browser/extensions/api/debugger/debugger_api.cc;56.21;0x0;{namespace};{};{};{}
+Set;000036.010;chrome/browser/extensions/api/content_settings/content_settings_api.cc;36.13;0x0;{namespace};{};{};{}
+Set;000042.010;chrome/browser/extensions/api/cookies/cookies_api.cc;42.13;0x0;{namespace};{};{};{}
+SetOutOfBandPairingData;000071.010;chrome/browser/extensions/api/bluetooth/bluetooth_api.cc;71.33;0x0;{namespace};{};{};{}
+TemplateURLServiceTestingProfile;000423.015;chrome/browser/webdata/web_data_service.h;423.47;0x0;{class};{};{};{}
+TimeDelta;000048.006;chrome/browser/bookmarks/bookmark_extension_api.cc;48.21;0x0;{using};{base};{};{}
+Unknown;000571.016;third_party/cld/encodings/compact_lang_det/compact_lang_det_impl.cc;571.23;0x8;{Language};{};{};{}
+VP8CollectHistogram;000691.010;third_party/libwebp/dsp/enc.c;691.29;0x0;{VP8CHisto};{};{};{}
+VP8Copy4x4;000706.013;third_party/libwebp/dsp/enc.c;706.23;0x0;{VP8BlockCopy};{};{};{}
+VP8EncHFilter16i;000184.007;third_party/libwebp/enc/filter.c;184.23;0x0;{void (*)()};{};{};{}
+VP8EncHFilter8i;000186.007;third_party/libwebp/enc/filter.c;186.22;0x0;{void (*)()};{};{};{}
+VP8EncPredChroma8;000698.014;third_party/libwebp/dsp/enc.c;698.31;0x0;{VP8IntraPreds};{};{};{}
+VP8EncPredLuma16;000697.014;third_party/libwebp/dsp/enc.c;697.30;0x0;{VP8IntraPreds};{};{};{}
+VP8EncPredLuma4;000696.015;third_party/libwebp/dsp/enc.c;696.30;0x0;{VP8Intra4Preds};{};{};{}
+VP8EncQuantizeBlock;000705.017;third_party/libwebp/dsp/enc.c;705.36;0x0;{VP8QuantizeBlock};{};{};{}
+VP8EncSimpleHFilter16i;000189.007;third_party/libwebp/enc/filter.c;189.29;0x0;{void (*)()};{};{};{}
+VP8EncSimpleVFilter16i;000188.007;third_party/libwebp/enc/filter.c;188.29;0x0;{void (*)()};{};{};{}
+VP8EncVFilter16i;000183.007;third_party/libwebp/enc/filter.c;183.23;0x0;{void (*)()};{};{};{}
+VP8EncVFilter8i;000185.007;third_party/libwebp/enc/filter.c;185.22;0x0;{void (*)()};{};{};{}
+VP8FTransform;000693.008;third_party/libwebp/dsp/enc.c;693.21;0x0;{VP8Fdct};{};{};{}
+VP8FTransformWHT;000695.007;third_party/libwebp/dsp/enc.c;695.23;0x0;{VP8WHT};{};{};{}
+VP8GetCPUInfo;000059.011;third_party/libwebp/dsp/cpu.c;59.24;0x0;{VP8CPUInfo};{};{};{}
+VP8GetCPUInfo;000070.011;third_party/libwebp/dsp/cpu.c;70.24;0x0;{VP8CPUInfo};{};{};{}
+VP8GetCPUInfo;000078.011;third_party/libwebp/dsp/cpu.c;78.24;0x0;{VP8CPUInfo};{};{};{}
+VP8GetCPUInfo;000080.011;third_party/libwebp/dsp/cpu.c;80.24;0x0;{VP8CPUInfo};{};{};{}
+VP8HFilter16;000680.018;third_party/libwebp/dsp/dec.c;680.30;0x0;{VP8LumaFilterFunc};{};{};{}
+VP8HFilter16i;000684.018;third_party/libwebp/dsp/dec.c;684.31;0x0;{VP8LumaFilterFunc};{};{};{}
+VP8HFilter8;000682.020;third_party/libwebp/dsp/dec.c;682.31;0x0;{VP8ChromaFilterFunc};{};{};{}
+VP8HFilter8i;000686.020;third_party/libwebp/dsp/dec.c;686.32;0x0;{VP8ChromaFilterFunc};{};{};{}
+VP8ITransform;000692.008;third_party/libwebp/dsp/enc.c;692.21;0x0;{VP8Idct};{};{};{}
+VP8ITransformWHT;000694.007;third_party/libwebp/dsp/enc.c;694.23;0x0;{VP8WHT};{};{};{}
+VP8SSE16x16;000699.010;third_party/libwebp/dsp/enc.c;699.21;0x0;{VP8Metric};{};{};{}
+VP8SSE16x8;000701.010;third_party/libwebp/dsp/enc.c;701.20;0x0;{VP8Metric};{};{};{}
+VP8SSE4x4;000702.010;third_party/libwebp/dsp/enc.c;702.19;0x0;{VP8Metric};{};{};{}
+VP8SSE8x8;000700.010;third_party/libwebp/dsp/enc.c;700.19;0x0;{VP8Metric};{};{};{}
+VP8SimpleHFilter16;000688.020;third_party/libwebp/dsp/dec.c;688.38;0x0;{VP8SimpleFilterFunc};{};{};{}
+VP8SimpleHFilter16i;000690.020;third_party/libwebp/dsp/dec.c;690.39;0x0;{VP8SimpleFilterFunc};{};{};{}
+VP8SimpleVFilter16;000687.020;third_party/libwebp/dsp/dec.c;687.38;0x0;{VP8SimpleFilterFunc};{};{};{}
+VP8SimpleVFilter16i;000689.020;third_party/libwebp/dsp/dec.c;689.39;0x0;{VP8SimpleFilterFunc};{};{};{}
+VP8TDisto16x16;000704.011;third_party/libwebp/dsp/enc.c;704.25;0x0;{VP8WMetric};{};{};{}
+VP8TDisto4x4;000703.011;third_party/libwebp/dsp/enc.c;703.23;0x0;{VP8WMetric};{};{};{}
+VP8Transform;000674.012;third_party/libwebp/dsp/dec.c;674.24;0x0;{VP8DecIdct2};{};{};{}
+VP8TransformDC;000676.011;third_party/libwebp/dsp/dec.c;676.25;0x0;{VP8DecIdct};{};{};{}
+VP8TransformDCUV;000677.011;third_party/libwebp/dsp/dec.c;677.27;0x0;{VP8DecIdct};{};{};{}
+VP8TransformUV;000675.011;third_party/libwebp/dsp/dec.c;675.25;0x0;{VP8DecIdct};{};{};{}
+VP8TransformWHT;000167.007;third_party/libwebp/dsp/dec.c;167.22;0x0;{void (*)()};{};{};{}
+VP8VFilter16;000679.018;third_party/libwebp/dsp/dec.c;679.30;0x0;{VP8LumaFilterFunc};{};{};{}
+VP8VFilter16i;000683.018;third_party/libwebp/dsp/dec.c;683.31;0x0;{VP8LumaFilterFunc};{};{};{}
+VP8VFilter8;000681.020;third_party/libwebp/dsp/dec.c;681.31;0x0;{VP8ChromaFilterFunc};{};{};{}
+VP8VFilter8i;000685.020;third_party/libwebp/dsp/dec.c;685.32;0x0;{VP8ChromaFilterFunc};{};{};{}
+VP8kClip;000022.008;third_party/libwebp/dsp/yuv.c;22.16;0x0;{uint8_t []};{};{};{}
+VP8kClip4Bits;000023.008;third_party/libwebp/dsp/yuv.c;23.21;0x0;{uint8_t []};{};{};{}
+VP8kUToB;000020.023;third_party/libwebp/dsp/yuv.c;20.31;0x0;{int16_t []};{};{};{}
+VP8kUToG;000021.023;third_party/libwebp/dsp/yuv.c;21.31;0x0;{int32_t []};{};{};{}
+VP8kVToG;000021.008;third_party/libwebp/dsp/yuv.c;21.16;0x0;{int32_t []};{};{};{}
+VP8kVToR;000020.008;third_party/libwebp/dsp/yuv.c;20.16;0x0;{int16_t []};{};{};{}
+WGC3Dbitfield;000033.006;webkit/gpu/webgraphicscontext3d_in_process_command_buffer_impl.h;33.27;0x0;{using};{WebKit};{};{}
+WGC3Dbitfield;000048.006;content/common/gpu/client/webgraphicscontext3d_command_buffer_impl.h;48.27;0x0;{using};{WebKit};{};{}
+WGC3Dboolean;000032.006;webkit/gpu/webgraphicscontext3d_in_process_command_buffer_impl.h;32.26;0x0;{using};{WebKit};{};{}
+WGC3Dboolean;000047.006;content/common/gpu/client/webgraphicscontext3d_command_buffer_impl.h;47.26;0x0;{using};{WebKit};{};{}
+WGC3Dbyte;000029.006;webkit/gpu/webgraphicscontext3d_in_process_command_buffer_impl.h;29.23;0x0;{using};{WebKit};{};{}
+WGC3Dbyte;000044.006;content/common/gpu/client/webgraphicscontext3d_command_buffer_impl.h;44.23;0x0;{using};{WebKit};{};{}
+WGC3Dchar;000030.006;webkit/gpu/webgraphicscontext3d_in_process_command_buffer_impl.h;30.23;0x0;{using};{WebKit};{};{}
+WGC3Dchar;000045.006;content/common/gpu/client/webgraphicscontext3d_command_buffer_impl.h;45.23;0x0;{using};{WebKit};{};{}
+WGC3Dclampf;000038.006;webkit/gpu/webgraphicscontext3d_in_process_command_buffer_impl.h;38.25;0x0;{using};{WebKit};{};{}
+WGC3Dclampf;000053.006;content/common/gpu/client/webgraphicscontext3d_command_buffer_impl.h;53.25;0x0;{using};{WebKit};{};{}
+WGC3Denum;000031.006;webkit/gpu/webgraphicscontext3d_in_process_command_buffer_impl.h;31.23;0x0;{using};{WebKit};{};{}
+WGC3Denum;000046.006;content/common/gpu/client/webgraphicscontext3d_command_buffer_impl.h;46.23;0x0;{using};{WebKit};{};{}
+WGC3Dfloat;000037.006;webkit/gpu/webgraphicscontext3d_in_process_command_buffer_impl.h;37.24;0x0;{using};{WebKit};{};{}
+WGC3Dfloat;000052.006;content/common/gpu/client/webgraphicscontext3d_command_buffer_impl.h;52.24;0x0;{using};{WebKit};{};{}
+WGC3Dint;000034.006;webkit/gpu/webgraphicscontext3d_in_process_command_buffer_impl.h;34.22;0x0;{using};{WebKit};{};{}
+WGC3Dint;000049.006;content/common/gpu/client/webgraphicscontext3d_command_buffer_impl.h;49.22;0x0;{using};{WebKit};{};{}
+WGC3Dintptr;000039.006;webkit/gpu/webgraphicscontext3d_in_process_command_buffer_impl.h;39.25;0x0;{using};{WebKit};{};{}
+WGC3Dintptr;000054.006;content/common/gpu/client/webgraphicscontext3d_command_buffer_impl.h;54.25;0x0;{using};{WebKit};{};{}
+WGC3Dsizei;000035.006;webkit/gpu/webgraphicscontext3d_in_process_command_buffer_impl.h;35.24;0x0;{using};{WebKit};{};{}
+WGC3Dsizei;000050.006;content/common/gpu/client/webgraphicscontext3d_command_buffer_impl.h;50.24;0x0;{using};{WebKit};{};{}
+WGC3Dsizeiptr;000040.006;webkit/gpu/webgraphicscontext3d_in_process_command_buffer_impl.h;40.27;0x0;{using};{WebKit};{};{}
+WGC3Dsizeiptr;000055.006;content/common/gpu/client/webgraphicscontext3d_command_buffer_impl.h;55.27;0x0;{using};{WebKit};{};{}
+WGC3Duint;000036.006;webkit/gpu/webgraphicscontext3d_in_process_command_buffer_impl.h;36.23;0x0;{using};{WebKit};{};{}
+WGC3Duint;000051.006;content/common/gpu/client/webgraphicscontext3d_command_buffer_impl.h;51.23;0x0;{using};{WebKit};{};{}
+WebContents;000033.006;chrome/browser/extensions/extension_tab_util.cc;33.26;0x0;{using};{content};{};{}
+WebContents;000035.006;chrome/browser/extensions/browser_event_router.cc;35.26;0x0;{using};{content};{};{}
+WebContents;000039.006;chrome/browser/bookmarks/bookmark_manager_extension_api.cc;39.26;0x0;{using};{content};{};{}
+WebContents;000051.006;chrome/browser/bookmarks/bookmark_extension_api.cc;51.26;0x0;{using};{content};{};{}
+WebContents;000093.006;chrome/browser/extensions/api/tabs/tabs.cc;93.26;0x0;{using};{content};{};{}
+WebDataRequest;000425.015;chrome/browser/webdata/web_data_service.h;425.29;0x0;{class};{};{};{}
+WebDataServiceConsumer;000024.006;chrome/browser/api/webdata/autofill_web_data.h;24.28;0x0;{class};{};{};{}
+WebDataServiceTest;000424.015;chrome/browser/webdata/web_data_service.h;424.33;0x0;{class};{};{};{}
+WebGLId;000027.006;webkit/gpu/webgraphicscontext3d_in_process_command_buffer_impl.h;27.21;0x0;{using};{WebKit};{};{}
+WebGLId;000042.006;content/common/gpu/client/webgraphicscontext3d_command_buffer_impl.h;42.21;0x0;{using};{WebKit};{};{}
+WebPApplyAlphaMultiply;000304.007;third_party/libwebp/dsp/upsampling.c;304.29;0x0;{void (*)()};{};{};{}
+WebPApplyAlphaMultiply4444;000306.007;third_party/libwebp/dsp/upsampling.c;306.33;0x0;{void (*)()};{};{};{}
+WebPSamplers;000145.029;third_party/libwebp/dsp/upsampling.c;145.41;0x0;{WebPSampleLinePairFunc []};{};{};{}
+WebPUpsamplers;000025.025;third_party/libwebp/dsp/upsampling.c;25.39;0x0;{WebPUpsampleLinePairFunc []};{};{};{}
+WebPUpsamplers;000189.032;third_party/libwebp/dsp/upsampling_sse2.c;189.46;0x0;{WebPUpsampleLinePairFunc []};{};{};{}
+WebPYUV444Converters;000221.026;third_party/libwebp/dsp/upsampling.c;221.46;0x0;{WebPYUV444Converter []};{};{};{}
+WebPlugin;000316.006;webkit/plugins/npapi/plugin_host.cc;316.30;0x0;{using};{webkit::npapi};{};{}
+WebPluginAcceleratedSurfaceProxy;000043.006;content/plugin/webplugin_proxy.h;43.38;0x0;{class};{};{};{}
+WindowController;000095.006;chrome/browser/extensions/api/tabs/tabs.cc;95.34;0x0;{using};{extensions};{};{}
+WindowControllerList;000096.006;chrome/browser/extensions/api/tabs/tabs.cc;96.38;0x0;{using};{extensions};{};{}
+Write;000073.010;chrome/browser/extensions/api/bluetooth/bluetooth_api.cc;73.15;0x0;{namespace};{};{};{}
+XML_XML_DEFAULT_CATALOG;000079.012;third_party/libxml/src/catalog.c;79.35;0x8;{char []};{};{};{}
+__ImageBase;000013.028;base/file_version_info.h;13.39;0x0;{IMAGE_DOS_HEADER};{};{};{}
+__ImageBase;000054.028;chrome/browser/metrics/metrics_log.cc;54.39;0x0;{IMAGE_DOS_HEADER};{};{};{}
+__xmlRegisterCallbacks;000044.004;third_party/libxml/src/tree.c;44.26;0x0;{int};{};{};{}
+__xmlRegisterCallbacks;000061.011;third_party/libxml/src/libxml.h;61.33;0x0;{int};{};{};{}
+_buf;000072.024;third_party/libevent/event_tagging.c;72.28;0x8;{evbuffer *};{};{};{}
+_caches;000051.022;base/third_party/xdg_mime/xdgmimecache.h;51.29;0x0;{XdgMimeCache **};{};{};{}
+_caches;000063.015;base/third_party/xdg_mime/xdgmime.c;63.22;0x0;{XdgMimeCache **};{};{};{}
+_dist_code;000103.004;third_party/zlib/trees.c;103.14;0x0;{uch []};{};{};{}
+_dist_code;000318.027;third_party/zlib/deflate.h;318.37;0x0;{ZLIB_INTERNAL []};{};{};{}
+_length_code;000109.004;third_party/zlib/trees.c;109.16;0x0;{uch []};{};{};{}
+_length_code;000317.027;third_party/zlib/deflate.h;317.39;0x0;{ZLIB_INTERNAL []};{};{};{}
+_mmx_supported;000011.011;third_party/libpng/pnggccrd.c;11.25;0x8;{int};{};{};{}
+_nvctrl_ext_info_data;000050.022;third_party/libXNVCtrl/NVCtrl.c;50.43;0x8;{XExtensionInfo};{};{};{}
+_xdg_utf8_skip;000055.019;base/third_party/xdg_mime/xdgmimeint.c;55.33;0x0;{const char *const };{};{};{}
+_xdg_utf8_skip;000066.025;base/third_party/xdg_mime/xdgmimeint.h;66.39;0x0;{const char *const };{};{};{}
+aSyscall;024442.002;third_party/sqlite/amalgamation/sqlite3.c;24442.10;0x8;{unix_syscall []};{};{};{}
+aborted_;000154.007;ppapi/shared_impl/tracked_callback.h;154.15;0x0;{bool};{};{};{}
+abs0;000019.015;third_party/libwebp/enc/filter.c;19.19;0x8;{uint8_t []};{};{};{}
+abs0;000022.015;third_party/libwebp/dsp/dec.c;22.19;0x8;{uint8_t []};{};{};{}
+abs1;000020.015;third_party/libwebp/enc/filter.c;20.19;0x8;{uint8_t []};{};{};{}
+abs1;000023.015;third_party/libwebp/dsp/dec.c;23.19;0x8;{uint8_t []};{};{};{}
+adaptive_spin_count;000052.011;third_party/tcmalloc/chromium/src/base/spinlock.cc;52.30;0x8;{int};{};{};{}
+alarms;000014.010;chrome/browser/extensions/api/alarms/alarms_api.cc;14.16;0x0;{namespace};{};{};{}
+alias_list;000056.021;base/third_party/xdg_mime/xdgmime.c;56.31;0x8;{XdgAliasList *};{};{};{}
+all_bridges;000067.004;content/common/socket_stream_dispatcher.cc;67.47;0x0;{base::LazyInstance<IDMap<IPCWebSocketStreamHandleBridge>>::Leaky};{IPCWebSocketStreamHandleBridge};{};{}
+allowedByPolicy;000155.016;net/third_party/nss/ssl/sslcon.c;155.31;0x8;{PRUint16};{};{};{}
+alpha_lower_list;000062.012;third_party/libxslt/libxslt/numbers.c;62.28;0x8;{char []};{};{};{}
+alpha_upper_list;000061.012;third_party/libxslt/libxslt/numbers.c;61.28;0x8;{char []};{};{};{}
+animations_enabled_;000027.005;chrome/browser/ui/gtk/slide_animator_gtk.cc;27.42;0x0;{boolanonymous};{SlideAnimatorGtk};{};{}
+app_window;000020.010;chrome/browser/extensions/api/app_window/app_window_api.cc;20.20;0x0;{namespace};{};{};{}
+arena_;000142.022;third_party/tcmalloc/chromium/src/memory_region_map.cc;142.45;0x0;{int LowLevelAlloc::Arena *};{MemoryRegionMap};{};{}
+attachment;000012.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;12.33;0x0;{ValueValidator<GLenum>};{};{};{}
+autocomplete_syncable_service_;000588.031;chrome/browser/webdata/web_data_service.h;588.61;0x0;{AutocompleteSyncableService *};{};{};{}
+autofill_profile_syncable_service_;000589.034;chrome/browser/webdata/web_data_service.h;589.68;0x0;{AutofillProfileSyncableService *};{};{};{}
+autolockIoFinder;028554.011;third_party/sqlite/amalgamation/sqlite3.c;28554.27;0x8;{const sqlite3_io_methods *(*const )()};{};{};{}
+autolockIoFinder;028592.011;third_party/sqlite/amalgamation/sqlite3.c;28592.27;0x8;{const sqlite3_io_methods *(*const )()};{};{};{}
+base_dist;000115.010;third_party/zlib/trees.c;115.19;0x0;{int local []};{};{};{}
+base_length;000112.010;third_party/zlib/trees.c;112.21;0x0;{int local []};{};{};{}
+bits;000037.014;third_party/zlib/inftrees.c;37.18;0x0;{unsigned FAR *};{};{};{}
+blLib;000140.018;net/third_party/nss/ssl/bodge/loader.c;140.23;0x8;{PRLibrary *};{};{};{}
+blit_filter;000013.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;13.34;0x0;{ValueValidator<GLenum>};{};{};{}
+block;000117.020;third_party/libxml/src/xmlmemory.c;117.25;0x8;{unsigned int};{};{};{}
+block_activation_;000029.005;chrome/browser/ui/gtk/menu_gtk.cc;29.31;0x0;{bool};{MenuGtk};{};{}
+body_nine_box_active_;000096.009;chrome/browser/ui/gtk/download/download_item_gtk.cc;96.47;0x0;{NineBox *};{DownloadItemGtk};{};{}
+body_nine_box_normal_;000094.009;chrome/browser/ui/gtk/download/download_item_gtk.cc;94.47;0x0;{NineBox *};{DownloadItemGtk};{};{}
+body_nine_box_prelight_;000095.009;chrome/browser/ui/gtk/download/download_item_gtk.cc;95.49;0x0;{NineBox *};{DownloadItemGtk};{};{}
+bookmarks;000046.010;chrome/browser/bookmarks/bookmark_extension_api.cc;46.19;0x0;{namespace};{};{};{}
+browser_accessibility_parent_class;000020.016;content/browser/accessibility/browser_accessibility_gtk.cc;20.50;0x8;{gpointer};{};{};{}
+buf;002871.065;third_party/libpng/png.h;2871.68;0x0;{PNGARG (())};{};{};{}
+buf;002872.065;third_party/libpng/png.h;2872.68;0x0;{PNGARG (())};{};{};{}
+buf;002873.063;third_party/libpng/png.h;2873.66;0x0;{PNGARG (())};{};{};{}
+buffer_parameter;000014.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;14.39;0x0;{ValueValidator<GLenum>};{};{};{}
+buffer_target;000015.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;15.36;0x0;{ValueValidator<GLenum>};{};{};{}
+buffer_usage;000016.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;16.35;0x0;{ValueValidator<GLenum>};{};{};{}
+cache;000057.021;net/third_party/nss/ssl/sslnonce.c;57.26;0x8;{sslSessionID *};{};{};{}
+cacheLock;000058.021;net/third_party/nss/ssl/sslnonce.c;58.30;0x8;{PZLock *};{};{};{}
+cached_data;000189.030;chrome/browser/extensions/api/idle/idle_api.cc;189.61;0x0;{ExtensionIdleCache::CacheData};{ExtensionIdleCache};{};{}
+calibration;001774.012;third_party/libxslt/libxslt/xsltutils.c;1774.23;0x8;{long};{};{};{}
+callback_;000155.024;ppapi/shared_impl/tracked_callback.h;155.33;0x0;{PP_CompletionCallback};{};{};{}
+callback_list;000059.024;base/third_party/xdg_mime/xdgmime.c;59.37;0x8;{XdgCallbackList *};{};{};{}
+capability;000017.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;17.33;0x0;{ValueValidator<GLenum>};{};{};{}
+capacity_;000152.006;net/http/http_stream_parser.cc;152.15;0x0;{int};{};{};{}
+capacity_;000335.009;base/pickle.h;335.18;0x0;{size_t};{};{};{}
+captive_portal_service_;000134.024;chrome/browser/captive_portal/captive_portal_service.cc;134.47;0x0;{CaptivePortalService *};{};{};{}
+checked_sections;000619.012;third_party/tcmalloc/chromium/src/malloc_hook.cc;619.28;0x8;{bool};{};{};{}
+child_process_;000027.014;content/common/child_process.cc;27.42;0x0;{ChildProcess *};{ChildProcess};{};{}
+chosenPreference;000157.016;net/third_party/nss/ssl/sslcon.c;157.32;0x8;{PRUint16};{};{};{}
+cipherSuites;000114.026;net/third_party/nss/ssl/ssl3con.c;114.38;0x8;{ssl3CipherSuiteCfg []};{};{};{}
+clean_shutdown_status_;000364.036;chrome/browser/metrics/metrics_service.cc;364.74;0x0;{MetricsService::ShutdownCleanliness};{MetricsService};{};{}
+cleanup_helpers_cs;000624.024;third_party/libxml/src/threads.c;624.42;0x8;{CRITICAL_SECTION};{};{};{}
+cleanup_helpers_head;000623.042;third_party/libxml/src/threads.c;623.62;0x8;{xmlGlobalStateCleanupHelperParams *};{};{};{}
+client_;000131.015;webkit/quota/usage_tracker.cc;131.22;0x0;{QuotaClient *};{};{};{}
+client_count_;000139.004;third_party/tcmalloc/chromium/src/memory_region_map.cc;139.34;0x0;{int};{MemoryRegionMap};{};{}
+client_tracker_;000133.036;webkit/quota/usage_tracker.cc;133.51;0x0;{base::WeakPtr<ClientUsageTracker>};{};{};{}
+clip1;000023.015;third_party/libwebp/enc/filter.c;23.20;0x8;{uint8_t []};{};{};{}
+clip1;000026.015;third_party/libwebp/dsp/dec.c;26.20;0x8;{uint8_t []};{};{};{}
+clip1;000082.015;third_party/libwebp/dsp/enc.c;82.20;0x8;{uint8_t []};{};{};{}
+close_button_height_;000157.004;chrome/browser/ui/gtk/tabs/tab_renderer_gtk.cc;157.40;0x0;{int};{TabRendererGtk};{};{}
+close_button_width_;000156.004;chrome/browser/ui/gtk/tabs/tab_renderer_gtk.cc;156.39;0x0;{int};{TabRendererGtk};{};{}
+cmp_function;000018.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;18.35;0x0;{ValueValidator<GLenum>};{};{};{}
+codes;000035.009;third_party/zlib/inftrees.c;35.14;0x0;{unsigned int};{};{};{}
+combined_methods;002765.019;net/third_party/nss/ssl/sslsock.c;2765.35;0x8;{PRIOMethods};{};{};{}
+completed_;000153.007;ppapi/shared_impl/tracked_callback.h;153.17;0x0;{bool};{};{};{}
+completion_callback_map_;000032.004;chrome/browser/automation/automation_resource_message_filter.cc;32.61;0x0;{base::LazyInstance<AutomationResourceMessageFilter::CompletionCallbackMap>};{AutomationResourceMessageFilter};{};{}
+composite_alpha_;000106.007;skia/ext/canvas_paint_gtk.h;106.23;0x0;{bool};{};{};{}
+composite_alpha_;000108.007;skia/ext/canvas_paint_mac.h;108.23;0x0;{bool};{};{};{}
+compressed_texture_format;000019.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;19.48;0x0;{ValueValidator<GLenum>};{};{};{}
+connNum;008279.015;net/third_party/nss/ssl/ssl3con.c;8279.22;0x8;{PRInt32};{};{};{}
+constants;000015.010;chrome/browser/speech/extension_api/tts_extension_api.cc;15.19;0x0;{namespace};{};{};{}
+constants;000020.010;chrome/browser/speech/extension_api/tts_engine_extension_api.cc;20.19;0x0;{namespace};{};{};{}
+constants;000021.010;chrome/browser/speech/extension_api/tts_extension_api_controller.cc;21.19;0x0;{namespace};{};{};{}
+context_;000102.011;skia/ext/canvas_paint_gtk.h;102.19;0x0;{cairo_t *};{};{};{}
+context_;000105.013;skia/ext/canvas_paint_mac.h;105.21;0x0;{CGContext *};{};{};{}
+cpuinfo_cycles_per_second;000218.014;third_party/tcmalloc/chromium/src/base/sysinfo.cc;218.39;0x8;{double};{};{};{}
+cpuinfo_num_cpus;000219.011;third_party/tcmalloc/chromium/src/base/sysinfo.cc;219.27;0x8;{int};{};{};{}
+crashed;000053.012;third_party/tcmalloc/chromium/src/internal_logging.cc;53.19;0x8;{bool};{};{};{}
+crc_table;000077.024;third_party/zlib/crc32.c;77.33;0x0;{unsigned long FAR [][]};{};{};{}
+crc_table_empty;000076.019;third_party/zlib/crc32.c;76.34;0x100;{volatile int local};{};{};{}
+create_readme_delay_ms;000206.004;chrome/browser/profiles/profile_impl.cc;206.39;0x0;{int};{ProfileImpl};{};{}
+current_base;000108.019;third_party/libevent/event.c;108.31;0x0;{event_base *};{};{};{}
+current_extension_popup_;000032.019;chrome/browser/ui/gtk/extensions/extension_popup_gtk.cc;32.62;0x0;{ExtensionPopupGtk *};{ExtensionPopupGtk};{};{}
+current_instance;000198.024;third_party/tcmalloc/chromium/src/malloc_extension.cc;198.40;0x8;{MallocExtension *};{};{};{}
+current_notification_;000146.020;chrome/browser/speech/extension_api/tts_extension_api_linux.cc;146.66;0x0;{SPDNotificationType};{SpeechDispatcherWrapper};{};{}
+current_process_commandline_;000023.013;base/command_line.cc;23.54;0x0;{CommandLine *};{CommandLine};{};{}
+custom_menu_item_signals;000065.013;chrome/browser/ui/gtk/gtk_custom_menu_item.cc;65.37;0x8;{guint []};{};{};{}
+dangerous_nine_box_;000102.009;chrome/browser/ui/gtk/download/download_item_gtk.cc;102.45;0x0;{NineBox *};{DownloadItemGtk};{};{}
+dark_tick_;000317.008;chrome/browser/internal_auth.cc;317.18;0x0;{int64};{};{};{}
+data_sources_;000041.035;chrome/browser/ui/webui/chrome_url_data_manager.cc;41.70;0x0;{int ChromeURLDataManager::DataSources *};{ChromeURLDataManager};{};{}
+db_;000581.015;chrome/browser/webdata/web_data_service.h;581.18;0x0;{WebDatabase *};{};{};{}
+debug;000197.011;third_party/libevent/http.c;197.16;0x0;{int};{};{};{}
+debugMaxMemSize;000054.022;third_party/libxml/src/xmlmemory.c;54.37;0x8;{unsigned long};{};{};{}
+debugMemBlocks;000053.022;third_party/libxml/src/xmlmemory.c;53.36;0x8;{unsigned long};{};{};{}
+debugMemSize;000052.022;third_party/libxml/src/xmlmemory.c;52.34;0x8;{unsigned long};{};{};{}
+deep_profile;000216.024;third_party/tcmalloc/chromium/src/heap-profiler.cc;216.36;0x8;{DeepHeapProfile *};{};{};{}
+default_arena;000202.035;third_party/tcmalloc/chromium/src/base/low_level_alloc.cc;202.48;0x8;{::Arena};{};{};{}
+default_bookmark_icon_;000249.031;chrome/browser/ui/gtk/gtk_theme_service.cc;249.70;0x0;{base::LazyInstance<gfx::Image>};{GtkThemeService};{};{}
+default_context_lock;000044.027;third_party/libusb/src/libusb/core.c;44.47;0x8;{usbi_mutex_static_t};{};{};{}
+default_context_refcnt;000043.011;third_party/libusb/src/libusb/core.c;43.33;0x8;{int};{};{};{}
+default_folder_icon_;000247.031;chrome/browser/ui/gtk/gtk_theme_service.cc;247.68;0x0;{base::LazyInstance<gfx::Image>};{GtkThemeService};{};{}
+default_icon;000036.023;chrome/browser/ui/search_engines/template_url_table_model.cc;36.35;0x8;{int gfx::ImageSkia *};{};{};{}
+default_icon_;000030.016;chrome/browser/task_manager/task_manager_notification_resource_provider.cc;30.62;0x0;{int gfx::ImageSkia *};{TaskManagerNotificationResource};{};{}
+default_icon_;000073.016;chrome/browser/task_manager/task_manager_worker_resource_provider.cc;73.62;0x0;{int gfx::ImageSkia *};{TaskManagerSharedWorkerResource};{};{}
+default_icon_;000725.016;chrome/browser/task_manager/task_manager_resource_providers.cc;725.68;0x0;{int gfx::ImageSkia *};{TaskManagerBackgroundContentsResource};{};{}
+default_icon_;000982.016;chrome/browser/task_manager/task_manager_resource_providers.cc;982.62;0x0;{int gfx::ImageSkia *};{TaskManagerChildProcessResource};{};{}
+default_icon_;001305.016;chrome/browser/task_manager/task_manager_resource_providers.cc;1305.66;0x0;{int gfx::ImageSkia *};{TaskManagerExtensionProcessResource};{};{}
+default_icon_;001562.016;chrome/browser/task_manager/task_manager_resource_providers.cc;1562.64;0x0;{int gfx::ImageSkia *};{TaskManagerBrowserProcessResource};{};{}
+default_name;000048.019;net/third_party/nss/ssl/bodge/loader.c;48.31;0x8;{const char *};{};{};{}
+default_space;000191.012;third_party/tcmalloc/chromium/src/system-alloc.cc;191.25;0x8;{char []};{};{};{}
+default_token;000063.023;third_party/libxslt/libxslt/numbers.c;63.36;0x8;{xsltFormatToken};{};{};{}
+delegate_;000357.041;chrome/browser/download/download_request_limiter.cc;357.74;0x0;{int DownloadRequestLimiter::TestingDelegate *};{DownloadRequestLimiter};{};{}
+delete_hook_;000303.006;third_party/tcmalloc/chromium/src/malloc_hook.cc;303.34;0x0;{using};{base::internal};{};{}
+delete_hooks_;000314.006;third_party/tcmalloc/chromium/src/malloc_hook.cc;314.35;0x0;{using};{base::internal};{};{}
+deprecated_v1_msg;000746.011;third_party/libxml/src/legacy.c;746.28;0x8;{int};{};{};{}
+dir_time_list;000058.023;base/third_party/xdg_mime/xdgmime.c;58.36;0x8;{XdgDirTimeList *};{};{};{}
+disable_enforcing_cookie_policies_for_tests_;000485.005;chrome/browser/chrome_browser_main.cc;485.73;0x0;{bool anonymouschrome_browser};{ChromeBrowserMainParts};{};{}
+disabled_;000044.005;chrome/browser/autocomplete/history_quick_provider.cc;44.36;0x0;{bool};{HistoryQuickProvider};{};{}
+discovery;000015.010;chrome/browser/extensions/api/discovery/discovery_api.cc;15.19;0x0;{namespace};{};{};{}
+dispatch_event_;000213.016;ipc/ipc_sync_channel.cc;213.31;0x0;{WaitableEvent};{};{};{}
+docbDefaultSAXHandler;000256.026;third_party/libxml/src/include/libxml/globals.h;256.47;0x0;{xmlSAXHandlerV1};{};{};{}
+docbDefaultSAXHandler;000473.016;third_party/libxml/src/globals.c;473.37;0x0;{xmlSAXHandlerV1};{};{};{}
+done;000025.011;third_party/libwebp/dsp/yuv.c;25.15;0x8;{int};{};{};{}
+draw_mode;000020.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;20.32;0x0;{ValueValidator<GLenum>};{};{};{}
+dst_blend_factor;000021.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;21.39;0x0;{ValueValidator<GLenum>};{};{};{}
+dtoa_lock_0;000014.004;base/third_party/dmg_fp/dtoa_wrapper.cc;14.15;0x8;{base::LazyInstance<base::Lock>::Leaky};{};{};{}
+dtoa_lock_1;000016.004;base/third_party/dmg_fp/dtoa_wrapper.cc;16.15;0x8;{base::LazyInstance<base::Lock>::Leaky};{};{};{}
+dump_count;000209.013;third_party/tcmalloc/chromium/src/heap-profiler.cc;209.23;0x8;{int};{};{};{}
+dumping;000206.013;third_party/tcmalloc/chromium/src/heap-profiler.cc;206.20;0x8;{bool};{};{};{}
+em;000010.010;chrome/browser/policy/cloud_policy_service.cc;10.12;0x0;{namespace};{};{};{}
+em;000011.010;chrome/browser/policy/cloud_policy_data_store.cc;11.12;0x0;{namespace};{};{};{}
+em;000013.010;chrome/browser/policy/cloud_policy_client.cc;13.12;0x0;{namespace};{};{};{}
+em;000014.010;chrome/browser/policy/cloud_policy_cache_base.cc;14.12;0x0;{namespace};{};{};{}
+em;000017.010;chrome/browser/policy/user_cloud_policy_store.cc;17.12;0x0;{namespace};{};{};{}
+em;000017.010;chrome/browser/policy/user_policy_disk_cache.cc;17.12;0x0;{namespace};{};{};{}
+em;000019.010;chrome/browser/policy/cloud_policy_validator.cc;19.12;0x0;{namespace};{};{};{}
+em;000020.010;chrome/browser/policy/user_policy_cache.cc;20.12;0x0;{namespace};{};{};{}
+em;000021.010;chrome/browser/policy/device_token_fetcher.cc;21.12;0x0;{namespace};{};{};{}
+em;000041.010;chrome/browser/policy/device_management_service.cc;41.12;0x0;{namespace};{};{};{}
+emptyExp;000148.024;third_party/libxml/src/include/libxml/xmlregexp.h;148.32;0x0;{xmlExpNodePtr};{};{};{}
+emptyExp;006453.014;third_party/libxml/src/xmlregexp.c;6453.22;0x0;{xmlExpNodePtr};{};{};{}
+emptyExpNode;006450.018;third_party/libxml/src/xmlregexp.c;6450.30;0x8;{xmlExpNode};{};{};{}
+engine_;000304.027;chrome/browser/internal_auth.cc;304.34;0x0;{scoped_ptr<crypto::HMAC>};{};{};{}
+entry_type_;000434.012;chrome/browser/extensions/api/file_system/file_system_api.cc;434.23;0x0;{EntryType};{};{};{}
+environ;000048.014;content/common/set_process_title_linux.cc;48.21;0x0;{char **};{};{};{}
+environ;000049.014;base/process_util_posix.cc;49.21;0x0;{char **};{};{};{}
+equation;000022.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;22.31;0x0;{ValueValidator<GLenum>};{};{};{}
+errno;000040.015;third_party/zlib/zutil.h;40.20;0x0;{int};{};{};{}
+errno;000042.015;third_party/zlib/contrib/minizip/zip.c;42.20;0x0;{int};{};{};{}
+errno;000088.015;third_party/zlib/contrib/minizip/unzip.c;88.20;0x0;{int};{};{};{}
+errno;000144.008;third_party/zlib/zutil.c;144.13;0x0;{int};{};{};{}
+errors;000017.010;chrome/common/extensions/manifest.cc;17.16;0x0;{namespace};{};{};{}
+errors;000018.010;chrome/common/extensions/command.cc;18.16;0x0;{namespace};{};{};{}
+errors;000024.010;chrome/common/extensions/message_bundle.cc;24.16;0x0;{namespace};{};{};{}
+errors;000026.010;chrome/common/extensions/extension_l10n_util.cc;26.16;0x0;{namespace};{};{};{}
+errors;000031.010;chrome/browser/extensions/installed_loader.cc;31.16;0x0;{namespace};{};{};{}
+errors;000032.010;chrome/common/extensions/unpacker.cc;32.16;0x0;{namespace};{};{};{}
+errors;000036.010;chrome/common/extensions/extension_file_util.cc;36.16;0x0;{namespace};{};{};{}
+errors;000061.010;chrome/common/extensions/extension.cc;61.16;0x0;{namespace};{};{};{}
+errors;000085.010;chrome/browser/extensions/api/tabs/tabs.cc;85.16;0x0;{namespace};{};{};{}
+errors;000143.010;chrome/browser/extensions/extension_service.cc;143.16;0x0;{namespace};{};{};{}
+evdns_log_fn;000398.031;third_party/libevent/evdns.c;398.43;0x8;{evdns_debug_log_fn_type};{};{};{}
+event_names;000022.010;chrome/browser/extensions/window_event_router.cc;22.21;0x0;{namespace};{};{};{}
+events;000030.010;chrome/browser/extensions/browser_event_router.cc;30.16;0x0;{namespace};{};{};{}
+events;000053.010;chrome/browser/extensions/api/offscreen_tabs/offscreen_tabs_api.cc;53.16;0x0;{namespace};{};{};{}
+events;000058.010;chrome/browser/extensions/api/management/management_api.cc;58.16;0x0;{namespace};{};{};{}
+evsignal_base;000066.019;third_party/libevent/signal.c;66.32;0x0;{event_base *};{};{};{}
+evsignal_base;000109.026;third_party/libevent/event.c;109.39;0x0;{event_base *};{};{};{}
+face_mode;000023.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;23.32;0x0;{ValueValidator<GLenum>};{};{};{}
+face_type;000024.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;24.32;0x0;{ValueValidator<GLenum>};{};{};{}
+factory_;000016.023;content/browser/renderer_host/render_view_host_factory.cc;16.54;0x0;{RenderViewHostFactory *};{RenderViewHostFactory};{};{}
+factory_;000036.023;chrome/browser/safe_browsing/malware_details.cc;36.47;0x0;{MalwareDetailsFactory *};{MalwareDetails};{};{}
+factory_;000065.026;chrome/browser/safe_browsing/protocol_manager.cc;65.63;0x0;{SBProtocolManagerFactory *};{SafeBrowsingProtocolManager};{};{}
+factory_;000111.039;chrome/browser/speech/speech_recognition_bubble.cc;111.72;0x0;{SpeechRecognitionBubble::FactoryMethod};{SpeechRecognitionBubble};{};{}
+factory_;000118.033;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;118.67;0x0;{SafeBrowsingBlockingPageFactory *};{SafeBrowsingBlockingPage};{};{}
+factory_;000163.028;chrome/browser/safe_browsing/safe_browsing_service.cc;163.57;0x0;{SafeBrowsingServiceFactory *};{SafeBrowsingService};{};{}
+factory_;000315.029;chrome/browser/safe_browsing/safe_browsing_database.cc;315.59;0x0;{SafeBrowsingDatabaseFactory *};{SafeBrowsingDatabase};{};{}
+failed_init_;000593.007;chrome/browser/webdata/web_data_service.h;593.19;0x0;{bool};{};{};{}
+false_only;000025.026;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;25.36;0x0;{ValueValidator<GLboolean>};{};{};{}
+file_system;000054.010;chrome/browser/extensions/api/file_system/file_system_api.cc;54.21;0x0;{namespace};{};{};{}
+file_util_info_;000058.038;webkit/fileapi/native_file_util.cc;58.53;0x0;{file_util::FileEnumerator::FindInfo};{};{};{}
+filename_prefix;000207.013;third_party/tcmalloc/chromium/src/heap-profiler.cc;207.28;0x8;{char *};{};{};{}
+filenames;000034.010;chrome/common/extensions/unpacker.cc;34.19;0x0;{namespace};{};{};{}
+filter_;000014.025;content/renderer/media/audio_input_message_filter.cc;14.57;0x0;{AudioInputMessageFilter *};{AudioInputMessageFilter};{};{}
+filter_;000015.020;content/renderer/media/audio_message_filter.cc;15.47;0x0;{AudioMessageFilter *};{AudioMessageFilter};{};{}
+filtered_render_views_;000028.004;chrome/browser/automation/automation_resource_message_filter.cc;28.59;0x0;{base::LazyInstance<AutomationResourceMessageFilter::RenderViewMap>};{AutomationResourceMessageFilter};{};{}
+find_request_id_counter_;000024.004;chrome/browser/ui/find_bar/find_tab_helper.cc;24.43;0x0;{int};{FindTabHelper};{};{}
+floating_container_signals;000070.013;ui/base/gtk/gtk_floating_container.cc;70.39;0x8;{guint []};{};{};{}
+forbiddenExp;000147.024;third_party/libxml/src/include/libxml/xmlregexp.h;147.36;0x0;{xmlExpNodePtr};{};{};{}
+forbiddenExp;006449.014;third_party/libxml/src/xmlregexp.c;6449.26;0x0;{xmlExpNodePtr};{};{};{}
+forbiddenExpNode;006446.018;third_party/libxml/src/xmlregexp.c;6446.34;0x8;{xmlExpNode};{};{};{}
+fourbppswaptable;000356.026;third_party/libpng/pngtrans.c;356.42;0x8;{png_byte []};{};{};{}
+frame_buffer_parameter;000026.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;26.45;0x0;{ValueValidator<GLenum>};{};{};{}
+frame_buffer_target;000027.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;27.42;0x0;{ValueValidator<GLenum>};{};{};{}
+function_;000437.047;chrome/browser/extensions/api/file_system/file_system_api.cc;437.56;0x0;{scoped_refptr<FileSystemChooseEntryFunction>};{};{};{}
+gAppModeInfo;000036.051;chrome/browser/shell_integration.cc;36.63;0x8;{const ShellIntegration ::AppModeInfo *};{};{};{}
+gECDHEKeyPairs;000195.020;net/third_party/nss/ssl/ssl3ecc.c;195.34;0x8;{ECDHEKeyPair []};{};{};{}
+g_accept_requests;000029.012;chrome/browser/external_protocol/external_protocol_handler.cc;29.29;0x8;{bool};{};{};{}
+g_all_shared_contexts;000043.004;content/common/gpu/client/webgraphicscontext3d_command_buffer_impl.cc;43.25;0x8;{base::LazyInstance<std::set<WebGraphicsContext3DCommandBufferImpl*>>};{};{};{}
+g_all_shared_contexts_lock;000041.004;content/common/gpu/client/webgraphicscontext3d_command_buffer_impl.cc;41.30;0x8;{base::LazyInstance<base::Lock>::Leaky};{};{};{}
+g_allow_file_access_;000061.005;chrome/browser/net/chrome_network_delegate.cc;61.48;0x0;{bool};{ChromeNetworkDelegate};{};{}
+g_allow_file_access_;000063.005;chrome/browser/net/chrome_network_delegate.cc;63.48;0x0;{bool};{ChromeNetworkDelegate};{};{}
+g_bandwidth_metrics;000008.049;net/base/bandwidth_metrics.cc;8.68;0x8;{base::LazyInstance<net::BandwidthMetrics>};{};{};{}
+g_broker_get_interface;000017.028;ppapi/cpp/ppp_entrypoints.cc;17.50;0x8;{PP_GetInterface_Func};{};{};{}
+g_browser_process;000007.016;chrome/browser/browser_process.cc;7.33;0x0;{BrowserProcess *};{};{};{}
+g_browser_process;000203.023;chrome/browser/browser_process.h;203.40;0x0;{BrowserProcess *};{};{};{}
+g_channels;000021.005;content/common/np_channel_base.cc;21.15;0x8;{base::LazyInstance<ChannelMap>::Leaky};{};{};{}
+g_check_for_repost;000146.012;content/browser/web_contents/navigation_controller_impl.cc;146.30;0x8;{bool};{};{};{}
+g_chrome_content_browser_client;000094.004;chrome/app/chrome_main_delegate.cc;94.35;0x0;{base::LazyInstance<chrome::ChromeContentBrowserClient>};{};{};{}
+g_chrome_content_plugin_client;000100.004;chrome/app/chrome_main_delegate.cc;100.34;0x0;{base::LazyInstance<chrome::ChromeContentPluginClient>};{};{};{}
+g_chrome_content_renderer_client;000096.004;chrome/app/chrome_main_delegate.cc;96.36;0x0;{base::LazyInstance<chrome::ChromeContentRendererClient>};{};{};{}
+g_chrome_content_utility_client;000098.004;chrome/app/chrome_main_delegate.cc;98.35;0x0;{base::LazyInstance<chrome::ChromeContentUtilityClient>};{};{};{}
+g_delete_lock;000038.004;chrome/browser/ui/webui/chrome_url_data_manager.cc;38.17;0x8;{base::LazyInstance<base::Lock>::Leaky};{};{};{}
+g_elapsed;022009.021;third_party/sqlite/amalgamation/sqlite3.c;22009.30;0x8;{sqlite_uint64};{};{};{}
+g_elapsed;024337.021;third_party/sqlite/amalgamation/sqlite3.c;24337.30;0x8;{sqlite_uint64};{};{};{}
+g_elapsed;031122.021;third_party/sqlite/amalgamation/sqlite3.c;31122.30;0x8;{sqlite_uint64};{};{};{}
+g_end_session_file_thread_has_completed;000113.012;chrome/browser/browser_process_impl.cc;113.51;0x8;{bool};{};{};{}
+g_exited_main_message_loop;000027.005;content/browser/browser_main_runner.cc;27.31;0x0;{bool};{};{};{}
+g_exited_main_message_loop;000128.012;content/browser/renderer_host/render_process_host_impl.cc;128.38;0x0;{bool};{};{};{}
+g_idb_dispatcher_tls;000041.004;content/common/indexed_db/indexed_db_dispatcher.cc;41.24;0x8;{base::LazyInstance<ThreadLocalPointer<IndexedDBDispatcher>>::Leaky};{};{};{}
+g_ime_window;000069.005;content/plugin/plugin_main.cc;69.17;0x0;{HWND};{};{};{}
+g_instances;000025.008;chrome/browser/ui/gtk/tab_contents/chrome_web_contents_view_delegate_gtk.cc;25.19;0x8;{base::LazyInstance<std::map<content::WebContents*,ChromeWebContentsViewDelegateGtk*>>};{};{};{}
+g_l_state;000028.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;28.32;0x0;{ValueValidator<GLenum>};{};{};{}
+g_lazy_channel_stack;000025.004;content/common/np_channel_base.cc;25.24;0x8;{base::LazyInstance<NPChannelRefStack>::Leaky};{};{};{}
+g_log_function_mapping;000813.015;ipc/ipc_message_macros.h;813.37;0x0;{LogFunctionMap};{};{};{}
+g_main_argv;000050.014;content/common/set_process_title_linux.cc;50.25;0x8;{char **};{};{};{}
+g_malware_details_factory_impl;000060.004;chrome/browser/safe_browsing/malware_details.cc;60.34;0x8;{base::LazyInstance<MalwareDetailsFactoryImpl>};{};{};{}
+g_module_singleton;000016.019;ppapi/cpp/ppp_entrypoints.cc;16.37;0x8;{int pp::Module *};{};{};{}
+g_module_singleton;000016.019;remoting/client/plugin/pepper_entrypoints.cc;16.37;0x8;{int pp::Module *};{};{};{}
+g_never_throttle_requests_;000068.005;chrome/browser/net/chrome_network_delegate.cc;68.54;0x0;{bool};{ChromeNetworkDelegate};{};{}
+g_next_request_id;000036.011;content/renderer/media/media_stream_impl.cc;36.28;0x8;{intanonymous};{};{};{}
+g_orig_argv0;000051.013;content/common/set_process_title_linux.cc;51.25;0x8;{char *};{};{};{}
+g_plugin_process;000019.012;content/common/npobject_util.cc;19.28;0x8;{bool};{};{};{}
+g_pprof_path;000074.015;third_party/tcmalloc/chromium/src/symbolize.cc;74.27;0x8;{string *};{};{};{}
+g_safe_browsing_blocking_page_factory_impl;000160.004;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;160.46;0x8;{base::LazyInstance<SafeBrowsingBlockingPageFactoryImpl>};{};{};{}
+g_safe_browsing_service_factory_impl;000182.004;chrome/browser/safe_browsing/safe_browsing_service.cc;182.40;0x8;{base::LazyInstance<SafeBrowsingServiceFactoryImpl>};{};{};{}
+g_sandbox_enabled;000099.012;content/renderer/renderer_webkitplatformsupport_impl.cc;99.29;0x8;{bool};{};{};{}
+g_service_process;000042.016;chrome/service/service_process.cc;42.33;0x0;{ServiceProcess *};{};{};{}
+g_service_process;000152.023;chrome/service/service_process.h;152.40;0x0;{ServiceProcess *};{};{};{}
+g_start;022008.021;third_party/sqlite/amalgamation/sqlite3.c;22008.28;0x8;{sqlite_uint64};{};{};{}
+g_start;024336.021;third_party/sqlite/amalgamation/sqlite3.c;24336.28;0x8;{sqlite_uint64};{};{};{}
+g_start;031121.021;third_party/sqlite/amalgamation/sqlite3.c;31121.28;0x8;{sqlite_uint64};{};{};{}
+g_startup_timebomb_;000828.017;chrome/browser/metrics/thread_watcher.cc;828.53;0x0;{StartupTimeBomb *};{StartupTimeBomb};{};{}
+g_symbolize_callback;000073.025;base/third_party/symbolize/symbolize.cc;73.45;0x8;{SymbolizeCallback};{};{};{}
+g_target_services;000031.025;content/ppapi_plugin/ppapi_plugin_main.cc;31.42;0x0;{int sandbox::TargetServices *};{};{};{}
+g_target_services;000033.006;content/ppapi_plugin/ppapi_plugin_main.cc;33.23;0x0;{void *};{};{};{}
+g_target_services;000043.032;content/ppapi_plugin/ppapi_thread.cc;43.49;0x0;{int sandbox::TargetServices *};{};{};{}
+g_target_services;000045.013;content/ppapi_plugin/ppapi_thread.cc;45.30;0x0;{void *};{};{};{}
+g_template;000094.024;chrome/browser/importer/nss_decryptor_system_nss.cc;94.34;0x8;{SEC_ASN1Template []};{};{};{}
+g_thread_watcher_list_;000398.019;chrome/browser/metrics/thread_watcher.cc;398.60;0x0;{ThreadWatcherList *};{ThreadWatcherList};{};{}
+g_thread_watcher_observer_;000662.023;chrome/browser/metrics/thread_watcher.cc;662.72;0x0;{ThreadWatcherObserver *};{ThreadWatcherObserver};{};{}
+g_time_formatter;000184.041;chrome/common/time_format.cc;184.57;0x8;{base::LazyInstance<TimeFormatter>};{};{};{}
+g_unsafe_resource_map;000121.004;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;121.25;0x8;{base::LazyInstance<SafeBrowsingBlockingPage::UnsafeResourceMap>};{};{};{}
+g_version_extension;000265.002;chrome/browser/metrics/metrics_log.cc;265.21;0x8;{base::LazyInstance<std::string>::Leaky};{};{};{}
+g_view_map;000345.035;content/renderer/render_view_impl.cc;345.45;0x8;{base::LazyInstance<ViewMap>};{};{};{}
+g_watchdog_lock;000712.004;chrome/browser/metrics/thread_watcher.cc;712.19;0x8;{base::LazyInstance<base::Lock>::Leaky};{};{};{}
+g_watchdog_thread;000715.023;chrome/browser/metrics/thread_watcher.cc;715.40;0x8;{WatchDogThread *};{};{};{}
+g_web_contents_to_interstitial_page;000124.028;content/browser/web_contents/interstitial_page_impl.cc;124.63;0x8;{InterstitialPageMap *};{};{};{}
+generate_session_keys_once;000063.022;net/third_party/nss/ssl/ssl3ext.c;63.48;0x8;{PRCallOnceType};{};{};{}
+generic_icon_list;000061.020;base/third_party/xdg_mime/xdgmime.c;61.37;0x8;{XdgIconList *};{};{};{}
+get_max_index_type;000029.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;29.41;0x0;{ValueValidator<GLenum>};{};{};{}
+get_tex_param_target;000030.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;30.43;0x0;{ValueValidator<GLenum>};{};{};{}
+global;000229.009;third_party/hyphen/hyphen.c;229.15;0x0;{HashTab *};{};{};{}
+globalCache;000262.017;net/third_party/nss/ssl/sslsnce.c;262.28;0x8;{cacheDesc};{};{};{}
+global_fc_impl;000041.028;skia/ext/SkFontHost_fontconfig.cpp;41.42;0x8;{FontConfigInterface *};{};{};{}
+global_good_nameservers;000298.011;third_party/libevent/evdns.c;298.34;0x8;{int};{};{};{}
+global_hash;000054.020;base/third_party/xdg_mime/xdgmime.c;54.31;0x8;{XdgGlobHash *};{};{};{}
+global_init_count;000170.014;third_party/libxml/src/threads.c;170.31;0x8;{vint32};{};{};{}
+global_init_lock;000149.023;third_party/libxml/src/threads.c;149.39;0x8;{pthread_mutex_t};{};{};{}
+global_init_lock;000162.035;third_party/libxml/src/threads.c;162.51;0x108;{volatile LPCRITICAL_SECTION};{};{};{}
+global_init_lock;000169.013;third_party/libxml/src/threads.c;169.29;0x8;{int32};{};{};{}
+global_magic;000055.021;base/third_party/xdg_mime/xdgmime.c;55.33;0x8;{XdgMimeMagic *};{};{};{}
+global_max_nameserver_timeout;000313.011;third_party/libevent/evdns.c;313.40;0x8;{int};{};{};{}
+global_max_reissues;000310.011;third_party/libevent/evdns.c;310.30;0x8;{int};{};{};{}
+global_max_requests_inflight;000307.011;third_party/libevent/evdns.c;307.39;0x8;{int};{};{};{}
+global_max_retransmits;000311.011;third_party/libevent/evdns.c;311.33;0x8;{int};{};{};{}
+global_next_remote_font_id;000073.016;skia/ext/SkFontHost_fontconfig.cpp;73.42;0x8;{unsigned int};{};{};{}
+global_profiler_buffer;000197.013;third_party/tcmalloc/chromium/src/heap-profiler.cc;197.35;0x8;{char *};{};{};{}
+global_remote_fonts;000062.057;skia/ext/SkFontHost_fontconfig.cpp;62.76;0x8;{int std::map<uint32_t,std::pair<uint8_t*,size_t>> *};{};{};{}
+global_requests_inflight;000302.011;third_party/libevent/evdns.c;302.35;0x8;{int};{};{};{}
+global_requests_waiting;000305.011;third_party/libevent/evdns.c;305.34;0x8;{int};{};{};{}
+global_search_state;002390.028;third_party/libevent/evdns.c;2390.47;0x8;{search_state *};{};{};{}
+global_timeout;000309.022;third_party/libevent/evdns.c;309.36;0x8;{timeval};{};{};{}
+globalkey;000146.021;third_party/libxml/src/threads.c;146.30;0x8;{pthread_key_t};{};{};{}
+globalkey;000155.013;third_party/libxml/src/threads.c;155.22;0x8;{DWORD};{};{};{}
+globalkey;000166.006;third_party/libxml/src/threads.c;166.15;0x0;{int32};{};{};{}
+google_base_url_;000069.013;chrome/browser/search_engines/search_terms_data.cc;69.54;0x0;{int std::string *};{UIThreadSearchTermsData};{};{}
+gpu_enabled_;000056.005;content/browser/gpu/gpu_process_host.cc;56.33;0x0;{bool};{GpuProcessHost};{};{}
+handlers;001284.034;third_party/libxml/src/encoding.c;1284.42;0x8;{xmlCharEncodingHandlerPtr *};{};{};{}
+hardware_gpu_enabled_;000057.005;content/browser/gpu/gpu_process_host.cc;57.42;0x0;{bool};{GpuProcessHost};{};{}
+hash;000096.006;third_party/cld/base/stl_decl_msvc.h;96.20;0x0;{using};{msvchash};{};{}
+hash_map;000095.006;third_party/cld/base/stl_decl_msvc.h;95.24;0x0;{using};{msvchash};{};{}
+hash_multimap;000097.006;third_party/cld/base/stl_decl_msvc.h;97.29;0x0;{using};{msvchash};{};{}
+hash_multiset;000098.006;third_party/cld/base/stl_decl_msvc.h;98.29;0x0;{using};{msvchash};{};{}
+hash_set;000094.006;third_party/cld/base/stl_decl_msvc.h;94.24;0x0;{using};{msvchash};{};{}
+header_;000332.010;base/pickle.h;332.17;0x0;{Header *};{};{};{}
+header_size_;000333.009;base/pickle.h;333.21;0x0;{size_t};{};{};{}
+heap_profile;000215.025;third_party/tcmalloc/chromium/src/heap-profiler.cc;215.37;0x8;{HeapProfileTable *};{};{};{}
+heap_profile_end_writer;000661.028;third_party/tcmalloc/chromium/src/heap-profiler.cc;661.51;0x8;{HeapProfileEndWriter};{};{};{}
+heap_profiler_memory;000146.029;third_party/tcmalloc/chromium/src/heap-profiler.cc;146.49;0x8;{int LowLevelAlloc::Arena *};{};{};{}
+helpers;000014.010;chrome/common/extensions/matcher/url_matcher_factory.cc;14.17;0x0;{namespace};{};{};{}
+helpers;000030.010;chrome/browser/extensions/extension_preference_api.cc;30.17;0x0;{namespace};{};{};{}
+helpers;000031.010;chrome/browser/extensions/api/permissions/permissions_api.cc;31.17;0x0;{namespace};{};{};{}
+helpers;000034.010;chrome/browser/extensions/api/declarative_webrequest/webrequest_condition_attribute.cc;34.17;0x0;{namespace};{};{};{}
+helpers;000069.010;chrome/browser/extensions/api/web_request/web_request_api.cc;69.17;0x0;{namespace};{};{};{}
+hex;000048.019;net/third_party/nss/ssl/ssltrace.c;48.22;0x8;{const char *};{};{};{}
+high_water_mark;000212.013;third_party/tcmalloc/chromium/src/heap-profiler.cc;212.28;0x8;{int64};{};{};{}
+hint_mode;000031.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;31.32;0x0;{ValueValidator<GLenum>};{};{};{}
+hint_target;000032.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;32.34;0x0;{ValueValidator<GLenum>};{};{};{}
+home_directory_override;000024.012;chrome/browser/net/url_fixer_upper.cc;24.50;0x0;{const char *};{URLFixerUpper};{};{}
+htmlDefaultSAXHandler;000266.026;third_party/libxml/src/include/libxml/globals.h;266.47;0x0;{xmlSAXHandlerV1};{};{};{}
+htmlDefaultSAXHandler;000435.016;third_party/libxml/src/globals.c;435.37;0x0;{xmlSAXHandlerV1};{};{};{}
+htmlOmittedDefaultValue;000054.011;third_party/libxml/src/HTMLparser.c;54.34;0x8;{int};{};{};{}
+htmlStartCloseIndexinitialized;001174.011;third_party/libxml/src/HTMLparser.c;1174.41;0x8;{int};{};{};{}
+icon_list;000060.020;base/third_party/xdg_mime/xdgmime.c;60.29;0x8;{XdgIconList *};{};{};{}
+icon_widget_;000246.011;chrome/browser/ui/gtk/gtk_theme_service.cc;246.40;0x0;{GtkWidget *};{GtkThemeService};{};{}
+id_count_;000064.004;chrome/browser/status_icons/desktop_notification_balloon.cc;64.41;0x0;{intanonymous};{DesktopNotificationBalloon};{};{}
+in_synchronous_profile_launch;000086.005;chrome/browser/ui/startup/startup_browser_creator.cc;86.34;0x0;{bool};{};{};{}
+in_synchronous_profile_launch;000120.012;chrome/browser/ui/startup/startup_browser_creator_impl.cc;120.41;0x0;{bool};{};{};{}
+index_type;000033.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;33.33;0x0;{ValueValidator<GLenum>};{};{};{}
+info_keys;000062.010;chrome/common/extensions/extension.cc;62.19;0x0;{namespace};{};{};{}
+initIoLayerOnce;002808.022;net/third_party/nss/ssl/sslsock.c;2808.37;0x8;{PRCallOnceType};{};{};{}
+initialized;000145.011;third_party/libxml/src/nanoftp.c;145.22;0x8;{int};{};{};{}
+initialized;000166.011;third_party/libxml/src/nanohttp.c;166.22;0x8;{int};{};{};{}
+initialized;000221.011;third_party/libxslt/libxslt/xslt.c;221.22;0x8;{int};{};{};{}
+initialized_;000150.005;chrome/browser/ui/gtk/tabs/tab_renderer_gtk.cc;150.33;0x0;{bool};{TabRendererGtk};{};{}
+initializer;000156.012;third_party/tcmalloc/chromium/src/memory_region_map.cc;156.23;0x8;{bool};{};{};{}
+inodeList;025102.022;third_party/sqlite/amalgamation/sqlite3.c;25102.31;0x8;{unixInodeInfo *};{};{};{}
+input_channel_layout;000014.021;content/renderer/media/audio_hardware.cc;14.41;0x8;{ChannelLayout};{};{};{}
+input_sample_rate;000012.011;content/renderer/media/audio_hardware.cc;12.28;0x8;{int};{};{};{}
+instance_;000016.024;chrome/browser/extensions/extension_error_reporter.cc;16.57;0x0;{ExtensionErrorReporter *};{ExtensionErrorReporter};{};{}
+instance_;000025.024;content/browser/debugger/devtools_netlog_observer.cc;25.57;0x0;{DevToolsNetLogObserver *};{DevToolsNetLogObserver};{};{}
+instance_;000085.021;content/browser/debugger/worker_devtools_manager.cc;85.30;0x8;{AgentHosts *};{};{};{}
+instance_;000092.004;content/browser/debugger/worker_devtools_manager.cc;92.48;0x0;{int WorkerDevToolsManager::AgentHosts *};{WorkerDevToolsManager::AgentHosts};{};{}
+instance_;000132.012;third_party/tcmalloc/chromium/src/profiler.cc;132.34;0x0;{CpuProfiler};{CpuProfiler};{};{}
+instance_;000216.016;third_party/tcmalloc/chromium/src/profile-handler.cc;216.41;0x0;{ProfileHandler *};{ProfileHandler};{};{}
+instance_;000236.004;content/browser/debugger/worker_devtools_manager.cc;236.57;0x0;{int WorkerDevToolsManager::DetachedClientHosts *};{WorkerDevToolsManager::DetachedClientHosts};{};{}
+instance_;000331.016;chrome/browser/ui/gtk/task_manager_gtk.cc;331.41;0x0;{TaskManagerGtk *};{TaskManagerGtk};{};{}
+instance_count_;000045.004;chrome/browser/automation/url_request_automation_job.cc;45.44;0x0;{int};{URLRequestAutomationJob};{};{}
+invalidName;003763.022;third_party/libxml/src/relaxng.c;3763.33;0x8;{const xmlChar *};{};{};{}
+invalidation_client_;000179.036;sync/notifier/registration_manager.h;179.56;0x0;{int invalidation::InvalidationClient *};{};{};{}
+isMultiProcess;000266.014;net/third_party/nss/ssl/sslsnce.c;266.28;0x8;{PRBool};{};{};{}
+is_incognito_process_;000158.005;chrome/renderer/chrome_render_process_observer.cc;158.55;0x0;{boolanonymous};{ChromeRenderProcessObserver};{};{}
+is_listening_;000096.005;content/renderer/plugin_channel_host.cc;96.37;0x0;{bool};{IsListeningFilter};{};{}
+is_on;000205.013;third_party/tcmalloc/chromium/src/heap-profiler.cc;205.18;0x8;{bool};{};{};{}
+is_protocol_factory_registered_;000046.005;chrome/browser/automation/url_request_automation_job.cc;46.61;0x0;{bool};{URLRequestAutomationJob};{};{}
+is_removing_;000078.005;chrome/browser/browsing_data/browsing_data_remover.cc;78.38;0x0;{bool};{BrowsingDataRemover};{};{}
+is_running_;000574.007;chrome/browser/webdata/web_data_service.h;574.18;0x0;{bool};{};{};{}
+kAccessDenied;000011.012;base/json/json_file_value_serializer.cc;11.50;0x0;{const char *};{JSONFileValueSerializer};{};{}
+kAlignmentBottom;000043.012;chrome/browser/themes/theme_service.cc;43.42;0x0;{const char *};{ThemeService};{};{}
+kAlignmentCenter;000041.012;chrome/browser/themes/theme_service.cc;41.42;0x0;{const char *};{ThemeService};{};{}
+kAlignmentLeft;000044.012;chrome/browser/themes/theme_service.cc;44.40;0x0;{const char *};{ThemeService};{};{}
+kAlignmentRight;000045.012;chrome/browser/themes/theme_service.cc;45.41;0x0;{const char *};{ThemeService};{};{}
+kAlignmentTop;000042.012;chrome/browser/themes/theme_service.cc;42.39;0x0;{const char *};{ThemeService};{};{}
+kAmericanExpressCard;000127.025;chrome/browser/autofill/credit_card.h;127.45;0x0;{const char *const };{};{};{}
+kAmericanExpressCard;000606.018;chrome/browser/autofill/credit_card.cc;606.38;0x0;{const char *const };{};{};{}
+kAutoDetectionLanguage;000045.025;chrome/renderer/translate_helper.cc;45.47;0x8;{const char *const };{};{};{}
+kBlobStorageContextKeyName;000016.019;content/browser/fileapi/chrome_blob_storage_context.cc;16.45;0x8;{const char *};{};{};{}
+kBlobStorageContextKeyName;000034.019;content/browser/resource_context_impl.cc;34.45;0x8;{const char *};{};{};{}
+kBoxChecked;000110.025;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;110.36;0x8;{const char *const };{};{};{}
+kBrowserThemeDidChangeNotification;000046.027;chrome/browser/themes/theme_service.h;46.61;0x0;{NSString *const };{};{};{}
+kCannotReadFile;000012.012;base/json/json_file_value_serializer.cc;12.52;0x0;{const char *};{JSONFileValueSerializer};{};{}
+kChecksumKey;000025.012;chrome/browser/bookmarks/bookmark_codec.cc;25.39;0x0;{const char *};{BookmarkCodec};{};{}
+kChildrenKey;000032.012;chrome/browser/bookmarks/bookmark_codec.cc;32.39;0x0;{const char *};{BookmarkCodec};{};{}
+kClipboardFormatString;000024.012;chrome/browser/bookmarks/bookmark_node_data.cc;24.52;0x0;{const char *};{BookmarkNodeData};{};{}
+kCurrentSessionFileName;000198.019;chrome/browser/sessions/session_backend.cc;198.42;0x8;{const char *};{};{};{}
+kCurrentTabSessionFileName;000194.019;chrome/browser/sessions/session_backend.cc;194.45;0x8;{const charanonymous *};{};{};{}
+kDateAddedKey;000029.012;chrome/browser/bookmarks/bookmark_codec.cc;29.40;0x0;{const char *};{BookmarkCodec};{};{}
+kDateModifiedKey;000031.012;chrome/browser/bookmarks/bookmark_codec.cc;31.43;0x0;{const char *};{BookmarkCodec};{};{}
+kDefaultAudioMemoryLimit;000284.011;media/filters/source_buffer_stream.cc;284.35;0x8;{int};{};{};{}
+kDefaultBufferDurationInMs;000274.011;media/filters/source_buffer_stream.cc;274.37;0x8;{int};{};{};{}
+kDefaultThemeID;000055.012;chrome/browser/themes/theme_service.cc;55.41;0x0;{const char *};{ThemeService};{};{}
+kDefaultVideoMemoryLimit;000285.011;media/filters/source_buffer_stream.cc;285.35;0x8;{int};{};{};{}
+kDetectLanguageVersion;000010.019;third_party/cld/encodings/compact_lang_det/compact_lang_det.cc;10.41;0x8;{const char *};{};{};{}
+kDevServerUrl;000091.012;chrome/browser/sync/profile_sync_service.cc;91.45;0x0;{const char *};{ProfileSyncService};{};{}
+kDinersCard;000128.025;chrome/browser/autofill/credit_card.h;128.36;0x0;{const char *const };{};{};{}
+kDinersCard;000607.018;chrome/browser/autofill/credit_card.cc;607.29;0x0;{const char *const };{};{};{}
+kDiscoverCard;000129.025;chrome/browser/autofill/credit_card.h;129.38;0x0;{const char *const };{};{};{}
+kDiscoverCard;000608.018;chrome/browser/autofill/credit_card.cc;608.31;0x0;{const char *const };{};{};{}
+kDisplayCheckBox;000109.025;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;109.41;0x8;{const char *const };{};{};{}
+kDoReportCommand;000107.025;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;107.41;0x8;{const char *const };{};{};{}
+kDomainWildcard;000301.012;chrome/common/content_settings_pattern.cc;301.51;0x0;{const char *};{ContentSettingsPattern};{};{}
+kDontReportCommand;000108.025;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;108.43;0x8;{const char *const };{};{};{}
+kElementNameToElementTypeMap;000198.004;chrome/browser/search_engines/template_url_parser.cc;198.59;0x0;{int TemplateURLParsingContext::ElementNameToElementTypeMap *};{TemplateURLParsingContext};{};{}
+kExpandedSeeMore;000111.025;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;111.41;0x8;{const char *const };{};{};{}
+kExpectedGupdateProtocol;000018.019;chrome/common/extensions/update_manifest.cc;18.43;0x8;{const char *};{};{};{}
+kExpectedGupdateXmlns;000019.019;chrome/common/extensions/update_manifest.cc;19.40;0x8;{const char *};{};{};{}
+kFFmpegFileProtocol;000014.032;media/ffmpeg/file_protocol.h;14.51;0x0;{URLProtocol};{};{};{}
+kFFmpegFileProtocol;000078.012;media/ffmpeg/file_protocol.cc;78.31;0x0;{URLProtocol};{};{};{}
+kFileLocked;000013.012;base/json/json_file_value_serializer.cc;13.48;0x0;{const char *};{JSONFileValueSerializer};{};{}
+kGenericCard;000130.025;chrome/browser/autofill/credit_card.h;130.37;0x0;{const char *const };{};{};{}
+kGenericCard;000609.018;chrome/browser/autofill/credit_card.cc;609.30;0x0;{const char *const };{};{};{}
+kHookListMaxValues;000312.006;third_party/tcmalloc/chromium/src/malloc_hook.cc;312.40;0x0;{using};{base::internal};{};{}
+kHostZoomMapKeyName;000030.019;content/browser/host_zoom_map_impl.cc;30.38;0x8;{const char *};{};{};{}
+kHostZoomMapKeyName;000035.019;content/browser/resource_context_impl.cc;35.38;0x8;{const char *};{};{};{}
+kHoverControllerGtkKey;000011.020;chrome/browser/ui/gtk/hover_controller_gtk.cc;11.42;0x8;{const gchar *};{};{};{}
+kIdKey;000026.012;chrome/browser/bookmarks/bookmark_codec.cc;26.33;0x0;{const char *};{BookmarkCodec};{};{}
+kInsensitiveLinkMarkup;000014.020;chrome/browser/ui/gtk/gtk_chrome_link_button.cc;14.42;0x8;{const gchar *};{};{};{}
+kInvalidAddress;000019.019;ui/surface/transport_dib_linux.cc;19.34;0x8;{void *const };{};{};{}
+kInvalidDataTypeError;000010.012;chrome/common/web_resource/web_resource_unpacker.cc;10.54;0x0;{const char *};{WebResourceUnpacker};{};{}
+kInvalidLanguageCode;000228.025;third_party/cld/languages/internal/languages.cc;228.45;0x8;{const char *const };{};{};{}
+kInvalidLanguageName;000208.025;third_party/cld/languages/internal/languages.cc;208.45;0x8;{const char *const };{};{};{}
+kJCBCard;000131.025;chrome/browser/autofill/credit_card.h;131.33;0x0;{const char *const };{};{};{}
+kJCBCard;000610.018;chrome/browser/autofill/credit_card.cc;610.26;0x0;{const char *const };{};{};{}
+kKeyName;000011.019;content/browser/ssl/ssl_host_state.cc;11.27;0x8;{const char *};{};{};{}
+kLanguageListCallbackName;000187.018;chrome/browser/translate/translate_manager.cc;187.61;0x0;{const charanonymous *const };{TranslateManager};{};{}
+kLastSessionFileName;000199.019;chrome/browser/sessions/session_backend.cc;199.39;0x8;{const char *};{};{};{}
+kLastTabSessionFileName;000195.019;chrome/browser/sessions/session_backend.cc;195.42;0x8;{const char *};{};{};{}
+kLearnMoreCommand;000102.025;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;102.42;0x8;{const char *const };{};{};{}
+kLearnMoreCommandV2;000103.025;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;103.44;0x8;{const char *const };{};{};{}
+kLearnMoreMalwareUrl;000069.025;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;69.45;0x8;{const char *const };{};{};{}
+kLearnMoreMalwareUrlV2;000072.025;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;72.47;0x8;{const char *const };{};{};{}
+kLearnMorePhishingUrl;000078.025;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;78.46;0x8;{const char *const };{};{};{}
+kLearnMorePhishingUrlV2;000074.025;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;74.48;0x8;{const char *const };{};{};{}
+kLinkMarkup;000013.020;chrome/browser/ui/gtk/gtk_chrome_link_button.cc;13.31;0x8;{const gchar *};{};{};{}
+kLockFileName;000057.026;chrome/browser/importer/firefox_profile_lock.cc;57.59;0x0;{const int FilePath::CharType *};{FirefoxProfileLock};{};{}
+kLockFileName;000063.026;chrome/browser/importer/firefox_profile_lock.cc;63.59;0x0;{const int FilePath::CharType *};{FirefoxProfileLock};{};{}
+kLockFileName;000068.026;chrome/browser/importer/firefox_profile_lock.cc;68.59;0x0;{const int FilePath::CharType *};{FirefoxProfileLock};{};{}
+kMasterCard;000132.025;chrome/browser/autofill/credit_card.h;132.36;0x0;{const char *const };{};{};{}
+kMasterCard;000611.018;chrome/browser/autofill/credit_card.cc;611.29;0x0;{const char *const };{};{};{}
+kMobileBookmarkFolderNameKey;000023.012;chrome/browser/bookmarks/bookmark_codec.cc;23.55;0x0;{const char *};{BookmarkCodec};{};{}
+kNameKey;000028.012;chrome/browser/bookmarks/bookmark_codec.cc;28.35;0x0;{const char *};{BookmarkCodec};{};{}
+kNavigatedAwayMetaCommand;000115.025;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;115.50;0x8;{const char *const };{};{};{}
+kNoSuchFile;000014.012;base/json/json_file_value_serializer.cc;14.48;0x0;{const char *};{JSONFileValueSerializer};{};{}
+kOldLockFileName;000059.026;chrome/browser/importer/firefox_profile_lock.cc;59.62;0x0;{const int FilePath::CharType *};{FirefoxProfileLock};{};{}
+kOldLockFileName;000065.026;chrome/browser/importer/firefox_profile_lock.cc;65.62;0x0;{const int FilePath::CharType *};{FirefoxProfileLock};{};{}
+kOtherBookmarkFolderNameKey;000021.012;chrome/browser/bookmarks/bookmark_codec.cc;21.54;0x0;{const char *};{BookmarkCodec};{};{}
+kPLinkHtml;000085.025;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;85.35;0x8;{const char *const };{};{};{}
+kPepperFlashPermissions;000017.013;chrome/common/pepper_flash.h;17.36;0x0;{int32};{};{};{}
+kPepperFlashPermissions;000095.006;chrome/common/pepper_flash.cc;95.29;0x0;{int32};{};{};{}
+kPluginPlaceholderDataURL;000070.018;chrome/renderer/plugins/plugin_placeholder.cc;70.43;0x0;{const char *const };{};{};{}
+kPrivacyLinkHtml;000089.025;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;89.41;0x8;{const char *const };{};{};{}
+kProceedCommand;000105.025;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;105.40;0x8;{const char *const };{};{};{}
+kProfileKey;000047.018;chrome/browser/profiles/profile.cc;47.38;0x0;{const char *const };{Profile};{};{}
+kPropertyFilesize;000007.012;chrome/browser/parsers/metadata_parser.cc;7.45;0x0;{const char *};{MetadataParser};{};{}
+kPropertyTitle;000009.012;chrome/browser/parsers/metadata_parser.cc;9.42;0x0;{const char *};{MetadataParser};{};{}
+kPropertyType;000008.012;chrome/browser/parsers/metadata_parser.cc;8.41;0x0;{const char *};{MetadataParser};{};{}
+kReportErrorCommand;000101.025;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;101.44;0x8;{const char *const };{};{};{}
+kReporterLogFilename;000039.012;chrome/browser/crash_upload_list.cc;39.49;0x0;{const char *};{CrashUploadList};{};{}
+kRootFolderNameKey;000020.012;chrome/browser/bookmarks/bookmark_codec.cc;20.45;0x0;{const char *};{BookmarkCodec};{};{}
+kRootsKey;000019.012;chrome/browser/bookmarks/bookmark_codec.cc;19.36;0x0;{const char *};{BookmarkCodec};{};{}
+kSbDiagnosticHtml;000081.025;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;81.42;0x8;{const char *const };{};{};{}
+kSbDiagnosticUrl;000058.025;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;58.41;0x8;{const char *const };{};{};{}
+kSbDiagnosticUrl;000061.025;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;61.41;0x8;{const char *const };{};{};{}
+kSbReportPhishingErrorUrl;000065.025;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;65.50;0x8;{const char *const };{};{};{}
+kShowDiagnosticCommand;000100.025;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;100.47;0x8;{const char *const };{};{};{}
+kShowPrivacyCommand;000104.025;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;104.44;0x8;{const char *const };{};{};{}
+kSiteProcessMapKeyName;000130.019;content/browser/renderer_host/render_process_host_impl.cc;130.41;0x8;{const char *};{};{};{}
+kSlashESlash;000076.018;chrome/renderer/plugins/plugin_placeholder.cc;76.30;0x0;{const char *const };{};{};{}
+kSlashVSlash;000075.018;chrome/renderer/plugins/plugin_placeholder.cc;75.30;0x0;{const char *const };{};{};{}
+kSocketIdKey;000011.019;content/browser/renderer_host/socket_stream_host.cc;11.31;0x8;{const char *};{};{};{}
+kSoloCard;000133.025;chrome/browser/autofill/credit_card.h;133.34;0x0;{const char *const };{};{};{}
+kSoloCard;000612.018;chrome/browser/autofill/credit_card.cc;612.27;0x0;{const char *const };{};{};{}
+kSubstringReplaceWithObserverId;000017.012;chrome/browser/automation/automation_event_observers.cc;17.61;0x0;{const char *};{DomEventObserver};{};{}
+kSyncServerUrl;000088.012;chrome/browser/sync/profile_sync_service.cc;88.46;0x0;{const char *};{ProfileSyncService};{};{}
+kSyncUnrecoverableErrorHistogram;000102.019;chrome/browser/sync/profile_sync_service.cc;102.51;0x8;{const char *};{};{};{}
+kTakeMeBackCommand;000106.025;chrome/browser/safe_browsing/safe_browsing_blocking_page.cc;106.43;0x8;{const char *const };{};{};{}
+kTargetLanguagesKey;000188.018;chrome/browser/translate/translate_manager.cc;188.55;0x0;{const char *const };{TranslateManager};{};{}
+kTestDir;000188.026;chrome/browser/ui/panels/base_panel_browser_test.cc;188.56;0x0;{constanonymous FilePath::CharType *};{BasePanelBrowserTest};{};{}
+kTilingNoRepeat;000048.012;chrome/browser/themes/theme_service.cc;48.41;0x0;{const char *};{ThemeService};{};{}
+kTilingRepeat;000051.012;chrome/browser/themes/theme_service.cc;51.39;0x0;{const char *};{ThemeService};{};{}
+kTilingRepeatX;000049.012;chrome/browser/themes/theme_service.cc;49.40;0x0;{const char *};{ThemeService};{};{}
+kTilingRepeatY;000050.012;chrome/browser/themes/theme_service.cc;50.40;0x0;{const char *};{ThemeService};{};{}
+kTypeFolder;000034.012;chrome/browser/bookmarks/bookmark_codec.cc;34.38;0x0;{const char *};{BookmarkCodec};{};{}
+kTypeKey;000027.012;chrome/browser/bookmarks/bookmark_codec.cc;27.35;0x0;{const char *};{BookmarkCodec};{};{}
+kTypeURL;000033.012;chrome/browser/bookmarks/bookmark_codec.cc;33.35;0x0;{const char *};{BookmarkCodec};{};{}
+kURLKey;000030.012;chrome/browser/bookmarks/bookmark_codec.cc;30.34;0x0;{const char *};{BookmarkCodec};{};{}
+kUnexpectedJSONFormatError;000013.012;chrome/common/web_resource/web_resource_unpacker.cc;13.59;0x0;{const char *};{WebResourceUnpacker};{};{}
+kUserDataKey;000014.004;chrome/browser/ui/snapshot_tab_helper.cc;14.35;0x0;{int};{SnapshotTabHelper};{};{}
+kUserDataKey;000015.004;chrome/browser/ui/metro_pin_tab_helper.cc;15.35;0x0;{int};{MetroPinTabHelper};{};{}
+kUserDataKey;000015.012;content/common/net/url_request_user_data.cc;15.44;0x0;{const void *};{URLRequestUserData};{};{}
+kUserDataKey;000016.004;chrome/browser/sessions/session_tab_helper.cc;16.34;0x0;{int};{SessionTabHelper};{};{}
+kUserDataKey;000016.004;chrome/browser/ui/pdf/pdf_tab_helper.cc;16.30;0x0;{int};{PDFTabHelper};{};{}
+kUserDataKey;000019.004;chrome/browser/ui/alternate_error_tab_observer.cc;19.47;0x0;{int};{AlternateErrorPageTabObserver};{};{}
+kUserDataKey;000019.004;chrome/browser/ui/bookmarks/bookmark_tab_helper.cc;19.35;0x0;{int};{BookmarkTabHelper};{};{}
+kUserDataKey;000031.004;chrome/browser/printing/print_preview_message_handler.cc;31.54;0x0;{int};{printing::PrintPreviewMessageHandler};{};{}
+kUserDataKey;000045.004;chrome/browser/omnibox_search_hint.cc;45.35;0x0;{int};{OmniboxSearchHint};{};{}
+kUserDataKey;000048.004;chrome/browser/printing/print_view_manager.cc;48.44;0x0;{int};{printing::PrintViewManager};{};{}
+kUserDataKey;000052.004;chrome/browser/ui/sync/one_click_signin_helper.cc;52.38;0x0;{int};{OneClickSigninHelper};{};{}
+kUserDataKey;000184.004;chrome/browser/ssl/ssl_tab_helper.cc;184.30;0x0;{int};{SSLTabHelper};{};{}
+kValidInputRates;000030.011;content/renderer/media/webrtc_audio_device_impl.cc;30.27;0x8;{int []};{};{};{}
+kValidInputRates;000035.011;content/renderer/media/webrtc_audio_device_impl.cc;35.27;0x8;{int []};{};{};{}
+kValidOutputRates;000031.011;content/renderer/media/webrtc_audio_device_impl.cc;31.28;0x8;{int []};{};{};{}
+kValidOutputRates;000036.011;content/renderer/media/webrtc_audio_device_impl.cc;36.28;0x8;{int []};{};{};{}
+kVersionKey;000024.012;chrome/browser/bookmarks/bookmark_codec.cc;24.38;0x0;{const char *};{BookmarkCodec};{};{}
+kVisaCard;000134.025;chrome/browser/autofill/credit_card.h;134.34;0x0;{const char *const };{};{};{}
+kVisaCard;000613.018;chrome/browser/autofill/credit_card.cc;613.27;0x0;{const char *const };{};{};{}
+key_;000297.014;chrome/browser/internal_auth.cc;297.18;0x0;{std::string};{};{};{}
+key_change_tick_;000308.008;chrome/browser/internal_auth.cc;308.24;0x0;{int64};{};{};{}
+key_name;000055.022;net/third_party/nss/ssl/ssl3ext.c;55.30;0x8;{unsigned char []};{};{};{}
+keyring_loaded;000032.005;chrome/browser/password_manager/native_backend_gnome_x.cc;32.39;0x0;{bool};{GnomeKeyringLoader};{};{}
+keys;000015.010;chrome/common/extensions/matcher/url_matcher_factory.cc;15.14;0x0;{namespace};{};{};{}
+keys;000016.010;chrome/browser/accessibility/accessibility_events.cc;16.14;0x0;{namespace};{};{};{}
+keys;000018.010;chrome/common/extensions/manifest.cc;18.14;0x0;{namespace};{};{};{}
+keys;000019.010;chrome/browser/bookmarks/bookmark_extension_helpers.cc;19.14;0x0;{namespace};{};{};{}
+keys;000019.010;chrome/browser/extensions/api/declarative_webrequest/webrequest_condition.cc;19.14;0x0;{namespace};{};{};{}
+keys;000019.010;chrome/common/extensions/command.cc;19.14;0x0;{namespace};{};{};{}
+keys;000021.010;chrome/browser/extensions/api/web_request/upload_data_presenter.cc;21.14;0x0;{namespace};{};{};{}
+keys;000023.010;chrome/browser/accessibility/accessibility_extension_api.cc;23.14;0x0;{namespace};{};{};{}
+keys;000026.010;chrome/browser/extensions/api/extension_action/extension_page_actions_api.cc;26.14;0x0;{namespace};{};{};{}
+keys;000027.010;chrome/browser/extensions/convert_user_script.cc;27.14;0x0;{namespace};{};{};{}
+keys;000027.010;chrome/common/extensions/extension_l10n_util.cc;27.14;0x0;{namespace};{};{};{}
+keys;000029.010;chrome/browser/extensions/api/idle/idle_api.cc;29.14;0x0;{namespace};{};{};{}
+keys;000029.010;chrome/browser/extensions/extension_preference_api.cc;29.14;0x0;{namespace};{};{};{}
+keys;000030.010;chrome/browser/extensions/extension_tab_util.cc;30.14;0x0;{namespace};{};{};{}
+keys;000032.010;chrome/browser/extensions/browser_extension_window_controller.cc;32.14;0x0;{namespace};{};{};{}
+keys;000033.010;chrome/common/extensions/unpacker.cc;33.14;0x0;{namespace};{};{};{}
+keys;000037.010;chrome/browser/bookmarks/bookmark_manager_extension_api.cc;37.14;0x0;{namespace};{};{};{}
+keys;000037.010;chrome/browser/extensions/api/tabs/execute_code_in_tab_function.cc;37.14;0x0;{namespace};{};{};{}
+keys;000038.010;chrome/browser/extensions/api/managed_mode/managed_mode_api.cc;38.14;0x0;{namespace};{};{};{}
+keys;000045.010;chrome/browser/bookmarks/bookmark_extension_api.cc;45.14;0x0;{namespace};{};{};{}
+keys;000051.010;chrome/browser/extensions/api/debugger/debugger_api.cc;51.14;0x0;{namespace};{};{};{}
+keys;000051.010;chrome/browser/extensions/api/offscreen_tabs/offscreen_tabs_api.cc;51.14;0x0;{namespace};{};{};{}
+keys;000059.010;chrome/browser/extensions/api/management/management_api.cc;59.14;0x0;{namespace};{};{};{}
+keys;000059.010;chrome/common/extensions/extension.cc;59.14;0x0;{namespace};{};{};{}
+keys;000070.010;chrome/browser/extensions/api/web_request/web_request_api.cc;70.14;0x0;{namespace};{};{};{}
+keys;000086.010;chrome/browser/extensions/api/tabs/tabs.cc;86.14;0x0;{namespace};{};{};{}
+last_dump_alloc;000210.013;third_party/tcmalloc/chromium/src/heap-profiler.cc;210.28;0x8;{int64};{};{};{}
+last_dump_free;000211.013;third_party/tcmalloc/chromium/src/heap-profiler.cc;211.27;0x8;{int64};{};{};{}
+last_dump_time;000213.013;third_party/tcmalloc/chromium/src/heap-profiler.cc;213.27;0x8;{int64};{};{};{}
+last_stat_time;000052.014;base/third_party/xdg_mime/xdgmime.c;52.28;0x8;{time_t};{};{};{}
+lazy_tls;000013.004;chrome/service/cloud_print/cloud_print_token_store.cc;13.12;0x8;{base::LazyInstance<base::ThreadLocalPointer<CloudPrintTokenStore>>};{};{};{}
+lazy_tls;000027.067;content/worker/worker_thread.cc;27.75;0x8;{base::LazyInstance<base::ThreadLocalPointer<WorkerThread>>};{};{};{}
+lazy_tls;000073.067;content/plugin/plugin_thread.cc;73.75;0x8;{base::LazyInstance<base::ThreadLocalPointer<PluginThread>>};{};{};{}
+lazy_tls_ptr;000013.004;content/browser/notification_service_impl.cc;13.16;0x8;{base::LazyInstance<base::ThreadLocalPointer<NotificationServiceImpl>>};{};{};{}
+lazy_tls_ptr_;000158.006;ipc/ipc_sync_channel.cc;158.19;0x8;{base::LazyInstance<base::ThreadLocalPointer<ReceivedSyncMsgQueue>>};{};{};{}
+lazy_tls_ptr_;000226.004;ipc/ipc_sync_channel.cc;226.52;0x0;{base::LazyInstance<base::ThreadLocalPointer<SyncChannel::ReceivedSyncMsgQueue>>};{SyncChannel::ReceivedSyncMsgQueue};{};{}
+lens;000034.020;third_party/zlib/inftrees.c;34.24;0x0;{unsigned short FAR *};{};{};{}
+libpthread_initialized;000155.012;third_party/tcmalloc/chromium/src/memory_region_map.cc;155.34;0x8;{bool};{};{};{}
+libraryName;000146.019;net/third_party/nss/ssl/bodge/loader.c;146.30;0x8;{const char *};{};{};{}
+libthai_resolved;000034.011;third_party/harfbuzz/src/harfbuzz-thai.c;34.27;0x8;{int};{};{};{}
+libxml_is_threaded;000049.011;third_party/libxml/src/threads.c;49.29;0x8;{int};{};{};{}
+listener_count_;000217.006;ipc/ipc_sync_channel.cc;217.21;0x0;{int};{};{};{}
+listener_task_runner_;000214.046;ipc/ipc_sync_channel.cc;214.67;0x0;{scoped_refptr<base::SingleThreadTaskRunner>};{};{};{}
+loadFreeBLOnce;000190.022;net/third_party/nss/ssl/bodge/loader.c;190.36;0x8;{PRCallOnceType};{};{};{}
+lockOnce;000134.022;net/third_party/nss/ssl/sslnonce.c;134.30;0x8;{PRCallOnceType};{};{};{}
+lockStatus;000223.005;net/third_party/nss/ssl/sslsock.c;223.15;0x0;{char []};{};{};{}
+lock_owner_tid_;000147.010;third_party/tcmalloc/chromium/src/memory_region_map.cc;147.42;0x0;{pthread_t};{MemoryRegionMap};{};{}
+locksEverDisabled;000216.024;net/third_party/nss/ssl/sslsock.c;216.41;0x0;{PRBool};{};{};{}
+log_fn;000153.020;third_party/libevent/log.c;153.26;0x8;{event_log_cb};{};{};{}
+m_fragmentShader;000077.019;cc/ProgramBinding.h;77.35;0x0;{FragmentShader};{};{};{}
+m_rateLimiter;000037.024;cc/RateLimiter.cpp;37.37;0x0;{RefPtr<RateLimiter>};{};{};{}
+main_loop_;000608.015;chrome/browser/webdata/web_data_service.h;608.25;0x0;{MessageLoop *};{};{};{}
+mainthread;000147.017;third_party/libxml/src/threads.c;147.27;0x8;{pthread_t};{};{};{}
+mainthread;000157.013;third_party/libxml/src/threads.c;157.23;0x8;{DWORD};{};{};{}
+mainthread;000167.010;third_party/libxml/src/threads.c;167.20;0x0;{thread_id};{};{};{}
+management;000060.010;chrome/browser/extensions/api/management/management_api.cc;60.20;0x0;{namespace};{};{};{}
+map_;000087.012;content/browser/debugger/worker_devtools_manager.cc;87.16;0x0;{Instances};{};{};{}
+map_size_;000148.006;third_party/tcmalloc/chromium/src/memory_region_map.cc;148.32;0x0;{int64};{MemoryRegionMap};{};{}
+max_entry_count_for_testing_;000141.007;content/browser/web_contents/navigation_controller_impl.cc;141.61;0x0;{size_t};{NavigationControllerImpl};{};{}
+max_stack_depth_;000140.004;third_party/tcmalloc/chromium/src/memory_region_map.cc;140.37;0x0;{int};{MemoryRegionMap};{};{}
+maybeAllowedByPolicy;000156.016;net/third_party/nss/ssl/sslcon.c;156.36;0x8;{PRUint16};{};{};{}
+mem;014705.002;third_party/sqlite/amalgamation/sqlite3.c;14705.5;0x8;{anonymous};{};{};{}
+mem0;017783.002;third_party/sqlite/amalgamation/sqlite3.c;17783.6;0x8;{SQLITE_WSDMem0Global};{};{};{}
+mem3;015251.002;third_party/sqlite/amalgamation/sqlite3.c;15251.6;0x8;{SQLITE_WSDMem3Global};{};{};{}
+mem5;015931.002;third_party/sqlite/amalgamation/sqlite3.c;15931.6;0x8;{SQLITE_WSDMem5Global};{};{};{}
+memio_identity;000343.022;net/base/nss_memio.c;343.36;0x8;{PRDescIdentity};{};{};{}
+memio_layer_methods;000304.027;net/base/nss_memio.c;304.46;0x8;{PRIOMethods};{};{};{}
+memlist;000121.015;third_party/libxml/src/xmlmemory.c;121.22;0x8;{MEMHDR *};{};{};{}
+menu_nine_box_active_;000100.009;chrome/browser/ui/gtk/download/download_item_gtk.cc;100.47;0x0;{NineBox *};{DownloadItemGtk};{};{}
+menu_nine_box_normal_;000098.009;chrome/browser/ui/gtk/download/download_item_gtk.cc;98.47;0x0;{NineBox *};{DownloadItemGtk};{};{}
+menu_nine_box_prelight_;000099.009;chrome/browser/ui/gtk/download/download_item_gtk.cc;99.49;0x0;{NineBox *};{DownloadItemGtk};{};{}
+message_lock_;000215.013;ipc/ipc_sync_channel.cc;215.26;0x0;{base::Lock};{};{};{}
+message_queue_;000205.019;ipc/ipc_sync_channel.cc;205.33;0x0;{SyncMessageQueue};{};{};{}
+message_queue_version_;000206.009;ipc/ipc_sync_channel.cc;206.31;0x0;{uint32};{};{};{}
+mmap_heap_profiler_memory;000167.029;third_party/tcmalloc/chromium/src/heap-profiler.cc;167.54;0x8;{int LowLevelAlloc::Arena *};{};{};{}
+mmap_hook_;000305.006;third_party/tcmalloc/chromium/src/malloc_hook.cc;305.32;0x0;{using};{base::internal};{};{}
+mmap_hooks_;000316.006;third_party/tcmalloc/chromium/src/malloc_hook.cc;316.33;0x0;{using};{base::internal};{};{}
+mmap_replacement_;000317.006;third_party/tcmalloc/chromium/src/malloc_hook.cc;317.39;0x0;{using};{base::internal};{};{}
+mmap_space;000157.012;third_party/tcmalloc/chromium/src/system-alloc.cc;157.22;0x8;{char []};{};{};{}
+module_enter_exit_hook;000937.021;third_party/tcmalloc/chromium/src/tcmalloc.cc;937.43;0x8;{TCMallocGuard};{};{};{}
+module_init;000197.022;third_party/tcmalloc/chromium/src/malloc_extension.cc;197.33;0x8;{pthread_once_t};{};{};{}
+monotonic_clkid;000093.017;third_party/libusb/src/libusb/os/linux_usbfs.c;93.32;0x8;{clockid_t};{};{};{}
+mremap_hook_;000307.006;third_party/tcmalloc/chromium/src/malloc_hook.cc;307.34;0x0;{using};{base::internal};{};{}
+mremap_hooks_;000320.006;third_party/tcmalloc/chromium/src/malloc_hook.cc;320.35;0x0;{using};{base::internal};{};{}
+munmap_hook_;000306.006;third_party/tcmalloc/chromium/src/malloc_hook.cc;306.34;0x0;{using};{base::internal};{};{}
+munmap_hooks_;000318.006;third_party/tcmalloc/chromium/src/malloc_hook.cc;318.35;0x0;{using};{base::internal};{};{}
+munmap_replacement_;000319.006;third_party/tcmalloc/chromium/src/malloc_hook.cc;319.41;0x0;{using};{base::internal};{};{}
+mutexIsInit;016408.022;third_party/sqlite/amalgamation/sqlite3.c;16408.33;0x8;{int SQLITE_WSD};{};{};{}
+myPid;000298.014;net/third_party/nss/ssl/sslsnce.c;298.19;0x8;{sslPID};{};{};{}
+my_pow10;009922.014;third_party/libxml/src/xpath.c;9922.22;0x8;{double []};{};{};{}
+nQPlan;102048.011;third_party/sqlite/amalgamation/sqlite3.c;102048.17;0x8;{int};{};{};{}
+n_caches;000064.011;base/third_party/xdg_mime/xdgmime.c;64.19;0x8;{int};{};{};{}
+name_;000101.014;chrome/browser/extensions/api/web_request/form_data_parser.cc;101.19;0x0;{std::string};{};{};{}
+nbCharEncodingHandler;001285.011;third_party/libxml/src/encoding.c;1285.32;0x8;{int};{};{};{}
+nbParseNCName;002946.021;third_party/libxml/src/parser.c;2946.34;0x8;{unsigned long};{};{};{}
+nbParseNCNameComplex;002947.021;third_party/libxml/src/parser.c;2947.41;0x8;{unsigned long};{};{};{}
+nbParseName;002944.021;third_party/libxml/src/parser.c;2944.32;0x8;{unsigned long};{};{};{}
+nbParseNameComplex;002948.021;third_party/libxml/src/parser.c;2948.39;0x8;{unsigned long};{};{};{}
+nbParseNmToken;002945.021;third_party/libxml/src/parser.c;2945.35;0x8;{unsigned long};{};{};{}
+nbParseStringName;002949.021;third_party/libxml/src/parser.c;2949.38;0x8;{unsigned long};{};{};{}
+need_reread;000051.011;base/third_party/xdg_mime/xdgmime.c;51.22;0x8;{int};{};{};{}
+new_hook_;000302.006;third_party/tcmalloc/chromium/src/malloc_hook.cc;302.31;0x0;{using};{base::internal};{};{}
+new_hooks_;000313.006;third_party/tcmalloc/chromium/src/malloc_hook.cc;313.32;0x0;{using};{base::internal};{};{}
+next_child_id_;000023.006;content/browser/accessibility/browser_accessibility_manager.cc;23.49;0x0;{int32};{BrowserAccessibilityManager};{};{}
+next_completion_callback_id_;000036.004;chrome/browser/automation/automation_resource_message_filter.cc;36.65;0x0;{int};{AutomationResourceMessageFilter};{};{}
+next_entry_id;000047.026;chrome/browser/sessions/tab_restore_service.cc;47.39;0x8;{SessionID::id_type};{};{};{}
+next_id;000009.026;chrome/browser/sessions/session_id.cc;9.33;0x8;{SessionID::id_type};{};{};{}
+next_key;000072.011;third_party/tcmalloc/chromium/src/maybe_threads.cc;72.19;0x8;{int};{};{};{}
+next_ptr;000201.010;third_party/zlib/zutil.c;201.18;0x0;{int local};{};{};{}
+next_request_handle_;000602.009;chrome/browser/webdata/web_data_service.h;602.29;0x0;{Handle};{};{};{}
+next_site_instance_id_;000043.006;content/browser/site_instance_impl.cc;43.46;0x0;{int32};{SiteInstanceImpl};{};{}
+next_utterance_id_;000074.004;chrome/browser/speech/extension_api/tts_extension_api_controller.cc;74.33;0x0;{int};{Utterance};{};{}
+noinline;000014.043;third_party/libpng/pnggccrd.c;14.51;0x0;{int __attribute__ (())};{};{};{}
+noinline;000093.018;third_party/tcmalloc/chromium/src/base/linuxthreads.cc;93.26;0x8;{int __attribute__ (())};{};{};{}
+npclass_proxy_;000022.008;content/common/npobject_proxy.cc;22.37;0x0;{NPClass};{NPObjectProxy};{};{}
+nvctrl_ext_info;000051.023;third_party/libXNVCtrl/NVCtrl.c;51.38;0x8;{XExtensionInfo *};{};{};{}
+nvctrl_extension_hooks;000062.035;third_party/libXNVCtrl/NVCtrl.c;62.57;0x8;{XExtensionHooks};{};{};{}
+nvctrl_extension_name;000052.025;third_party/libXNVCtrl/NVCtrl.c;52.46;0x8;{char *};{};{};{}
+oldXMLWDcompatibility;000221.004;third_party/libxml/src/globals.c;221.25;0x0;{int};{};{};{}
+oldXMLWDcompatibility;000290.014;third_party/libxml/src/include/libxml/globals.h;290.35;0x0;{int XMLPUBVAR};{};{};{}
+old_engine_;000305.027;chrome/browser/internal_auth.cc;305.38;0x0;{scoped_ptr<crypto::HMAC>};{};{};{}
+old_http_factory_;000048.034;chrome/browser/automation/url_request_automation_job.cc;48.76;0x0;{int net::URLRequest::ProtocolFactory *};{URLRequestAutomationJob};{};{}
+old_https_factory_;000050.034;chrome/browser/automation/url_request_automation_job.cc;50.77;0x0;{int net::URLRequest::ProtocolFactory *};{URLRequestAutomationJob};{};{}
+old_key_;000301.014;chrome/browser/internal_auth.cc;301.22;0x0;{std::string};{};{};{}
+once;000059.022;net/third_party/nss/ssl/sslerrstrs.c;59.26;0x8;{PRCallOnceType};{};{};{}
+once_;000217.015;third_party/tcmalloc/chromium/src/profile-handler.cc;217.36;0x0;{pthread_once_t};{ProfileHandler};{};{}
+once_control;000148.022;third_party/libxml/src/threads.c;148.34;0x8;{pthread_once_t};{};{};{}
+onebppswaptable;000286.026;third_party/libpng/pngtrans.c;286.41;0x8;{png_byte []};{};{};{}
+operation_completed_condvar_;000161.038;ppapi/shared_impl/tracked_callback.h;161.66;0x0;{scoped_ptr<base::ConditionVariable>};{};{};{}
+operator;000110.016;skia/ext/canvas_paint_gtk.h;110.24;0x0;{CanvasPaintT &};{};{};{}
+operator;000112.016;skia/ext/canvas_paint_mac.h;112.24;0x0;{CanvasPaintT &};{};{};{}
+operator;000129.016;skia/ext/canvas_paint_win.h;129.24;0x0;{CanvasPaintT &};{};{};{}
+origin_usage_map_;000135.024;webkit/quota/usage_tracker.cc;135.41;0x0;{std::map<GURL,int64>};{};{};{}
+os2ShmNodeList;022826.019;third_party/sqlite/amalgamation/sqlite3.c;22826.33;0x8;{os2ShmNode *};{};{};{}
+output_;000156.018;ppapi/cpp/array_output.h;156.25;0x0;{int std::vector<T> *};{};{};{}
+output_buffer_size;000013.014;content/renderer/media/audio_hardware.cc;13.32;0x8;{size_t};{};{};{}
+output_sample_rate;000011.011;content/renderer/media/audio_hardware.cc;11.29;0x8;{int};{};{};{}
+page_action_keys;000032.010;chrome/browser/extensions/browser_event_router.cc;32.26;0x0;{namespace};{};{};{}
+pagesize;000119.014;third_party/tcmalloc/chromium/src/system-alloc.cc;119.22;0x8;{size_t};{};{};{}
+pagesize;001665.014;third_party/tcmalloc/chromium/src/tcmalloc.cc;1665.22;0x8;{size_t};{};{};{}
+parent_list;000057.022;base/third_party/xdg_mime/xdgmime.c;57.33;0x8;{XdgParentList *};{};{};{}
+path_;000577.011;chrome/browser/webdata/web_data_service.h;577.16;0x0;{FilePath};{};{};{}
+patterns_;000108.018;chrome/browser/extensions/api/web_request/form_data_parser.cc;108.27;0x0;{const Patterns *};{};{};{}
+pcache1_g;035053.002;third_party/sqlite/amalgamation/sqlite3.c;35053.11;0x8;{SQLITE_WSDPCacheGlobal};{};{};{}
+pending_destroyers_;000022.032;chrome/browser/profiles/profile_destroyer.cc;22.69;0x0;{anonymous std::vector<ProfileDestroyer*> *};{ProfileDestroyer};{};{}
+pending_lock_;000599.013;chrome/browser/webdata/web_data_service.h;599.26;0x0;{base::Lock};{};{};{}
+pending_origins_;000134.019;webkit/quota/usage_tracker.cc;134.35;0x0;{std::deque<GURL>};{};{};{}
+pending_requests_;000605.013;chrome/browser/webdata/web_data_service.h;605.30;0x0;{RequestMap};{};{};{}
+perftools_pthread_specific_vals;000071.013;third_party/tcmalloc/chromium/src/maybe_threads.cc;71.44;0x8;{void *[]};{};{};{}
+phone_field_grammars_;000040.019;chrome/browser/autofill/phone_field.cc;40.52;0x0;{PhoneField::Parser []};{PhoneField};{};{}
+pixel_store;000034.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;34.34;0x0;{ValueValidator<GLenum>};{};{};{}
+pixel_store_alignment;000035.022;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;35.43;0x0;{ValueValidator<GLint>};{};{};{}
+pixel_type;000036.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;36.33;0x0;{ValueValidator<GLenum>};{};{};{}
+png_IDAT;003071.034;third_party/libpng/png.h;3071.42;0x0;{int []};{};{};{}
+png_IEND;003072.034;third_party/libpng/png.h;3072.42;0x0;{int []};{};{};{}
+png_IHDR;003070.034;third_party/libpng/png.h;3070.42;0x0;{int []};{};{};{}
+png_PLTE;003073.034;third_party/libpng/png.h;3073.42;0x0;{int []};{};{};{}
+png_bKGD;003074.034;third_party/libpng/png.h;3074.42;0x0;{int []};{};{};{}
+png_cHRM;003075.034;third_party/libpng/png.h;3075.42;0x0;{int []};{};{};{}
+png_digit;000154.022;third_party/libpng/pngerror.c;154.31;0x8;{char PNG_CONST []};{};{};{}
+png_gAMA;003076.034;third_party/libpng/png.h;3076.42;0x0;{int []};{};{};{}
+png_gamma_shift;004146.021;third_party/libpng/pngrtran.c;4146.36;0x8;{int PNG_CONST []};{};{};{}
+png_hIST;003077.034;third_party/libpng/png.h;3077.42;0x0;{int []};{};{};{}
+png_iCCP;003078.034;third_party/libpng/png.h;3078.42;0x0;{int []};{};{};{}
+png_iTXt;003079.034;third_party/libpng/png.h;3079.42;0x0;{int []};{};{};{}
+png_libpng_ver;000028.015;third_party/libpng/png.c;28.29;0x0;{char PNG_CONST []};{};{};{}
+png_libpng_ver;000603.032;third_party/libpng/png.h;603.46;0x0;{int []};{};{};{}
+png_oFFs;003080.034;third_party/libpng/png.h;3080.42;0x0;{int []};{};{};{}
+png_pCAL;003081.034;third_party/libpng/png.h;3081.42;0x0;{int []};{};{};{}
+png_pHYs;003083.034;third_party/libpng/png.h;3083.42;0x0;{int []};{};{};{}
+png_pass_dsp_mask;000085.022;third_party/libpng/png.c;85.39;0x0;{int FARDATA []};{};{};{}
+png_pass_dsp_mask;000617.039;third_party/libpng/png.h;617.56;0x0;{int []};{};{};{}
+png_pass_inc;000067.022;third_party/libpng/png.c;67.34;0x0;{int FARDATA []};{};{};{}
+png_pass_inc;000613.039;third_party/libpng/png.h;613.51;0x0;{int []};{};{};{}
+png_pass_mask;000081.022;third_party/libpng/png.c;81.35;0x0;{int FARDATA []};{};{};{}
+png_pass_mask;000616.039;third_party/libpng/png.h;616.52;0x0;{int []};{};{};{}
+png_pass_start;000064.022;third_party/libpng/png.c;64.36;0x0;{int FARDATA []};{};{};{}
+png_pass_start;000612.039;third_party/libpng/png.h;612.53;0x0;{int []};{};{};{}
+png_pass_yinc;000073.022;third_party/libpng/png.c;73.35;0x0;{int FARDATA []};{};{};{}
+png_pass_yinc;000615.039;third_party/libpng/png.h;615.52;0x0;{int []};{};{};{}
+png_pass_ystart;000070.022;third_party/libpng/png.c;70.37;0x0;{int FARDATA []};{};{};{}
+png_pass_ystart;000614.039;third_party/libpng/png.h;614.54;0x0;{int []};{};{};{}
+png_ptr;001599.023;third_party/libpng/png.h;1599.30;0x0;{PNGARG (())};{};{};{}
+png_ptr;001608.061;third_party/libpng/png.h;1608.68;0x0;{PNGARG (())};{};{};{}
+png_ptr;001635.064;third_party/libpng/png.h;1635.71;0x0;{PNGARG (())};{};{};{}
+png_ptr;001682.059;third_party/libpng/png.h;1682.66;0x0;{PNGARG (())};{};{};{}
+png_ptr;001685.002;third_party/libpng/png.h;1685.9;0x0;{PNGARG (())};{};{};{}
+png_ptr;001687.067;third_party/libpng/png.h;1687.74;0x0;{PNGARG (())};{};{};{}
+png_ptr;001688.066;third_party/libpng/png.h;1688.73;0x0;{PNGARG (())};{};{};{}
+png_ptr;001698.056;third_party/libpng/png.h;1698.63;0x0;{PNGARG (())};{};{};{}
+png_ptr;001703.064;third_party/libpng/png.h;1703.71;0x0;{PNGARG (())};{};{};{}
+png_ptr;001715.003;third_party/libpng/png.h;1715.10;0x0;{PNGARG (())};{};{};{}
+png_ptr;001722.064;third_party/libpng/png.h;1722.71;0x0;{PNGARG (())};{};{};{}
+png_ptr;001727.063;third_party/libpng/png.h;1727.70;0x0;{PNGARG (())};{};{};{}
+png_ptr;001732.065;third_party/libpng/png.h;1732.72;0x0;{PNGARG (())};{};{};{}
+png_ptr;001751.057;third_party/libpng/png.h;1751.64;0x0;{PNGARG (())};{};{};{}
+png_ptr;001756.060;third_party/libpng/png.h;1756.67;0x0;{PNGARG (())};{};{};{}
+png_ptr;001761.061;third_party/libpng/png.h;1761.68;0x0;{PNGARG (())};{};{};{}
+png_ptr;001773.070;third_party/libpng/png.h;1773.77;0x0;{PNGARG (())};{};{};{}
+png_ptr;001778.064;third_party/libpng/png.h;1778.71;0x0;{PNGARG (())};{};{};{}
+png_ptr;001796.061;third_party/libpng/png.h;1796.68;0x0;{PNGARG (())};{};{};{}
+png_ptr;001828.060;third_party/libpng/png.h;1828.67;0x0;{PNGARG (())};{};{};{}
+png_ptr;001832.065;third_party/libpng/png.h;1832.72;0x0;{PNGARG (())};{};{};{}
+png_ptr;002048.067;third_party/libpng/png.h;2048.74;0x0;{PNGARG (())};{};{};{}
+png_ptr;002068.064;third_party/libpng/png.h;2068.71;0x0;{PNGARG (())};{};{};{}
+png_ptr;002081.065;third_party/libpng/png.h;2081.72;0x0;{PNGARG (())};{};{};{}
+png_ptr;002104.023;third_party/libpng/png.h;2104.30;0x0;{PNGARG (())};{};{};{}
+png_ptr;002111.003;third_party/libpng/png.h;2111.10;0x0;{PNGARG (())};{};{};{}
+png_ptr;002125.023;third_party/libpng/png.h;2125.30;0x0;{PNGARG (())};{};{};{}
+png_ptr;002712.067;third_party/libpng/png.h;2712.74;0x0;{PNGARG (())};{};{};{}
+png_ptr;002713.068;third_party/libpng/png.h;2713.75;0x0;{PNGARG (())};{};{};{}
+png_ptr;002714.072;third_party/libpng/png.h;2714.79;0x0;{PNGARG (())};{};{};{}
+png_ptr;002715.068;third_party/libpng/png.h;2715.75;0x0;{PNGARG (())};{};{};{}
+png_ptr;002769.023;third_party/libpng/png.h;2769.30;0x0;{PNGARG (())};{};{};{}
+png_ptr;002773.023;third_party/libpng/png.h;2773.30;0x0;{PNGARG (())};{};{};{}
+png_ptr;002777.023;third_party/libpng/png.h;2777.30;0x0;{PNGARG (())};{};{};{}
+png_ptr;002809.003;third_party/libpng/png.h;2809.10;0x0;{PNGARG (())};{};{};{}
+png_ptr;002811.003;third_party/libpng/png.h;2811.10;0x0;{PNGARG (())};{};{};{}
+png_sBIT;003084.034;third_party/libpng/png.h;3084.42;0x0;{int []};{};{};{}
+png_sCAL;003082.034;third_party/libpng/png.h;3082.42;0x0;{int []};{};{};{}
+png_sPLT;003085.034;third_party/libpng/png.h;3085.42;0x0;{int []};{};{};{}
+png_sRGB;003086.034;third_party/libpng/png.h;3086.42;0x0;{int []};{};{};{}
+png_sig;000034.027;third_party/libpng/png.c;34.34;0x0;{FARDATA []};{};{};{}
+png_sig;003038.047;third_party/libpng/png.h;3038.54;0x0;{int []};{};{};{}
+png_tEXt;003087.034;third_party/libpng/png.h;3087.42;0x0;{int []};{};{};{}
+png_tIME;003088.034;third_party/libpng/png.h;3088.42;0x0;{int []};{};{};{}
+png_tRNS;003089.034;third_party/libpng/png.h;3089.42;0x0;{int []};{};{};{}
+png_zTXt;003090.034;third_party/libpng/png.h;3090.42;0x0;{int []};{};{};{}
+policyWasSet;000058.014;net/third_party/nss/ssl/sslcon.c;58.26;0x8;{PRBool};{};{};{}
+pref_helpers;000037.010;chrome/browser/extensions/api/content_settings/content_settings_api.cc;37.22;0x0;{namespace};{};{};{}
+pref_keys;000038.010;chrome/browser/extensions/api/content_settings/content_settings_api.cc;38.19;0x0;{namespace};{};{};{}
+premmap_hook_;000304.006;third_party/tcmalloc/chromium/src/malloc_hook.cc;304.35;0x0;{using};{base::internal};{};{}
+premmap_hooks_;000315.006;third_party/tcmalloc/chromium/src/malloc_hook.cc;315.36;0x0;{using};{base::internal};{};{}
+prerender_icon_;000245.016;chrome/browser/task_manager/task_manager_resource_providers.cc;245.63;0x0;{int gfx::ImageSkia *};{TaskManagerTabContentsResource};{};{}
+presbrk_hook_;000308.006;third_party/tcmalloc/chromium/src/malloc_hook.cc;308.35;0x0;{using};{base::internal};{};{}
+presbrk_hooks_;000321.006;third_party/tcmalloc/chromium/src/malloc_hook.cc;321.36;0x0;{using};{base::internal};{};{}
+prior_lang;000757.016;third_party/cld/encodings/compact_lang_det/compact_lang_det_impl.cc;757.26;0x8;{Language};{};{};{}
+prior_unreliable;000758.012;third_party/cld/encodings/compact_lang_det/compact_lang_det_impl.cc;758.28;0x8;{bool};{};{};{}
+private;000045.001;net/base/cert_database_nss.cc;45.8;0x0;{int};{};{};{}
+private;000056.001;webkit/fileapi/native_file_util.cc;56.8;0x0;{int};{};{};{}
+private;000073.001;base/supports_user_data.h;73.8;0x0;{int};{};{};{}
+private;000074.000;cc/ProgramBinding.h;74.7;0x0;{int};{};{};{}
+private;000126.001;ppapi/shared_impl/tracked_callback.h;126.8;0x0;{int};{};{};{}
+private;000154.001;ppapi/cpp/array_output.h;154.8;0x0;{int};{};{};{}
+private;000181.001;ipc/ipc_sync_channel.cc;181.8;0x0;{int};{};{};{}
+private;000329.001;base/pickle.h;329.8;0x0;{int};{};{};{}
+private;000443.001;chrome/browser/webdata/web_data_service.h;443.8;0x0;{int};{};{};{}
+program_parameter;000037.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;37.40;0x0;{ValueValidator<GLenum>};{};{};{}
+protected;000421.001;chrome/browser/webdata/web_data_service.h;421.10;0x0;{int};{};{};{}
+proxy;000146.013;third_party/libxml/src/nanoftp.c;146.18;0x8;{char *};{};{};{}
+proxy;000167.013;third_party/libxml/src/nanohttp.c;167.18;0x8;{char *};{};{};{}
+proxyPasswd;000149.013;third_party/libxml/src/nanoftp.c;149.24;0x8;{char *};{};{};{}
+proxyPort;000147.011;third_party/libxml/src/nanoftp.c;147.20;0x8;{int};{};{};{}
+proxyPort;000168.011;third_party/libxml/src/nanohttp.c;168.20;0x8;{int};{};{};{}
+proxyType;000150.011;third_party/libxml/src/nanoftp.c;150.20;0x8;{int};{};{};{}
+proxyUser;000148.013;third_party/libxml/src/nanoftp.c;148.22;0x8;{char *};{};{};{}
+psm;000015.010;net/base/keygen_handler_nss.cc;15.13;0x0;{namespace};{};{};{}
+psm;000025.010;chrome/common/net/x509_certificate_model_nss.cc;25.13;0x0;{namespace};{};{};{}
+psm;000033.010;net/base/nss_cert_database.cc;33.13;0x0;{namespace};{};{};{}
+pthread_once_init;000103.022;third_party/tcmalloc/chromium/src/maybe_threads.cc;103.39;0x8;{pthread_once_t};{};{};{}
+qcms_supports_iccv4;000306.017;third_party/qcms/src/qcmsint.h;306.36;0x0;{qcms_bool};{};{};{}
+qcms_supports_iccv4;001345.010;third_party/qcms/src/transform.c;1345.29;0x0;{qcms_bool};{};{};{}
+query_object_parameter;000038.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;38.45;0x0;{ValueValidator<GLenum>};{};{};{}
+query_parameter;000039.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;39.38;0x0;{ValueValidator<GLenum>};{};{};{}
+query_suggest_immediately_;000120.005;chrome/browser/autocomplete/search_provider.cc;120.47;0x0;{bool};{SearchProvider};{};{}
+query_target;000040.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;40.35;0x0;{ValueValidator<GLenum>};{};{};{}
+rcsid;000031.013;third_party/libevent/strlcpy.c;31.18;0x8;{char *};{};{};{}
+read_pixel_format;000041.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;41.40;0x0;{ValueValidator<GLenum>};{};{};{}
+read_pixel_type;000042.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;42.38;0x0;{ValueValidator<GLenum>};{};{};{}
+real_data_;000151.008;net/http/http_stream_parser.cc;151.18;0x0;{char anonymousnet *};{};{};{}
+received_replies_;000208.029;ipc/ipc_sync_channel.cc;208.46;0x0;{std::vector<QueuedMessage>};{};{};{}
+rectangle_;000106.009;skia/ext/canvas_paint_mac.h;106.19;0x0;{NSRect};{};{};{}
+recursion_count_;000146.004;third_party/tcmalloc/chromium/src/memory_region_map.cc;146.37;0x0;{int};{MemoryRegionMap};{};{}
+recursive_insert;000183.012;third_party/tcmalloc/chromium/src/memory_region_map.cc;183.28;0x8;{bool};{};{};{}
+region_;000104.013;skia/ext/canvas_paint_gtk.h;104.20;0x0;{GdkRegion *};{};{};{}
+regions_;000141.028;third_party/tcmalloc/chromium/src/memory_region_map.cc;141.53;0x0;{int MemoryRegionMap::RegionSet *};{MemoryRegionMap};{};{}
+regions_rep;000177.037;third_party/tcmalloc/chromium/src/memory_region_map.cc;177.48;0x8;{MemoryRegionMap::RegionSetRep};{};{};{}
+registrar_;000088.033;content/browser/debugger/worker_devtools_manager.cc;88.43;0x0;{content::NotificationRegistrar};{};{};{}
+registration_statuses_;000177.024;sync/notifier/registration_manager.h;177.46;0x0;{RegistrationStatusMap};{};{};{}
+render_buffer_format;000043.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;43.43;0x0;{ValueValidator<GLenum>};{};{};{}
+render_buffer_parameter;000044.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;44.46;0x0;{ValueValidator<GLenum>};{};{};{}
+render_buffer_target;000045.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;45.43;0x0;{ValueValidator<GLenum>};{};{};{}
+req_head;000228.023;third_party/libevent/evdns.c;228.31;0x8;{request *};{};{};{}
+req_waiting_head;000228.041;third_party/libevent/evdns.c;228.57;0x8;{request *};{};{};{}
+resource_id_;000152.014;ppapi/shared_impl/tracked_callback.h;152.26;0x0;{PP_Resource};{};{};{}
+result_for_blocked_callback_;000157.010;ppapi/shared_impl/tracked_callback.h;157.38;0x0;{int32_t};{};{};{}
+rtreeModule;125076.022;third_party/sqlite/amalgamation/sqlite3.c;125076.33;0x8;{sqlite3_module};{};{};{}
+run_once;000161.002;third_party/libxml/src/threads.c;161.10;0x8;{anonymous};{};{};{}
+run_once_init;000168.006;third_party/libxml/src/threads.c;168.19;0x0;{int32};{};{};{}
+saved_cnt;039995.011;third_party/sqlite/amalgamation/sqlite3.c;39995.20;0x8;{int};{};{};{}
+saved_regions;000393.031;third_party/tcmalloc/chromium/src/memory_region_map.cc;393.44;0x8;{MemoryRegionMap::Region []};{};{};{}
+saved_regions_count;000387.011;third_party/tcmalloc/chromium/src/memory_region_map.cc;387.30;0x8;{int};{};{};{}
+sbrk_hook_;000309.006;third_party/tcmalloc/chromium/src/malloc_hook.cc;309.32;0x0;{using};{base::internal};{};{}
+sbrk_hooks_;000322.006;third_party/tcmalloc/chromium/src/malloc_hook.cc;322.33;0x0;{using};{base::internal};{};{}
+sbrk_space;000149.012;third_party/tcmalloc/chromium/src/system-alloc.cc;149.22;0x8;{char []};{};{};{}
+schema;000016.010;chrome/common/json_schema_validator.cc;16.16;0x0;{namespace};{};{};{}
+sclip1;000021.014;third_party/libwebp/enc/filter.c;21.20;0x8;{int8_t []};{};{};{}
+sclip1;000024.014;third_party/libwebp/dsp/dec.c;24.20;0x8;{int8_t []};{};{};{}
+sclip2;000022.014;third_party/libwebp/enc/filter.c;22.20;0x8;{int8_t []};{};{};{}
+sclip2;000025.014;third_party/libwebp/dsp/dec.c;25.20;0x8;{int8_t []};{};{};{}
+scratchAllocOut;018046.011;third_party/sqlite/amalgamation/sqlite3.c;18046.26;0x8;{int};{};{};{}
+screenshot_png;000395.035;chrome/browser/feedback/feedback_util.cc;395.49;0x8;{int std::vector<unsigned char> *};{};{};{}
+screenshot_size;000396.018;chrome/browser/feedback/feedback_util.cc;396.33;0x8;{int gfx::Rect *};{};{};{}
+select_file_dialog_;000436.038;chrome/browser/extensions/api/file_system/file_system_api.cc;436.57;0x0;{scoped_refptr<ui::SelectFileDialog>};{};{};{}
+server_head;000229.026;third_party/libevent/evdns.c;229.37;0x8;{nameserver *};{};{};{}
+session_ticket_enc_key;000059.022;net/third_party/nss/ssl/ssl3ext.c;59.44;0x8;{unsigned char []};{};{};{}
+session_ticket_enc_key_pkcs11;000056.022;net/third_party/nss/ssl/ssl3ext.c;56.51;0x8;{PK11SymKey *};{};{};{}
+session_ticket_keys_initialized;000062.022;net/third_party/nss/ssl/ssl3ext.c;62.53;0x8;{PRBool};{};{};{}
+session_ticket_mac_key;000060.022;net/third_party/nss/ssl/ssl3ext.c;60.44;0x8;{unsigned char []};{};{};{}
+session_ticket_mac_key_pkcs11;000057.022;net/third_party/nss/ssl/ssl3ext.c;57.51;0x8;{PK11SymKey *};{};{};{}
+setupBypassOnce;000578.022;net/third_party/nss/ssl/sslsock.c;578.37;0x8;{PRCallOnceType};{};{};{}
+setupServerCAListOnce;000667.028;net/third_party/nss/ssl/sslsecur.c;667.49;0x8;{PRCallOnceType};{};{};{}
+shader_binary_format;000046.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;46.43;0x0;{ValueValidator<GLenum>};{};{};{}
+shader_parameter;000047.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;47.39;0x0;{ValueValidator<GLenum>};{};{};{}
+shader_precision;000048.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;48.39;0x0;{ValueValidator<GLenum>};{};{};{}
+shader_type;000049.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;49.34;0x0;{ValueValidator<GLenum>};{};{};{}
+shortcut_handling_suspended_;000021.005;chrome/browser/ui/gtk/extensions/extension_keybinding_registry_gtk.cc;21.65;0x0;{bool};{ExtensionKeybindingRegistryGtk};{};{}
+shorten_time_intervals_;000054.005;chrome/browser/ui/panels/panel_manager.cc;54.42;0x0;{boolanonymous};{PanelManager};{};{}
+should_commit_;000596.007;chrome/browser/webdata/web_data_service.h;596.21;0x0;{bool};{};{};{}
+sig_marker;000190.058;third_party/tcmalloc/chromium/src/base/linuxthreads.cc;190.68;0x108;{volatile int};{};{};{}
+sig_num_threads;000190.031;third_party/tcmalloc/chromium/src/base/linuxthreads.cc;190.46;0x108;{volatile int};{};{};{}
+sig_pids;000190.021;third_party/tcmalloc/chromium/src/base/linuxthreads.cc;190.29;0x108;{volatile int *};{};{};{}
+sig_proc;000190.048;third_party/tcmalloc/chromium/src/base/linuxthreads.cc;190.56;0x108;{volatile int};{};{};{}
+size_;000153.006;net/http/http_stream_parser.cc;153.11;0x0;{int};{};{};{}
+source_;000097.019;chrome/browser/extensions/api/web_request/form_data_parser.cc;97.26;0x0;{re2::StringPiece};{};{};{}
+source_set_;000098.007;chrome/browser/extensions/api/web_request/form_data_parser.cc;98.18;0x0;{bool};{};{};{}
+sqlite3Autoext;087569.002;third_party/sqlite/amalgamation/sqlite3.c;87569.16;0x8;{SQLITE_WSDsqlite3AutoExtList};{};{};{}
+sqlite3BlockedList;110106.027;third_party/sqlite/amalgamation/sqlite3.c;110106.45;0x8;{sqlite3 *};{};{};{}
+sqlite3Config;011314.047;third_party/sqlite/amalgamation/sqlite3.c;11314.60;0x0;{SQLITE_WSDSqlite3Config};{};{};{}
+sqlite3Config;011725.047;third_party/sqlite/amalgamation/sqlite3.c;11725.60;0x0;{SQLITE_WSDSqlite3Config};{};{};{}
+sqlite3GlobalFunctions;011315.038;third_party/sqlite/amalgamation/sqlite3.c;11315.60;0x0;{FuncDefHash};{};{};{}
+sqlite3GlobalFunctions;011764.038;third_party/sqlite/amalgamation/sqlite3.c;11764.60;0x0;{FuncDefHash};{};{};{}
+sqlite3Hooks;014319.002;third_party/sqlite/amalgamation/sqlite3.c;14319.14;0x8;{SQLITE_WSDBenignMallocHooks};{};{};{}
+sqlite3IoTrace;011536.022;third_party/sqlite/amalgamation/sqlite3.c;11536.36;0x0;{void SQLITE_PRIVATE (*)()};{};{};{}
+sqlite3IoTrace;107460.022;third_party/sqlite/amalgamation/sqlite3.c;107460.36;0x0;{void SQLITE_PRIVATE (*)()};{};{};{}
+sqlite3OSTrace;021901.019;third_party/sqlite/amalgamation/sqlite3.c;21901.33;0x0;{int SQLITE_PRIVATE};{};{};{}
+sqlite3OSTrace;024229.019;third_party/sqlite/amalgamation/sqlite3.c;24229.33;0x0;{int SQLITE_PRIVATE};{};{};{}
+sqlite3OSTrace;031014.019;third_party/sqlite/amalgamation/sqlite3.c;31014.33;0x0;{int SQLITE_PRIVATE};{};{};{}
+sqlite3PendingByte;011317.019;third_party/sqlite/amalgamation/sqlite3.c;11317.37;0x0;{int SQLITE_PRIVATE};{};{};{}
+sqlite3PendingByte;011794.019;third_party/sqlite/amalgamation/sqlite3.c;11794.37;0x0;{int SQLITE_PRIVATE};{};{};{}
+sqlite3Prng;019546.002;third_party/sqlite/amalgamation/sqlite3.c;19546.13;0x8;{SQLITE_WSDsqlite3PrngType};{};{};{}
+sqlite3SavedPrng;019645.041;third_party/sqlite/amalgamation/sqlite3.c;19645.57;0x8;{SQLITE_WSDsqlite3PrngType};{};{};{}
+sqlite3SharedCacheList;047295.036;third_party/sqlite/amalgamation/sqlite3.c;47295.58;0x0;{BtShared *};{};{};{}
+sqlite3SharedCacheList;047297.028;third_party/sqlite/amalgamation/sqlite3.c;47297.50;0x8;{BtShared *};{};{};{}
+sqlite3Stat;012652.002;third_party/sqlite/amalgamation/sqlite3.c;12652.13;0x8;{SQLITE_WSDsqlite3StatType};{};{};{}
+sqlite3VdbeAddopTrace;057273.019;third_party/sqlite/amalgamation/sqlite3.c;57273.40;0x0;{int SQLITE_PRIVATE};{};{};{}
+sqlite3WalTrace;043650.019;third_party/sqlite/amalgamation/sqlite3.c;43650.34;0x0;{int SQLITE_PRIVATE};{};{};{}
+sqlite3WhereTrace;097830.019;third_party/sqlite/amalgamation/sqlite3.c;97830.36;0x0;{int SQLITE_PRIVATE};{};{};{}
+sqlite3_current_time;023802.015;third_party/sqlite/amalgamation/sqlite3.c;23802.35;0x0;{int SQLITE_API};{};{};{}
+sqlite3_current_time;029565.015;third_party/sqlite/amalgamation/sqlite3.c;29565.35;0x0;{int SQLITE_API};{};{};{}
+sqlite3_current_time;033766.015;third_party/sqlite/amalgamation/sqlite3.c;33766.35;0x0;{int SQLITE_API};{};{};{}
+sqlite3_diskfull;022031.015;third_party/sqlite/amalgamation/sqlite3.c;22031.31;0x0;{int SQLITE_API};{};{};{}
+sqlite3_diskfull;024359.015;third_party/sqlite/amalgamation/sqlite3.c;24359.31;0x0;{int SQLITE_API};{};{};{}
+sqlite3_diskfull;031144.015;third_party/sqlite/amalgamation/sqlite3.c;31144.31;0x0;{int SQLITE_API};{};{};{}
+sqlite3_diskfull_pending;022030.015;third_party/sqlite/amalgamation/sqlite3.c;22030.39;0x0;{int SQLITE_API};{};{};{}
+sqlite3_diskfull_pending;024358.015;third_party/sqlite/amalgamation/sqlite3.c;24358.39;0x0;{int SQLITE_API};{};{};{}
+sqlite3_diskfull_pending;031143.015;third_party/sqlite/amalgamation/sqlite3.c;31143.39;0x0;{int SQLITE_API};{};{};{}
+sqlite3_found_count;062054.015;third_party/sqlite/amalgamation/sqlite3.c;62054.34;0x0;{int SQLITE_API};{};{};{}
+sqlite3_fts3_enable_parentheses;115299.015;third_party/sqlite/amalgamation/sqlite3.c;115299.46;0x0;{int SQLITE_API};{};{};{}
+sqlite3_fullsync_count;022227.015;third_party/sqlite/amalgamation/sqlite3.c;22227.37;0x0;{int SQLITE_API};{};{};{}
+sqlite3_fullsync_count;027261.015;third_party/sqlite/amalgamation/sqlite3.c;27261.37;0x0;{int SQLITE_API};{};{};{}
+sqlite3_fullsync_count;031943.015;third_party/sqlite/amalgamation/sqlite3.c;31943.37;0x0;{int SQLITE_API};{};{};{}
+sqlite3_hostid_num;029974.015;third_party/sqlite/amalgamation/sqlite3.c;29974.33;0x0;{int SQLITE_API};{};{};{}
+sqlite3_interrupt_count;062016.015;third_party/sqlite/amalgamation/sqlite3.c;62016.38;0x0;{int SQLITE_API};{};{};{}
+sqlite3_io_error_benign;022029.015;third_party/sqlite/amalgamation/sqlite3.c;22029.38;0x0;{int SQLITE_API};{};{};{}
+sqlite3_io_error_benign;024357.015;third_party/sqlite/amalgamation/sqlite3.c;24357.38;0x0;{int SQLITE_API};{};{};{}
+sqlite3_io_error_benign;031142.015;third_party/sqlite/amalgamation/sqlite3.c;31142.38;0x0;{int SQLITE_API};{};{};{}
+sqlite3_io_error_hardhit;022026.015;third_party/sqlite/amalgamation/sqlite3.c;22026.39;0x0;{int SQLITE_API};{};{};{}
+sqlite3_io_error_hardhit;024354.015;third_party/sqlite/amalgamation/sqlite3.c;24354.39;0x0;{int SQLITE_API};{};{};{}
+sqlite3_io_error_hardhit;031139.015;third_party/sqlite/amalgamation/sqlite3.c;31139.39;0x0;{int SQLITE_API};{};{};{}
+sqlite3_io_error_hit;022025.015;third_party/sqlite/amalgamation/sqlite3.c;22025.35;0x0;{int SQLITE_API};{};{};{}
+sqlite3_io_error_hit;024353.015;third_party/sqlite/amalgamation/sqlite3.c;24353.35;0x0;{int SQLITE_API};{};{};{}
+sqlite3_io_error_hit;031138.015;third_party/sqlite/amalgamation/sqlite3.c;31138.35;0x0;{int SQLITE_API};{};{};{}
+sqlite3_io_error_hit;039994.022;third_party/sqlite/amalgamation/sqlite3.c;39994.42;0x0;{int SQLITE_API};{};{};{}
+sqlite3_io_error_pending;022027.015;third_party/sqlite/amalgamation/sqlite3.c;22027.39;0x0;{int SQLITE_API};{};{};{}
+sqlite3_io_error_pending;024355.015;third_party/sqlite/amalgamation/sqlite3.c;24355.39;0x0;{int SQLITE_API};{};{};{}
+sqlite3_io_error_pending;031140.015;third_party/sqlite/amalgamation/sqlite3.c;31140.39;0x0;{int SQLITE_API};{};{};{}
+sqlite3_io_error_pending;039993.022;third_party/sqlite/amalgamation/sqlite3.c;39993.46;0x0;{int SQLITE_API};{};{};{}
+sqlite3_io_error_persist;022028.015;third_party/sqlite/amalgamation/sqlite3.c;22028.39;0x0;{int SQLITE_API};{};{};{}
+sqlite3_io_error_persist;024356.015;third_party/sqlite/amalgamation/sqlite3.c;24356.39;0x0;{int SQLITE_API};{};{};{}
+sqlite3_io_error_persist;031141.015;third_party/sqlite/amalgamation/sqlite3.c;31141.39;0x0;{int SQLITE_API};{};{};{}
+sqlite3_like_count;082514.015;third_party/sqlite/amalgamation/sqlite3.c;82514.33;0x0;{int SQLITE_API};{};{};{}
+sqlite3_max_blobsize;062038.015;third_party/sqlite/amalgamation/sqlite3.c;62038.35;0x0;{int SQLITE_API};{};{};{}
+sqlite3_memdebug_vfs_oom_test;013986.015;third_party/sqlite/amalgamation/sqlite3.c;13986.44;0x0;{int SQLITE_API};{};{};{}
+sqlite3_open_file_count;022063.015;third_party/sqlite/amalgamation/sqlite3.c;22063.38;0x0;{int SQLITE_API};{};{};{}
+sqlite3_open_file_count;024391.015;third_party/sqlite/amalgamation/sqlite3.c;24391.38;0x0;{int SQLITE_API};{};{};{}
+sqlite3_open_file_count;031176.015;third_party/sqlite/amalgamation/sqlite3.c;31176.38;0x0;{int SQLITE_API};{};{};{}
+sqlite3_opentemp_count;039810.015;third_party/sqlite/amalgamation/sqlite3.c;39810.37;0x0;{int SQLITE_API};{};{};{}
+sqlite3_os_type;031266.015;third_party/sqlite/amalgamation/sqlite3.c;31266.30;0x0;{int SQLITE_API};{};{};{}
+sqlite3_os_type;031268.011;third_party/sqlite/amalgamation/sqlite3.c;31268.26;0x8;{int};{};{};{}
+sqlite3_pager_readdb_count;037126.015;third_party/sqlite/amalgamation/sqlite3.c;37126.41;0x0;{int SQLITE_API};{};{};{}
+sqlite3_pager_writedb_count;037127.015;third_party/sqlite/amalgamation/sqlite3.c;37127.42;0x0;{int SQLITE_API};{};{};{}
+sqlite3_pager_writej_count;037128.015;third_party/sqlite/amalgamation/sqlite3.c;37128.41;0x0;{int SQLITE_API};{};{};{}
+sqlite3_query_plan;102047.016;third_party/sqlite/amalgamation/sqlite3.c;102047.34;0x0;{char SQLITE_API []};{};{};{}
+sqlite3_search_count;062004.015;third_party/sqlite/amalgamation/sqlite3.c;62004.35;0x0;{int SQLITE_API};{};{};{}
+sqlite3_sort_count;062027.015;third_party/sqlite/amalgamation/sqlite3.c;62027.33;0x0;{int SQLITE_API};{};{};{}
+sqlite3_sync_count;022226.015;third_party/sqlite/amalgamation/sqlite3.c;22226.33;0x0;{int SQLITE_API};{};{};{}
+sqlite3_sync_count;027260.015;third_party/sqlite/amalgamation/sqlite3.c;27260.33;0x0;{int SQLITE_API};{};{};{}
+sqlite3_sync_count;031942.015;third_party/sqlite/amalgamation/sqlite3.c;31942.33;0x0;{int SQLITE_API};{};{};{}
+sqlite3_temp_directory;004129.031;third_party/sqlite/amalgamation/sqlite3.h;4129.53;0x0;{char SQLITE_EXTERN *};{};{};{}
+sqlite3_temp_directory;004672.017;third_party/sqlite/amalgamation/sqlite3.c;4672.39;0x0;{char SQLITE_API *};{};{};{}
+sqlite3_temp_directory;107470.017;third_party/sqlite/amalgamation/sqlite3.c;107470.39;0x0;{char SQLITE_API *};{};{};{}
+sqlite3_xferopt_count;086153.015;third_party/sqlite/amalgamation/sqlite3.c;86153.36;0x0;{int SQLITE_API};{};{};{}
+src_blend_factor;000050.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;50.39;0x0;{ValueValidator<GLenum>};{};{};{}
+srpc_methods;000044.020;ppapi/native_client/src/shared/ppapi_proxy/upcall_server.cc;44.44;0x0;{NaClSrpcHandlerDesc []};{PpbUpcalls};{};{}
+srpc_methods;002858.020;ppapi/native_client/src/shared/ppapi_proxy/ppb_rpc_server.cc;2858.41;0x0;{NaClSrpcHandlerDesc []};{PpbRpcs};{};{}
+ssl3_server_ca_list;000234.015;net/third_party/nss/ssl/ssl3con.c;234.34;0x0;{CERTDistNames *};{};{};{}
+ssl3_server_ca_list;001294.031;net/third_party/nss/ssl/sslimpl.h;1294.50;0x0;{CERTDistNames *};{};{};{}
+ssl3_sid_timeout;000055.009;net/third_party/nss/ssl/sslnonce.c;55.25;0x0;{PRUint32};{};{};{}
+ssl3_sid_timeout;001296.031;net/third_party/nss/ssl/sslimpl.h;1296.47;0x0;{PRUint32};{};{};{}
+ssl3stats;000235.022;net/third_party/nss/ssl/ssl3con.c;235.31;0x8;{SSL3Statistics};{};{};{}
+sslCopyLimit;002514.009;net/third_party/nss/ssl/sslsock.c;2514.21;0x0;{PRInt32};{};{};{}
+sslFirstBufSize;002513.009;net/third_party/nss/ssl/sslsock.c;2513.24;0x0;{PRInt32};{};{};{}
+ssl_ciphers;000070.020;net/third_party/nss/ssl/sslsock.c;70.31;0x8;{cipherPolicy []};{};{};{}
+ssl_debug;000219.024;net/third_party/nss/ssl/sslsock.c;219.33;0x0;{char};{};{};{}
+ssl_debug;001290.031;net/third_party/nss/ssl/sslimpl.h;1290.40;0x0;{char};{};{};{}
+ssl_defaults;000165.018;net/third_party/nss/ssl/sslsock.c;165.30;0x8;{sslOptions};{};{};{}
+ssl_force_locks;000217.009;net/third_party/nss/ssl/sslsock.c;217.24;0x0;{PRBool};{};{};{}
+ssl_global_data_lock;001289.031;net/third_party/nss/ssl/sslimpl.h;1289.51;0x0;{NSSRWLock *};{};{};{}
+ssl_inited;000048.011;net/third_party/nss/ssl/sslinit.c;48.21;0x8;{int};{};{};{}
+ssl_inited;000213.014;net/third_party/nss/ssl/sslsock.c;213.24;0x8;{PRBool};{};{};{}
+ssl_keylog_iob;000222.024;net/third_party/nss/ssl/sslsock.c;222.38;0x0;{FILE *};{};{};{}
+ssl_keylog_iob;001293.031;net/third_party/nss/ssl/sslimpl.h;1293.45;0x0;{FILE *};{};{};{}
+ssl_layer_id;000214.022;net/third_party/nss/ssl/sslsock.c;214.34;0x8;{PRDescIdentity};{};{};{}
+ssl_lock_readers;000218.024;net/third_party/nss/ssl/sslsock.c;218.40;0x0;{int};{};{};{}
+ssl_max_sid_cache_locks;000299.017;net/third_party/nss/ssl/sslsnce.c;299.40;0x8;{PRUint32};{};{};{}
+ssl_sid_cache;000210.024;net/third_party/nss/ssl/sslsock.c;210.37;0x0;{sslSessionIDCacheFunc};{};{};{}
+ssl_sid_cache;001302.031;net/third_party/nss/ssl/sslimpl.h;1302.44;0x0;{sslSessionIDCacheFunc};{};{};{}
+ssl_sid_lookup;000209.024;net/third_party/nss/ssl/sslsock.c;209.38;0x0;{sslSessionIDLookupFunc};{};{};{}
+ssl_sid_lookup;001301.031;net/third_party/nss/ssl/sslimpl.h;1301.45;0x0;{sslSessionIDLookupFunc};{};{};{}
+ssl_sid_timeout;000054.009;net/third_party/nss/ssl/sslnonce.c;54.24;0x0;{PRUint32};{};{};{}
+ssl_sid_timeout;001295.031;net/third_party/nss/ssl/sslimpl.h;1295.46;0x0;{PRUint32};{};{};{}
+ssl_sid_uncache;000211.024;net/third_party/nss/ssl/sslsock.c;211.39;0x0;{sslSessionIDUncacheFunc};{};{};{}
+ssl_sid_uncache;001303.031;net/third_party/nss/ssl/sslimpl.h;1303.46;0x0;{sslSessionIDUncacheFunc};{};{};{}
+ssl_trace;000220.024;net/third_party/nss/ssl/sslsock.c;220.33;0x0;{char};{};{};{}
+ssl_trace;001291.031;net/third_party/nss/ssl/sslimpl.h;1291.40;0x0;{char};{};{};{}
+ssl_trace_iob;000221.024;net/third_party/nss/ssl/sslsock.c;221.37;0x0;{FILE *};{};{};{}
+ssl_trace_iob;001292.031;net/third_party/nss/ssl/sslimpl.h;1292.44;0x0;{FILE *};{};{};{}
+ssl_version;000127.012;net/third_party/nss/ssl/sslcon.c;127.23;0x0;{const char *};{};{};{}
+static_bl_desc;000136.024;third_party/zlib/trees.c;136.38;0x0;{static_tree_desc};{};{};{}
+static_d_desc;000133.024;third_party/zlib/trees.c;133.37;0x0;{static_tree_desc};{};{};{}
+static_dtree;000098.014;third_party/zlib/trees.c;98.26;0x0;{ct_data []};{};{};{}
+static_l_desc;000130.024;third_party/zlib/trees.c;130.37;0x0;{static_tree_desc};{};{};{}
+static_ltree;000091.014;third_party/zlib/trees.c;91.26;0x0;{ct_data []};{};{};{}
+stats_buffer;000055.012;third_party/tcmalloc/chromium/src/internal_logging.cc;55.24;0x8;{char []};{};{};{}
+std;000105.016;third_party/cld/base/stl_decl_msvc.h;105.19;0x0;{namespace};{};{};{}
+stencil_op;000051.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;51.33;0x0;{ValueValidator<GLenum>};{};{};{}
+string_type;000052.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;52.34;0x0;{ValueValidator<GLenum>};{};{};{}
+suggested_name_;000432.011;chrome/browser/extensions/api/file_system/file_system_api.cc;432.26;0x0;{FilePath};{};{};{}
+supported_languages_;000192.004;chrome/browser/translate/translate_manager.cc;192.42;0x0;{base::LazyInstance<std::set<std::string>>};{TranslateManager};{};{}
+supports_flag_bulk_continuation;000089.011;third_party/libusb/src/libusb/os/linux_usbfs.c;89.42;0x8;{int};{};{};{}
+switch_utils;000063.010;chrome/common/extensions/extension.cc;63.22;0x0;{namespace};{};{};{}
+symWrapKeys;004610.025;net/third_party/nss/ssl/ssl3con.c;4610.36;0x8;{ssl3SymWrapKey []};{};{};{}
+symWrapKeysLock;004609.025;net/third_party/nss/ssl/ssl3con.c;4609.40;0x8;{PZLock *};{};{};{}
+sys_alloc;000124.014;third_party/tcmalloc/chromium/src/system-alloc.cc;124.23;0x0;{SysAllocator *};{};{};{}
+sysfs_can_relate_devices;000097.011;third_party/libusb/src/libusb/os/linux_usbfs.c;97.35;0x8;{int};{};{};{}
+sysfs_has_descriptors;000100.011;third_party/libusb/src/libusb/os/linux_usbfs.c;100.32;0x8;{int};{};{};{}
+system_alloc_inited;000443.012;third_party/tcmalloc/chromium/src/system-alloc.cc;443.31;0x8;{bool};{};{};{}
+tab_active_l_height_;000152.004;chrome/browser/ui/gtk/tabs/tab_renderer_gtk.cc;152.40;0x0;{int};{TabRendererGtk};{};{}
+tab_active_l_width_;000151.004;chrome/browser/ui/gtk/tabs/tab_renderer_gtk.cc;151.39;0x0;{int};{TabRendererGtk};{};{}
+tab_inactive_l_height_;000153.004;chrome/browser/ui/gtk/tabs/tab_renderer_gtk.cc;153.42;0x0;{int};{TabRendererGtk};{};{}
+tab_keys;000031.010;chrome/browser/extensions/browser_event_router.cc;31.18;0x0;{namespace};{};{};{}
+table;000036.016;third_party/zlib/inftrees.c;36.21;0x0;{FAR *FAR *};{};{};{}
+table;000208.016;third_party/zlib/zutil.c;208.21;0x0;{ptr_table []};{};{};{}
+tables_ok;000025.011;third_party/libwebp/enc/filter.c;25.20;0x8;{int};{};{};{}
+tables_ok;000030.020;third_party/libwebp/dsp/dec.c;30.29;0x108;{volatile int};{};{};{}
+tables_ok;000086.020;third_party/libwebp/dsp/enc.c;86.29;0x108;{volatile int};{};{};{}
+tabs_keys;000052.010;chrome/browser/extensions/api/offscreen_tabs/offscreen_tabs_api.cc;52.19;0x0;{namespace};{};{};{}
+task_pending_;000216.007;ipc/ipc_sync_channel.cc;216.20;0x0;{bool};{};{};{}
+tc_new_mode;000276.011;third_party/tcmalloc/chromium/src/tcmalloc.cc;276.22;0x8;{int};{};{};{}
+tcmallocguard_refcount;000901.011;third_party/tcmalloc/chromium/src/tcmalloc.cc;901.33;0x8;{int};{};{};{}
+testData;001964.016;third_party/libxslt/libxslt/extensions.c;1964.24;0x8;{xmlChar *};{};{};{}
+testStyleData;001965.016;third_party/libxslt/libxslt/extensions.c;1965.29;0x8;{xmlChar *};{};{};{}
+test_delegate_;000043.053;chrome/browser/extensions/api/page_capture/page_capture_api.cc;43.67;0x8;{anonymous PageCaptureSaveAsMHTMLFunction::TestDelegate *};{};{};{}
+texture_bind_target;000053.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;53.42;0x0;{ValueValidator<GLenum>};{};{};{}
+texture_border;000054.022;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;54.36;0x0;{ValueValidator<GLint>};{};{};{}
+texture_format;000055.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;55.37;0x0;{ValueValidator<GLenum>};{};{};{}
+texture_internal_format;000056.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;56.46;0x0;{ValueValidator<GLenum>};{};{};{}
+texture_internal_format_storage;000057.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;57.54;0x0;{ValueValidator<GLenum>};{};{};{}
+texture_mag_filter_mode;000058.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;58.46;0x0;{ValueValidator<GLenum>};{};{};{}
+texture_min_filter_mode;000059.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;59.46;0x0;{ValueValidator<GLenum>};{};{};{}
+texture_parameter;000060.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;60.40;0x0;{ValueValidator<GLenum>};{};{};{}
+texture_target;000061.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;61.37;0x0;{ValueValidator<GLenum>};{};{};{}
+texture_usage;000062.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;62.36;0x0;{ValueValidator<GLenum>};{};{};{}
+texture_wrap_mode;000063.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;63.40;0x0;{ValueValidator<GLenum>};{};{};{}
+th_brk;000033.018;third_party/harfbuzz/src/harfbuzz-thai.c;33.24;0x8;{th_brk_def};{};{};{}
+timeout;000169.020;third_party/libxml/src/nanohttp.c;169.27;0x8;{unsigned int};{};{};{}
+title_font_;000154.011;chrome/browser/ui/gtk/tabs/tab_renderer_gtk.cc;154.38;0x0;{int gfx::Font *};{TabRendererGtk};{};{}
+title_font_height_;000155.004;chrome/browser/ui/gtk/tabs/tab_renderer_gtk.cc;155.38;0x0;{int};{TabRendererGtk};{};{}
+tlstate;000152.041;third_party/libxml/src/threads.c;152.48;0x8;{xmlGlobalState};{};{};{}
+tlstate_inited;000153.030;third_party/libxml/src/threads.c;153.44;0x0;{int};{};{};{}
+top_send_done_watcher_;000222.030;ipc/ipc_sync_channel.cc;222.52;0x0;{int base::WaitableEventWatcher *};{};{};{}
+tp_ffmpeg;000019.010;media/base/media_posix.cc;19.19;0x0;{namespace};{};{};{}
+tracker_;000132.016;webkit/quota/usage_tracker.cc;132.24;0x0;{UsageTracker *};{};{};{}
+tracker_;000151.033;ppapi/shared_impl/tracked_callback.h;151.41;0x0;{scoped_refptr<CallbackTracker>};{};{};{}
+trans_id_function;001087.021;third_party/libevent/evdns.c;1087.38;0x8;{ev_uint16_t (*)()};{};{};{}
+twobppswaptable;000321.026;third_party/libpng/pngtrans.c;321.41;0x8;{png_byte []};{};{};{}
+type;000033.009;third_party/zlib/inftrees.c;33.13;0x0;{int codetype};{};{};{}
+ucUtf8;022625.019;third_party/sqlite/amalgamation/sqlite3.c;22625.25;0x8;{UconvObject};{};{};{}
+uclCp;022626.019;third_party/sqlite/amalgamation/sqlite3.c;22626.24;0x8;{UconvObject};{};{};{}
+unhooked_arena;000207.035;third_party/tcmalloc/chromium/src/base/low_level_alloc.cc;207.49;0x8;{::Arena};{};{};{}
+unhooked_async_sig_safe_arena;000208.035;third_party/tcmalloc/chromium/src/base/low_level_alloc.cc;208.64;0x8;{::Arena};{};{};{}
+unique_request_id_;000035.004;chrome/browser/automation/automation_resource_message_filter.cc;35.55;0x0;{int};{AutomationResourceMessageFilter};{};{}
+unmap_size_;000149.006;third_party/tcmalloc/chromium/src/memory_region_map.cc;149.34;0x0;{int64};{MemoryRegionMap};{};{}
+url_fetcher_id_for_tests;000066.004;content/browser/geolocation/network_location_request.cc;66.52;0x0;{intanonymous};{NetworkLocationRequest};{};{}
+usbfs_path;000072.019;third_party/libusb/src/libusb/os/linux_usbfs.c;72.29;0x8;{const char *};{};{};{}
+usbi_backend;000033.037;third_party/libusb/src/libusb/core.c;33.49;0x0;{const usbi_os_backend *const };{};{};{}
+usbi_backend;000035.037;third_party/libusb/src/libusb/core.c;35.49;0x0;{const usbi_os_backend *const };{};{};{}
+usbi_backend;000037.037;third_party/libusb/src/libusb/core.c;37.49;0x0;{const usbi_os_backend *const };{};{};{}
+usbi_default_context;000042.023;third_party/libusb/src/libusb/core.c;42.43;0x0;{libusb_context *};{};{};{}
+use_monotonic;000110.011;third_party/libevent/event.c;110.24;0x8;{int};{};{};{}
+used_;000154.006;net/http/http_stream_parser.cc;154.11;0x0;{int};{};{};{}
+used_ticks_;000313.020;chrome/browser/internal_auth.cc;313.31;0x0;{std::deque<int64>};{};{};{}
+valid_attachment_table;000012.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;12.36;0x8;{GLenum []};{};{};{}
+valid_blit_filter_table;000018.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;18.37;0x8;{GLenum []};{};{};{}
+valid_buffer_parameter_table;000023.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;23.42;0x8;{GLenum []};{};{};{}
+valid_buffer_target_table;000028.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;28.39;0x8;{GLenum []};{};{};{}
+valid_buffer_usage_table;000033.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;33.38;0x8;{GLenum []};{};{};{}
+valid_capability_table;000039.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;39.36;0x8;{GLenum []};{};{};{}
+valid_cmp_function_table;000051.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;51.38;0x8;{GLenum []};{};{};{}
+valid_draw_mode_table;000062.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;62.35;0x8;{GLenum []};{};{};{}
+valid_dst_blend_factor_table;000072.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;72.42;0x8;{GLenum []};{};{};{}
+valid_equation_table;000089.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;89.34;0x8;{GLenum []};{};{};{}
+valid_face_mode_table;000095.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;95.35;0x8;{GLenum []};{};{};{}
+valid_face_type_table;000100.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;100.35;0x8;{GLenum []};{};{};{}
+valid_false_only_table;000106.017;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;106.39;0x8;{GLboolean []};{};{};{}
+valid_frame_buffer_parameter_table;000110.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;110.48;0x8;{GLenum []};{};{};{}
+valid_frame_buffer_target_table;000117.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;117.45;0x8;{GLenum []};{};{};{}
+valid_g_l_state_table;000121.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;121.35;0x8;{GLenum []};{};{};{}
+valid_get_max_index_type_table;000211.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;211.44;0x8;{GLenum []};{};{};{}
+valid_get_tex_param_target_table;000217.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;217.46;0x8;{GLenum []};{};{};{}
+valid_hint_mode_table;000222.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;222.35;0x8;{GLenum []};{};{};{}
+valid_hint_target_table;000228.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;228.37;0x8;{GLenum []};{};{};{}
+valid_index_type_table;000232.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;232.36;0x8;{GLenum []};{};{};{}
+valid_pixel_store_alignment_table;000245.013;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;245.46;0x8;{GLint []};{};{};{}
+valid_pixel_store_table;000237.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;237.37;0x8;{GLenum []};{};{};{}
+valid_pixel_type_table;000252.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;252.36;0x8;{GLenum []};{};{};{}
+valid_program_parameter_table;000259.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;259.43;0x8;{GLenum []};{};{};{}
+valid_query_object_parameter_table;000271.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;271.48;0x8;{GLenum []};{};{};{}
+valid_query_parameter_table;000276.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;276.41;0x8;{GLenum []};{};{};{}
+valid_query_target_table;000280.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;280.38;0x8;{GLenum []};{};{};{}
+valid_read_pixel_format_table;000286.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;286.43;0x8;{GLenum []};{};{};{}
+valid_read_pixel_type_table;000292.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;292.41;0x8;{GLenum []};{};{};{}
+valid_render_buffer_format_table;000299.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;299.46;0x8;{GLenum []};{};{};{}
+valid_render_buffer_parameter_table;000307.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;307.49;0x8;{GLenum []};{};{};{}
+valid_render_buffer_target_table;000319.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;319.46;0x8;{GLenum []};{};{};{}
+valid_shader_parameter_table;000323.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;323.42;0x8;{GLenum []};{};{};{}
+valid_shader_precision_table;000332.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;332.42;0x8;{GLenum []};{};{};{}
+valid_shader_type_table;000341.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;341.37;0x8;{GLenum []};{};{};{}
+valid_src_blend_factor_table;000346.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;346.42;0x8;{GLenum []};{};{};{}
+valid_stencil_op_table;000364.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;364.36;0x8;{GLenum []};{};{};{}
+valid_string_type_table;000375.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;375.37;0x8;{GLenum []};{};{};{}
+valid_texture_bind_target_table;000383.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;383.45;0x8;{GLenum []};{};{};{}
+valid_texture_border_table;000388.013;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;388.39;0x8;{GLint []};{};{};{}
+valid_texture_format_table;000392.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;392.40;0x8;{GLenum []};{};{};{}
+valid_texture_internal_format_storage_table;000408.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;408.57;0x8;{GLenum []};{};{};{}
+valid_texture_internal_format_table;000400.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;400.49;0x8;{GLenum []};{};{};{}
+valid_texture_mag_filter_mode_table;000419.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;419.49;0x8;{GLenum []};{};{};{}
+valid_texture_min_filter_mode_table;000424.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;424.49;0x8;{GLenum []};{};{};{}
+valid_texture_parameter_table;000433.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;433.43;0x8;{GLenum []};{};{};{}
+valid_texture_target_table;000440.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;440.40;0x8;{GLenum []};{};{};{}
+valid_texture_usage_table;000450.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;450.39;0x8;{GLenum []};{};{};{}
+valid_texture_wrap_mode_table;000455.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;455.43;0x8;{GLenum []};{};{};{}
+valid_vertex_attrib_size_table;000461.013;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;461.43;0x8;{GLint []};{};{};{}
+valid_vertex_attrib_type_table;000468.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;468.44;0x8;{GLenum []};{};{};{}
+valid_vertex_attribute_table;000476.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;476.42;0x8;{GLenum []};{};{};{}
+valid_vertex_pointer_table;000486.014;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;486.40;0x8;{GLenum []};{};{};{}
+valid_zero_only_table;000490.013;gpu/command_buffer/service/gles2_cmd_validation_implementation_autogen.h;490.34;0x8;{GLint []};{};{};{}
+value_;000102.014;chrome/browser/extensions/api/web_request/form_data_parser.cc;102.20;0x0;{std::string};{};{};{}
+values;000020.010;chrome/common/extensions/command.cc;20.16;0x0;{namespace};{};{};{}
+values;000028.010;chrome/browser/extensions/convert_user_script.cc;28.16;0x0;{namespace};{};{};{}
+values;000060.010;chrome/common/extensions/extension.cc;60.16;0x0;{namespace};{};{};{}
+variable_buffer_offset_;000336.009;base/pickle.h;336.32;0x0;{size_t};{};{};{}
+vector;000026.006;chrome/browser/extensions/api/usb/usb_api.cc;26.17;0x0;{using};{std};{};{}
+vector;000145.027;net/third_party/nss/ssl/bodge/loader.c;145.33;0x8;{const FREEBLVector *};{};{};{}
+versions_defaults_datagram;000200.023;net/third_party/nss/ssl/sslsock.c;200.49;0x8;{SSLVersionRange};{};{};{}
+versions_defaults_stream;000195.023;net/third_party/nss/ssl/sslsock.c;195.47;0x8;{SSLVersionRange};{};{};{}
+vertex_attrib_size;000064.022;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;64.40;0x0;{ValueValidator<GLint>};{};{};{}
+vertex_attrib_type;000065.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;65.41;0x0;{ValueValidator<GLenum>};{};{};{}
+vertex_attribute;000066.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;66.39;0x0;{ValueValidator<GLenum>};{};{};{}
+vertex_pointer;000067.023;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;67.37;0x0;{ValueValidator<GLenum>};{};{};{}
+vfsList;014194.032;third_party/sqlite/amalgamation/sqlite3.c;14194.39;0x8;{sqlite3_vfs *};{};{};{}
+vxworksFileList;024858.029;third_party/sqlite/amalgamation/sqlite3.c;24858.44;0x8;{vxworksFileId *};{};{};{}
+was_restarted_read_;000166.005;chrome/browser/ui/startup/startup_browser_creator.cc;166.47;0x0;{bool};{StartupBrowserCreator};{};{}
+weak;000055.017;third_party/libxml/src/threads.c;55.21;0x0;{int __attribute (())};{};{};{}
+weak;000060.017;third_party/libxml/src/threads.c;60.21;0x0;{int __attribute (())};{};{};{}
+weak;000063.017;third_party/libxml/src/threads.c;63.21;0x0;{int __attribute (())};{};{};{}
+weak;000065.017;third_party/libxml/src/threads.c;65.21;0x0;{int __attribute (())};{};{};{}
+weak;000067.017;third_party/libxml/src/threads.c;67.21;0x0;{int __attribute (())};{};{};{}
+weak;000069.017;third_party/libxml/src/threads.c;69.21;0x0;{int __attribute (())};{};{};{}
+weak;000071.017;third_party/libxml/src/threads.c;71.21;0x0;{int __attribute (())};{};{};{}
+weak;000073.017;third_party/libxml/src/threads.c;73.21;0x0;{int __attribute (())};{};{};{}
+weak;000075.017;third_party/libxml/src/threads.c;75.21;0x0;{int __attribute (())};{};{};{}
+weak;000077.017;third_party/libxml/src/threads.c;77.21;0x0;{int __attribute (())};{};{};{}
+weak;000079.017;third_party/libxml/src/threads.c;79.21;0x0;{int __attribute (())};{};{};{}
+weak;000081.017;third_party/libxml/src/threads.c;81.21;0x0;{int __attribute (())};{};{};{}
+weak;000083.017;third_party/libxml/src/threads.c;83.21;0x0;{__attribute (())};{};{};{}
+weak;000085.017;third_party/libxml/src/threads.c;85.21;0x0;{int __attribute (())};{};{};{}
+weak;000087.017;third_party/libxml/src/threads.c;87.21;0x0;{int __attribute (())};{};{};{}
+weak;000089.017;third_party/libxml/src/threads.c;89.21;0x0;{int __attribute (())};{};{};{}
+weak_factory_;000136.044;webkit/quota/usage_tracker.cc;136.57;0x0;{base::WeakPtrFactory<GatherUsageTaskBase>};{};{};{}
+weak_ptr_factory_;000149.040;ppapi/shared_impl/tracked_callback.h;149.57;0x0;{base::WeakPtrFactory<TrackedCallback>};{};{};{}
+web_request;000071.010;chrome/browser/extensions/api/web_request/web_request_api.cc;71.21;0x0;{namespace};{};{};{}
+winMutex_isInit;017480.011;third_party/sqlite/amalgamation/sqlite3.c;17480.26;0x8;{int};{};{};{}
+winMutex_lock;017486.012;third_party/sqlite/amalgamation/sqlite3.c;17486.25;0x8;{long};{};{};{}
+winMutex_staticMutexes;017472.021;third_party/sqlite/amalgamation/sqlite3.c;17472.43;0x8;{sqlite3_mutex []};{};{};{}
+winShmNodeList;032423.019;third_party/sqlite/amalgamation/sqlite3.c;32423.33;0x8;{winShmNode *};{};{};{}
+winSysInfo;032347.012;third_party/sqlite/amalgamation/sqlite3.c;32347.22;0x0;{SYSTEM_INFO};{};{};{}
+window_;000103.013;skia/ext/canvas_paint_gtk.h;103.20;0x0;{GdkWindow *};{};{};{}
+work;000038.020;third_party/zlib/inftrees.c;38.24;0x0;{unsigned short FAR *};{};{};{}
+xlinkDefaultDetect;000052.027;third_party/libxml/src/xlink.c;52.45;0x8;{xlinkNodeDetectFunc};{};{};{}
+xlinkDefaultHandler;000051.023;third_party/libxml/src/xlink.c;51.42;0x8;{xlinkHandlerPtr};{};{};{}
+xmlBufferAllocScheme;000202.026;third_party/libxml/src/globals.c;202.46;0x0;{xmlBufferAllocationScheme};{};{};{}
+xmlBufferAllocScheme;000298.036;third_party/libxml/src/include/libxml/globals.h;298.56;0x0;{xmlBufferAllocationScheme};{};{};{}
+xmlBufferAllocSchemeThrDef;000203.033;third_party/libxml/src/globals.c;203.59;0x8;{xmlBufferAllocationScheme};{};{};{}
+xmlCG;000215.023;third_party/libxml/src/xmlunicode.c;215.28;0x8;{xmlChRangeGroup};{};{};{}
+xmlCatalogDefaultAllow;000180.023;third_party/libxml/src/catalog.c;180.45;0x8;{xmlCatalogAllow};{};{};{}
+xmlCatalogDefaultPrefer;000181.024;third_party/libxml/src/catalog.c;181.47;0x8;{xmlCatalogPrefer};{};{};{}
+xmlCatalogInitialized;000205.011;third_party/libxml/src/catalog.c;205.32;0x8;{int};{};{};{}
+xmlCatalogMutex;000200.020;third_party/libxml/src/catalog.c;200.35;0x8;{xmlRMutexPtr};{};{};{}
+xmlCatalogXMLFiles;000187.023;third_party/libxml/src/catalog.c;187.41;0x8;{xmlHashTablePtr};{};{};{}
+xmlCfG;000223.023;third_party/libxml/src/xmlunicode.c;223.29;0x8;{xmlChRangeGroup};{};{};{}
+xmlCharEncodingAliases;000057.031;third_party/libxml/src/encoding.c;57.53;0x8;{xmlCharEncodingAliasPtr};{};{};{}
+xmlCharEncodingAliasesMax;000059.011;third_party/libxml/src/encoding.c;59.36;0x8;{int};{};{};{}
+xmlCharEncodingAliasesNb;000058.011;third_party/libxml/src/encoding.c;58.35;0x8;{int};{};{};{}
+xmlCheckDTD;000119.011;third_party/libxml/src/tree.c;119.22;0x8;{int};{};{};{}
+xmlCompressMode;000118.011;third_party/libxml/src/tree.c;118.26;0x8;{int};{};{};{}
+xmlCurrentExternalEntityLoader;003891.031;third_party/libxml/src/xmlIO.c;3891.61;0x8;{xmlExternalEntityLoader};{};{};{}
+xmlDebugCatalogs;000179.011;third_party/libxml/src/catalog.c;179.27;0x8;{int};{};{};{}
+xmlDefaultBufferSize;000209.004;third_party/libxml/src/globals.c;209.24;0x0;{int};{};{};{}
+xmlDefaultBufferSize;000307.014;third_party/libxml/src/include/libxml/globals.h;307.34;0x0;{int XMLPUBVAR};{};{};{}
+xmlDefaultBufferSizeThrDef;000210.011;third_party/libxml/src/globals.c;210.37;0x8;{int};{};{};{}
+xmlDefaultCatalog;000192.021;third_party/libxml/src/catalog.c;192.38;0x8;{xmlCatalogPtr};{};{};{}
+xmlDefaultCharEncodingHandler;001292.033;third_party/libxml/src/encoding.c;1292.62;0x8;{xmlCharEncodingHandlerPtr};{};{};{}
+xmlDefaultSAXHandler;000316.026;third_party/libxml/src/include/libxml/globals.h;316.46;0x0;{xmlSAXHandlerV1};{};{};{}
+xmlDefaultSAXHandler;000384.016;third_party/libxml/src/globals.c;384.36;0x0;{xmlSAXHandlerV1};{};{};{}
+xmlDefaultSAXLocator;000324.024;third_party/libxml/src/include/libxml/globals.h;324.44;0x0;{xmlSAXLocator};{};{};{}
+xmlDefaultSAXLocator;000422.014;third_party/libxml/src/globals.c;422.34;0x0;{xmlSAXLocator};{};{};{}
+xmlDeregisterNodeDefaultValue;000299.022;third_party/libxml/src/globals.c;299.51;0x0;{xmlDeregisterNodeFunc};{};{};{}
+xmlDeregisterNodeDefaultValue;000479.032;third_party/libxml/src/include/libxml/globals.h;479.61;0x0;{xmlDeregisterNodeFunc};{};{};{}
+xmlDeregisterNodeDefaultValueThrDef;000300.029;third_party/libxml/src/globals.c;300.64;0x8;{xmlDeregisterNodeFunc};{};{};{}
+xmlDictInitialized;000112.011;third_party/libxml/src/dict.c;112.29;0x8;{int};{};{};{}
+xmlDictMutex;000107.020;third_party/libxml/src/dict.c;107.32;0x8;{xmlRMutexPtr};{};{};{}
+xmlDoValidityCheckingDefaultValue;000237.004;third_party/libxml/src/globals.c;237.37;0x0;{int};{};{};{}
+xmlDoValidityCheckingDefaultValue;000332.014;third_party/libxml/src/include/libxml/globals.h;332.47;0x0;{int XMLPUBVAR};{};{};{}
+xmlDoValidityCheckingDefaultValueThrDef;000238.011;third_party/libxml/src/globals.c;238.50;0x8;{int};{};{};{}
+xmlEntityAmp;000043.017;third_party/libxml/src/entities.c;43.29;0x8;{xmlEntity};{};{};{}
+xmlEntityApos;000057.017;third_party/libxml/src/entities.c;57.30;0x8;{xmlEntity};{};{};{}
+xmlEntityGt;000036.017;third_party/libxml/src/entities.c;36.28;0x8;{xmlEntity};{};{};{}
+xmlEntityLt;000029.017;third_party/libxml/src/entities.c;29.28;0x8;{xmlEntity};{};{};{}
+xmlEntityQuot;000050.017;third_party/libxml/src/entities.c;50.30;0x8;{xmlEntity};{};{};{}
+xmlEntityRefFunc;013958.030;third_party/libxml/src/parser.c;13958.46;0x8;{xmlEntityReferenceFunc};{};{};{}
+xmlFree;000083.012;third_party/libxml/src/globals.c;83.19;0x0;{xmlFreeFunc};{};{};{}
+xmlFree;000114.012;third_party/libxml/src/globals.c;114.19;0x0;{xmlFreeFunc};{};{};{}
+xmlFree;000231.022;third_party/libxml/src/include/libxml/globals.h;231.29;0x0;{xmlFreeFunc};{};{};{}
+xmlFree;000246.022;third_party/libxml/src/include/libxml/globals.h;246.29;0x0;{xmlFreeFunc};{};{};{}
+xmlGenericError;000322.020;third_party/libxml/src/globals.c;322.35;0x0;{xmlGenericErrorFunc};{};{};{}
+xmlGenericError;000341.030;third_party/libxml/src/include/libxml/globals.h;341.45;0x0;{xmlGenericErrorFunc};{};{};{}
+xmlGenericErrorContext;000336.006;third_party/libxml/src/globals.c;336.28;0x0;{void *};{};{};{}
+xmlGenericErrorContext;000357.017;third_party/libxml/src/include/libxml/globals.h;357.39;0x0;{void XMLPUBVAR *};{};{};{}
+xmlGenericErrorContextThrDef;000337.013;third_party/libxml/src/globals.c;337.41;0x8;{void *};{};{};{}
+xmlGenericErrorThrDef;000323.027;third_party/libxml/src/globals.c;323.48;0x8;{xmlGenericErrorFunc};{};{};{}
+xmlGetWarningsDefaultValue;000245.004;third_party/libxml/src/globals.c;245.30;0x0;{int};{};{};{}
+xmlGetWarningsDefaultValue;000373.014;third_party/libxml/src/include/libxml/globals.h;373.40;0x0;{int XMLPUBVAR};{};{};{}
+xmlGetWarningsDefaultValueThrDef;000246.011;third_party/libxml/src/globals.c;246.43;0x8;{int};{};{};{}
+xmlIndentTreeOutput;000356.004;third_party/libxml/src/globals.c;356.23;0x0;{int};{};{};{}
+xmlIndentTreeOutput;000382.014;third_party/libxml/src/include/libxml/globals.h;382.33;0x0;{int XMLPUBVAR};{};{};{}
+xmlIndentTreeOutputThrDef;000357.011;third_party/libxml/src/globals.c;357.36;0x8;{int};{};{};{}
+xmlInputCallbackInitialized;000120.011;third_party/libxml/src/xmlIO.c;120.38;0x8;{int};{};{};{}
+xmlInputCallbackNr;000119.011;third_party/libxml/src/xmlIO.c;119.29;0x8;{int};{};{};{}
+xmlInputCallbackTable;000118.024;third_party/libxml/src/xmlIO.c;118.45;0x8;{xmlInputCallback []};{};{};{}
+xmlKeepBlanksDefaultValue;000283.004;third_party/libxml/src/globals.c;283.29;0x0;{int};{};{};{}
+xmlKeepBlanksDefaultValue;000400.014;third_party/libxml/src/include/libxml/globals.h;400.39;0x0;{int XMLPUBVAR};{};{};{}
+xmlKeepBlanksDefaultValueThrDef;000284.011;third_party/libxml/src/globals.c;284.42;0x8;{int};{};{};{}
+xmlLG;000312.023;third_party/libxml/src/xmlunicode.c;312.28;0x8;{xmlChRangeGroup};{};{};{}
+xmlLastError;000275.019;third_party/libxml/src/include/libxml/globals.h;275.31;0x0;{xmlError};{};{};{}
+xmlLastError;000345.009;third_party/libxml/src/globals.c;345.21;0x0;{xmlError};{};{};{}
+xmlLibraryLock;000173.020;third_party/libxml/src/threads.c;173.34;0x8;{xmlRMutexPtr};{};{};{}
+xmlLineNumbersDefaultValue;000272.004;third_party/libxml/src/globals.c;272.30;0x0;{int};{};{};{}
+xmlLineNumbersDefaultValue;000409.014;third_party/libxml/src/include/libxml/globals.h;409.40;0x0;{int XMLPUBVAR};{};{};{}
+xmlLineNumbersDefaultValueThrDef;000273.011;third_party/libxml/src/globals.c;273.43;0x8;{int};{};{};{}
+xmlLittleEndian;000071.011;third_party/libxml/src/encoding.c;71.26;0x8;{int};{};{};{}
+xmlLlG;000424.023;third_party/libxml/src/xmlunicode.c;424.29;0x8;{xmlChRangeGroup};{};{};{}
+xmlLmG;000432.023;third_party/libxml/src/xmlunicode.c;432.29;0x8;{xmlChRangeGroup};{};{};{}
+xmlLoG;000495.023;third_party/libxml/src/xmlunicode.c;495.29;0x8;{xmlChRangeGroup};{};{};{}
+xmlLoadExtDtdDefaultValue;000254.004;third_party/libxml/src/globals.c;254.29;0x0;{int};{};{};{}
+xmlLoadExtDtdDefaultValue;000418.014;third_party/libxml/src/include/libxml/globals.h;418.39;0x0;{int XMLPUBVAR};{};{};{}
+xmlLoadExtDtdDefaultValueThrDef;000255.011;third_party/libxml/src/globals.c;255.42;0x8;{int};{};{};{}
+xmlLtG;000500.023;third_party/libxml/src/xmlunicode.c;500.29;0x8;{xmlChRangeGroup};{};{};{}
+xmlLuG;000611.023;third_party/libxml/src/xmlunicode.c;611.29;0x8;{xmlChRangeGroup};{};{};{}
+xmlMG;000645.023;third_party/libxml/src/xmlunicode.c;645.28;0x8;{xmlChRangeGroup};{};{};{}
+xmlMalloc;000084.014;third_party/libxml/src/globals.c;84.23;0x0;{xmlMallocFunc};{};{};{}
+xmlMalloc;000123.014;third_party/libxml/src/globals.c;123.23;0x0;{xmlMallocFunc};{};{};{}
+xmlMalloc;000207.024;third_party/libxml/src/include/libxml/globals.h;207.33;0x0;{xmlMallocFunc};{};{};{}
+xmlMalloc;000243.024;third_party/libxml/src/include/libxml/globals.h;243.33;0x0;{xmlMallocFunc};{};{};{}
+xmlMallocAtomic;000085.014;third_party/libxml/src/globals.c;85.29;0x0;{xmlMallocFunc};{};{};{}
+xmlMallocAtomic;000134.014;third_party/libxml/src/globals.c;134.29;0x0;{xmlMallocFunc};{};{};{}
+xmlMallocAtomic;000215.024;third_party/libxml/src/include/libxml/globals.h;215.39;0x0;{xmlMallocFunc};{};{};{}
+xmlMallocAtomic;000244.024;third_party/libxml/src/include/libxml/globals.h;244.39;0x0;{xmlMallocFunc};{};{};{}
+xmlMcG;000663.023;third_party/libxml/src/xmlunicode.c;663.29;0x8;{xmlChRangeGroup};{};{};{}
+xmlMemInitialized;000051.011;third_party/libxml/src/xmlmemory.c;51.28;0x8;{int};{};{};{}
+xmlMemMutex;000055.019;third_party/libxml/src/xmlmemory.c;55.30;0x8;{xmlMutexPtr};{};{};{}
+xmlMemStopAtBlock;000118.020;third_party/libxml/src/xmlmemory.c;118.37;0x8;{unsigned int};{};{};{}
+xmlMemStrdup;000087.014;third_party/libxml/src/globals.c;87.26;0x0;{xmlStrdupFunc};{};{};{}
+xmlMemStrdup;000153.014;third_party/libxml/src/globals.c;153.26;0x0;{xmlStrdupFunc};{};{};{}
+xmlMemStrdup;000239.024;third_party/libxml/src/include/libxml/globals.h;239.36;0x0;{xmlStrdupFunc};{};{};{}
+xmlMemStrdup;000247.024;third_party/libxml/src/include/libxml/globals.h;247.36;0x0;{xmlStrdupFunc};{};{};{}
+xmlMemTraceBlockAt;000119.013;third_party/libxml/src/xmlmemory.c;119.31;0x8;{void *};{};{};{}
+xmlMemoryDumpFile;000830.013;third_party/libxml/src/xmlmemory.c;830.30;0x8;{FILE *};{};{};{}
+xmlMnG;000695.023;third_party/libxml/src/xmlunicode.c;695.29;0x8;{xmlChRangeGroup};{};{};{}
+xmlNG;000710.023;third_party/libxml/src/xmlunicode.c;710.28;0x8;{xmlChRangeGroup};{};{};{}
+xmlNamespaceNs;000126.022;third_party/libxml/src/xmlschemas.c;126.36;0x8;{const xmlChar *};{};{};{}
+xmlNdG;000719.023;third_party/libxml/src/xmlunicode.c;719.29;0x8;{xmlChRangeGroup};{};{};{}
+xmlNoG;000728.023;third_party/libxml/src/xmlunicode.c;728.29;0x8;{xmlChRangeGroup};{};{};{}
+xmlOldSchematronNs;000045.022;third_party/libxml/src/schematron.c;45.40;0x8;{const xmlChar *};{};{};{}
+xmlOutputBufferCreateFilenameValue;000305.034;third_party/libxml/src/globals.c;305.68;0x0;{xmlOutputBufferCreateFilenameFunc};{};{};{}
+xmlOutputBufferCreateFilenameValue;000495.044;third_party/libxml/src/include/libxml/globals.h;495.78;0x0;{xmlOutputBufferCreateFilenameFunc};{};{};{}
+xmlOutputBufferCreateFilenameValueThrDef;000306.041;third_party/libxml/src/globals.c;306.81;0x8;{xmlOutputBufferCreateFilenameFunc};{};{};{}
+xmlOutputCallbackInitialized;000137.011;third_party/libxml/src/xmlIO.c;137.39;0x8;{int};{};{};{}
+xmlOutputCallbackNr;000136.011;third_party/libxml/src/xmlIO.c;136.30;0x8;{int};{};{};{}
+xmlOutputCallbackTable;000135.025;third_party/libxml/src/xmlIO.c;135.47;0x8;{xmlOutputCallback []};{};{};{}
+xmlPG;000752.023;third_party/libxml/src/xmlunicode.c;752.28;0x8;{xmlChRangeGroup};{};{};{}
+xmlParserDebugEntities;000229.004;third_party/libxml/src/globals.c;229.26;0x0;{int};{};{};{}
+xmlParserDebugEntities;000427.014;third_party/libxml/src/include/libxml/globals.h;427.36;0x0;{int XMLPUBVAR};{};{};{}
+xmlParserDebugEntitiesThrDef;000230.011;third_party/libxml/src/globals.c;230.39;0x8;{int};{};{};{}
+xmlParserInitialized;014002.011;third_party/libxml/src/parser.c;14002.31;0x8;{int};{};{};{}
+xmlParserInputBufferCreateFilenameValue;000302.039;third_party/libxml/src/globals.c;302.78;0x0;{xmlParserInputBufferCreateFilenameFunc};{};{};{}
+xmlParserInputBufferCreateFilenameValue;000487.049;third_party/libxml/src/include/libxml/globals.h;487.88;0x0;{xmlParserInputBufferCreateFilenameFunc};{};{};{}
+xmlParserInputBufferCreateFilenameValueThrDef;000303.046;third_party/libxml/src/globals.c;303.91;0x8;{xmlParserInputBufferCreateFilenameFunc};{};{};{}
+xmlParserMaxDepth;000031.023;third_party/libxml/src/include/libxml/parserInternals.h;31.40;0x0;{unsigned int XMLPUBVAR};{};{};{}
+xmlParserMaxDepth;000185.013;third_party/libxml/src/parser.c;185.30;0x0;{unsigned int};{};{};{}
+xmlParserVersion;000194.012;third_party/libxml/src/globals.c;194.28;0x0;{const char *};{};{};{}
+xmlParserVersion;000436.023;third_party/libxml/src/include/libxml/globals.h;436.39;0x0;{const char XMLPUBVAR *};{};{};{}
+xmlPdG;000758.023;third_party/libxml/src/xmlunicode.c;758.29;0x8;{xmlChRangeGroup};{};{};{}
+xmlPeG;000777.023;third_party/libxml/src/xmlunicode.c;777.29;0x8;{xmlChRangeGroup};{};{};{}
+xmlPedanticParserDefaultValue;000262.004;third_party/libxml/src/globals.c;262.33;0x0;{int};{};{};{}
+xmlPedanticParserDefaultValue;000444.014;third_party/libxml/src/include/libxml/globals.h;444.43;0x0;{int XMLPUBVAR};{};{};{}
+xmlPedanticParserDefaultValueThrDef;000263.011;third_party/libxml/src/globals.c;263.46;0x8;{int};{};{};{}
+xmlPoG;000798.023;third_party/libxml/src/xmlunicode.c;798.29;0x8;{xmlChRangeGroup};{};{};{}
+xmlPsG;000817.023;third_party/libxml/src/xmlunicode.c;817.29;0x8;{xmlChRangeGroup};{};{};{}
+xmlRealloc;000086.015;third_party/libxml/src/globals.c;86.25;0x0;{xmlReallocFunc};{};{};{}
+xmlRealloc;000144.015;third_party/libxml/src/globals.c;144.25;0x0;{xmlReallocFunc};{};{};{}
+xmlRealloc;000223.025;third_party/libxml/src/include/libxml/globals.h;223.35;0x0;{xmlReallocFunc};{};{};{}
+xmlRealloc;000245.025;third_party/libxml/src/include/libxml/globals.h;245.35;0x0;{xmlReallocFunc};{};{};{}
+xmlRegisterNodeDefaultValue;000297.020;third_party/libxml/src/globals.c;297.47;0x0;{xmlRegisterNodeFunc};{};{};{}
+xmlRegisterNodeDefaultValue;000471.030;third_party/libxml/src/include/libxml/globals.h;471.57;0x0;{xmlRegisterNodeFunc};{};{};{}
+xmlRegisterNodeDefaultValueThrDef;000298.027;third_party/libxml/src/globals.c;298.60;0x8;{xmlRegisterNodeFunc};{};{};{}
+xmlRelaxNGNs;000039.022;third_party/libxml/src/relaxng.c;39.34;0x8;{const xmlChar *};{};{};{}
+xmlRelaxNGRegisteredTypes;002721.023;third_party/libxml/src/relaxng.c;2721.48;0x8;{xmlHashTablePtr};{};{};{}
+xmlRelaxNGTypeInitialized;002720.011;third_party/libxml/src/relaxng.c;2720.36;0x8;{int};{};{};{}
+xmlSAX2DefaultVersionValue;002712.011;third_party/libxml/src/SAX2.c;2712.37;0x8;{int};{};{};{}
+xmlSG;000860.023;third_party/libxml/src/xmlunicode.c;860.28;0x8;{xmlChRangeGroup};{};{};{}
+xmlSaveNoEmptyTags;000375.004;third_party/libxml/src/globals.c;375.22;0x0;{int};{};{};{}
+xmlSaveNoEmptyTags;000453.014;third_party/libxml/src/include/libxml/globals.h;453.32;0x0;{int XMLPUBVAR};{};{};{}
+xmlSaveNoEmptyTagsThrDef;000376.011;third_party/libxml/src/globals.c;376.35;0x8;{int};{};{};{}
+xmlScG;000866.023;third_party/libxml/src/xmlunicode.c;866.29;0x8;{xmlChRangeGroup};{};{};{}
+xmlSchemaInstanceNs;000123.022;third_party/libxml/src/xmlschemas.c;123.41;0x8;{const xmlChar *};{};{};{}
+xmlSchemaNs;000120.022;third_party/libxml/src/xmlschemas.c;120.33;0x8;{const xmlChar *};{};{};{}
+xmlSchemaTypeAnySimpleTypeDef;000141.024;third_party/libxml/src/xmlschemastypes.c;141.53;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeAnyTypeDef;000140.024;third_party/libxml/src/xmlschemastypes.c;140.47;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeAnyURIDef;000157.024;third_party/libxml/src/xmlschemastypes.c;157.46;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeBase64BinaryDef;000156.024;third_party/libxml/src/xmlschemastypes.c;156.52;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeBooleanDef;000153.024;third_party/libxml/src/xmlschemastypes.c;153.47;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeByteDef;000170.024;third_party/libxml/src/xmlschemastypes.c;170.44;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeDateDef;000144.024;third_party/libxml/src/xmlschemastypes.c;144.44;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeDatetimeDef;000143.024;third_party/libxml/src/xmlschemastypes.c;143.48;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeDecimalDef;000142.024;third_party/libxml/src/xmlschemastypes.c;142.47;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeDoubleDef;000154.024;third_party/libxml/src/xmlschemastypes.c;154.46;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeDurationDef;000151.024;third_party/libxml/src/xmlschemastypes.c;151.48;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeEntitiesDef;000185.024;third_party/libxml/src/xmlschemastypes.c;185.48;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeEntityDef;000184.024;third_party/libxml/src/xmlschemastypes.c;184.46;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeFloatDef;000152.024;third_party/libxml/src/xmlschemastypes.c;152.45;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeGDayDef;000148.024;third_party/libxml/src/xmlschemastypes.c;148.44;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeGMonthDayDef;000149.024;third_party/libxml/src/xmlschemastypes.c;149.49;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeGMonthDef;000150.024;third_party/libxml/src/xmlschemastypes.c;150.46;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeGYearDef;000146.024;third_party/libxml/src/xmlschemastypes.c;146.45;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeGYearMonthDef;000147.024;third_party/libxml/src/xmlschemastypes.c;147.50;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeHexBinaryDef;000155.024;third_party/libxml/src/xmlschemastypes.c;155.49;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeIdDef;000181.024;third_party/libxml/src/xmlschemastypes.c;181.42;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeIdrefDef;000182.024;third_party/libxml/src/xmlschemastypes.c;182.45;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeIdrefsDef;000183.024;third_party/libxml/src/xmlschemastypes.c;183.46;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeIntDef;000168.024;third_party/libxml/src/xmlschemastypes.c;168.43;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeIntegerDef;000166.024;third_party/libxml/src/xmlschemastypes.c;166.47;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeLanguageDef;000177.024;third_party/libxml/src/xmlschemastypes.c;177.48;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeLongDef;000167.024;third_party/libxml/src/xmlschemastypes.c;167.44;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeNCNameDef;000180.024;third_party/libxml/src/xmlschemastypes.c;180.46;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeNameDef;000178.024;third_party/libxml/src/xmlschemastypes.c;178.44;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeNegativeIntegerDef;000164.024;third_party/libxml/src/xmlschemastypes.c;164.55;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeNmtokenDef;000187.024;third_party/libxml/src/xmlschemastypes.c;187.47;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeNmtokensDef;000188.024;third_party/libxml/src/xmlschemastypes.c;188.48;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeNonNegativeIntegerDef;000165.024;third_party/libxml/src/xmlschemastypes.c;165.58;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeNonPositiveIntegerDef;000163.024;third_party/libxml/src/xmlschemastypes.c;163.58;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeNormStringDef;000175.024;third_party/libxml/src/xmlschemastypes.c;175.50;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeNotationDef;000186.024;third_party/libxml/src/xmlschemastypes.c;186.48;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypePositiveIntegerDef;000162.024;third_party/libxml/src/xmlschemastypes.c;162.55;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeQNameDef;000179.024;third_party/libxml/src/xmlschemastypes.c;179.45;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeShortDef;000169.024;third_party/libxml/src/xmlschemastypes.c;169.45;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeStringDef;000139.024;third_party/libxml/src/xmlschemastypes.c;139.46;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeTimeDef;000145.024;third_party/libxml/src/xmlschemastypes.c;145.44;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeTokenDef;000176.024;third_party/libxml/src/xmlschemastypes.c;176.45;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeUnsignedByteDef;000174.024;third_party/libxml/src/xmlschemastypes.c;174.52;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeUnsignedIntDef;000172.024;third_party/libxml/src/xmlschemastypes.c;172.51;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeUnsignedLongDef;000171.024;third_party/libxml/src/xmlschemastypes.c;171.52;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypeUnsignedShortDef;000173.024;third_party/libxml/src/xmlschemastypes.c;173.53;0x8;{xmlSchemaTypePtr};{};{};{}
+xmlSchemaTypesBank;000134.023;third_party/libxml/src/xmlschemastypes.c;134.41;0x8;{xmlHashTablePtr};{};{};{}
+xmlSchemaTypesInitialized;000133.011;third_party/libxml/src/xmlschemastypes.c;133.36;0x8;{int};{};{};{}
+xmlSchematronNs;000044.022;third_party/libxml/src/schematron.c;44.37;0x8;{const xmlChar *};{};{};{}
+xmlSkG;000874.023;third_party/libxml/src/xmlunicode.c;874.29;0x8;{xmlChRangeGroup};{};{};{}
+xmlSmG;000893.023;third_party/libxml/src/xmlunicode.c;893.29;0x8;{xmlChRangeGroup};{};{};{}
+xmlSoG;000926.023;third_party/libxml/src/xmlunicode.c;926.29;0x8;{xmlChRangeGroup};{};{};{}
+xmlStructuredError;000329.023;third_party/libxml/src/globals.c;329.41;0x0;{xmlStructuredErrorFunc};{};{};{}
+xmlStructuredError;000349.033;third_party/libxml/src/include/libxml/globals.h;349.51;0x0;{xmlStructuredErrorFunc};{};{};{}
+xmlStructuredErrorContext;000343.006;third_party/libxml/src/globals.c;343.31;0x0;{void *};{};{};{}
+xmlStructuredErrorContext;000365.017;third_party/libxml/src/include/libxml/globals.h;365.42;0x0;{void XMLPUBVAR *};{};{};{}
+xmlStructuredErrorContextThrDef;000344.013;third_party/libxml/src/globals.c;344.44;0x8;{void *};{};{};{}
+xmlStructuredErrorThrDef;000330.030;third_party/libxml/src/globals.c;330.54;0x8;{xmlStructuredErrorFunc};{};{};{}
+xmlSubstituteEntitiesDefaultValue;000294.004;third_party/libxml/src/globals.c;294.37;0x0;{int};{};{};{}
+xmlSubstituteEntitiesDefaultValue;000462.014;third_party/libxml/src/include/libxml/globals.h;462.47;0x0;{int XMLPUBVAR};{};{};{}
+xmlSubstituteEntitiesDefaultValueThrDef;000295.011;third_party/libxml/src/globals.c;295.50;0x8;{int};{};{};{}
+xmlThrDefMutex;000040.019;third_party/libxml/src/globals.c;40.33;0x8;{xmlMutexPtr};{};{};{}
+xmlTreeIndentString;000364.012;third_party/libxml/src/globals.c;364.31;0x0;{const char *};{};{};{}
+xmlTreeIndentString;000391.023;third_party/libxml/src/include/libxml/globals.h;391.42;0x0;{const char XMLPUBVAR *};{};{};{}
+xmlTreeIndentStringThrDef;000365.019;third_party/libxml/src/globals.c;365.44;0x8;{const char *};{};{};{}
+xmlUTF16BEHandler;000048.033;third_party/libxml/src/encoding.c;48.50;0x8;{xmlCharEncodingHandlerPtr};{};{};{}
+xmlUTF16LEHandler;000047.033;third_party/libxml/src/encoding.c;47.50;0x8;{xmlCharEncodingHandlerPtr};{};{};{}
+xmlUnicodeBlockTbl;000933.027;third_party/libxml/src/xmlunicode.c;933.45;0x8;{xmlUnicodeNameTable};{};{};{}
+xmlUnicodeBlocks;000039.023;third_party/libxml/src/xmlunicode.c;39.39;0x8;{xmlUnicodeRange []};{};{};{}
+xmlUnicodeCatTbl;000934.027;third_party/libxml/src/xmlunicode.c;934.43;0x8;{xmlUnicodeNameTable};{};{};{}
+xmlUnicodeCats;000169.023;third_party/libxml/src/xmlunicode.c;169.37;0x8;{xmlUnicodeRange []};{};{};{}
+xmlWrapGzOpen;000712.025;third_party/libxml/src/xmlIO.c;712.38;0x8;{xmlWrapGzOpenFunc};{};{};{}
+xmlWrapOpen;000709.023;third_party/libxml/src/xmlIO.c;709.34;0x8;{xmlWrapOpenFunc};{};{};{}
+xmlWrapStat;000707.023;third_party/libxml/src/xmlIO.c;707.34;0x8;{xmlWrapStatFunc};{};{};{}
+xmlXPathDebugObjCounterAll;001324.011;third_party/libxml/src/xpath.c;1324.37;0x8;{int};{};{};{}
+xmlXPathDebugObjCounterBool;001316.011;third_party/libxml/src/xpath.c;1316.38;0x8;{int};{};{};{}
+xmlXPathDebugObjCounterLocset;001321.011;third_party/libxml/src/xpath.c;1321.40;0x8;{int};{};{};{}
+xmlXPathDebugObjCounterNodeset;001315.011;third_party/libxml/src/xpath.c;1315.41;0x8;{int};{};{};{}
+xmlXPathDebugObjCounterNumber;001317.011;third_party/libxml/src/xpath.c;1317.40;0x8;{int};{};{};{}
+xmlXPathDebugObjCounterPoint;001319.011;third_party/libxml/src/xpath.c;1319.39;0x8;{int};{};{};{}
+xmlXPathDebugObjCounterRange;001320.011;third_party/libxml/src/xpath.c;1320.39;0x8;{int};{};{};{}
+xmlXPathDebugObjCounterString;001318.011;third_party/libxml/src/xpath.c;1318.40;0x8;{int};{};{};{}
+xmlXPathDebugObjCounterUndefined;001314.011;third_party/libxml/src/xpath.c;1314.43;0x8;{int};{};{};{}
+xmlXPathDebugObjCounterUsers;001322.011;third_party/libxml/src/xpath.c;1322.39;0x8;{int};{};{};{}
+xmlXPathDebugObjCounterXSLTTree;001323.011;third_party/libxml/src/xpath.c;1323.42;0x8;{int};{};{};{}
+xmlXPathDebugObjMaxAll;001348.011;third_party/libxml/src/xpath.c;1348.33;0x8;{int};{};{};{}
+xmlXPathDebugObjMaxBool;001340.011;third_party/libxml/src/xpath.c;1340.34;0x8;{int};{};{};{}
+xmlXPathDebugObjMaxLocset;001345.011;third_party/libxml/src/xpath.c;1345.36;0x8;{int};{};{};{}
+xmlXPathDebugObjMaxNodeset;001339.011;third_party/libxml/src/xpath.c;1339.37;0x8;{int};{};{};{}
+xmlXPathDebugObjMaxNumber;001341.011;third_party/libxml/src/xpath.c;1341.36;0x8;{int};{};{};{}
+xmlXPathDebugObjMaxPoint;001343.011;third_party/libxml/src/xpath.c;1343.35;0x8;{int};{};{};{}
+xmlXPathDebugObjMaxRange;001344.011;third_party/libxml/src/xpath.c;1344.35;0x8;{int};{};{};{}
+xmlXPathDebugObjMaxString;001342.011;third_party/libxml/src/xpath.c;1342.36;0x8;{int};{};{};{}
+xmlXPathDebugObjMaxUndefined;001338.011;third_party/libxml/src/xpath.c;1338.39;0x8;{int};{};{};{}
+xmlXPathDebugObjMaxUsers;001346.011;third_party/libxml/src/xpath.c;1346.35;0x8;{int};{};{};{}
+xmlXPathDebugObjMaxXSLTTree;001347.011;third_party/libxml/src/xpath.c;1347.38;0x8;{int};{};{};{}
+xmlXPathDebugObjTotalAll;001336.011;third_party/libxml/src/xpath.c;1336.35;0x8;{int};{};{};{}
+xmlXPathDebugObjTotalBool;001328.011;third_party/libxml/src/xpath.c;1328.36;0x8;{int};{};{};{}
+xmlXPathDebugObjTotalLocset;001333.011;third_party/libxml/src/xpath.c;1333.38;0x8;{int};{};{};{}
+xmlXPathDebugObjTotalNodeset;001327.011;third_party/libxml/src/xpath.c;1327.39;0x8;{int};{};{};{}
+xmlXPathDebugObjTotalNumber;001329.011;third_party/libxml/src/xpath.c;1329.38;0x8;{int};{};{};{}
+xmlXPathDebugObjTotalPoint;001331.011;third_party/libxml/src/xpath.c;1331.37;0x8;{int};{};{};{}
+xmlXPathDebugObjTotalRange;001332.011;third_party/libxml/src/xpath.c;1332.37;0x8;{int};{};{};{}
+xmlXPathDebugObjTotalString;001330.011;third_party/libxml/src/xpath.c;1330.38;0x8;{int};{};{};{}
+xmlXPathDebugObjTotalUndefined;001326.011;third_party/libxml/src/xpath.c;1326.41;0x8;{int};{};{};{}
+xmlXPathDebugObjTotalUsers;001334.011;third_party/libxml/src/xpath.c;1334.37;0x8;{int};{};{};{}
+xmlXPathDebugObjTotalXSLTTree;001335.011;third_party/libxml/src/xpath.c;1335.40;0x8;{int};{};{};{}
+xmlXPathDisableOptimizer;000210.011;third_party/libxml/src/xpath.c;210.35;0x8;{int};{};{};{}
+xmlXPathInitialized;000119.011;third_party/libxml/src/xpath.c;119.30;0x8;{int};{};{};{}
+xmlXPathNAN;000038.014;third_party/libxml/src/xmlschemastypes.c;38.25;0x0;{double};{};{};{}
+xmlXPathNAN;000115.007;third_party/libxml/src/xpath.c;115.18;0x0;{double};{};{};{}
+xmlXPathNAN;000395.017;third_party/libxml/src/include/libxml/xpath.h;395.28;0x0;{double XMLPUBVAR};{};{};{}
+xmlXPathNINF;000040.014;third_party/libxml/src/xmlschemastypes.c;40.26;0x0;{double};{};{};{}
+xmlXPathNINF;000117.007;third_party/libxml/src/xpath.c;117.19;0x0;{double};{};{};{}
+xmlXPathNINF;000397.017;third_party/libxml/src/include/libxml/xpath.h;397.29;0x0;{double XMLPUBVAR};{};{};{}
+xmlXPathNZERO;000118.014;third_party/libxml/src/xpath.c;118.27;0x8;{double};{};{};{}
+xmlXPathPINF;000039.014;third_party/libxml/src/xmlschemastypes.c;39.26;0x0;{double};{};{};{}
+xmlXPathPINF;000116.007;third_party/libxml/src/xpath.c;116.19;0x0;{double};{};{};{}
+xmlXPathPINF;000396.017;third_party/libxml/src/include/libxml/xpath.h;396.29;0x0;{double XMLPUBVAR};{};{};{}
+xmlXPathXMLNamespace;000204.016;third_party/libxml/src/xpath.c;204.36;0x8;{xmlNsPtr};{};{};{}
+xmlXPathXMLNamespaceStruct;000196.013;third_party/libxml/src/xpath.c;196.39;0x8;{xmlNs};{};{};{}
+xmlZG;000931.023;third_party/libxml/src/xmlunicode.c;931.28;0x8;{xmlChRangeGroup};{};{};{}
+xslDebugStatus;000284.015;third_party/libxslt/libxslt/xsltutils.h;284.29;0x0;{int XSLTPUBVAR};{};{};{}
+xslDebugStatus;002181.004;third_party/libxslt/libxslt/xsltutils.c;2181.18;0x0;{int};{};{};{}
+xsltComputingGlobalVarMarker;000043.015;third_party/libxslt/libxslt/variables.c;43.43;0x0;{const xmlChar *};{};{};{}
+xsltConstNamespaceNameXSLT;000057.015;third_party/libxslt/libxslt/xslt.c;57.41;0x0;{const xmlChar *};{};{};{}
+xsltConstNamespaceNameXSLT;000118.022;third_party/libxslt/libxslt/xsltInternals.h;118.48;0x0;{const xmlChar *};{};{};{}
+xsltDebuggerCurrentCallbacks;002175.029;third_party/libxslt/libxslt/xsltutils.c;2175.57;0x8;{xsltDebuggerCallbacks};{};{};{}
+xsltDefaultSecurityPrefs;000073.028;third_party/libxslt/libxslt/security.c;73.52;0x8;{xsltSecurityPrefsPtr};{};{};{}
+xsltDefaultTrace;000322.014;third_party/libxslt/libxslt/transform.c;322.30;0x0;{unsigned long};{};{};{}
+xsltDoXIncludeDefault;000297.011;third_party/libxslt/libxslt/transform.c;297.32;0x8;{int};{};{};{}
+xsltDocDefaultLoader;000086.029;third_party/libxslt/libxslt/documents.h;86.49;0x0;{xsltDocLoaderFunc};{};{};{}
+xsltDocDefaultLoader;000110.018;third_party/libxslt/libxslt/documents.c;110.38;0x0;{xsltDocLoaderFunc};{};{};{}
+xsltDocFragFake;000040.015;third_party/libxslt/libxslt/variables.c;40.30;0x0;{const xmlChar *};{};{};{}
+xsltElementsHash;000086.023;third_party/libxslt/libxslt/extensions.c;86.39;0x8;{xmlHashTablePtr};{};{};{}
+xsltEngineVersion;000051.012;third_party/libxslt/libxslt/xslt.c;51.29;0x0;{const char *};{};{};{}
+xsltEngineVersion;000069.023;third_party/libxslt/libxslt/xslt.h;69.40;0x0;{const char XSLTPUBVAR *};{};{};{}
+xsltExtMarker;000025.022;third_party/libxslt/libxslt/preproc.h;25.35;0x0;{const xmlChar *};{};{};{}
+xsltExtMarker;000047.015;third_party/libxslt/libxslt/preproc.c;47.28;0x0;{const xmlChar *};{};{};{}
+xsltExtMutex;000089.019;third_party/libxslt/libxslt/extensions.c;89.31;0x8;{xmlMutexPtr};{};{};{}
+xsltExtensionsHash;000084.023;third_party/libxslt/libxslt/extensions.c;84.41;0x8;{xmlHashTablePtr};{};{};{}
+xsltFunctionsHash;000085.023;third_party/libxslt/libxslt/extensions.c;85.40;0x8;{xmlHashTablePtr};{};{};{}
+xsltGenericDebug;000142.031;third_party/libxslt/libxslt/xsltutils.h;142.47;0x0;{xmlGenericErrorFunc};{};{};{}
+xsltGenericDebug;000568.020;third_party/libxslt/libxslt/xsltutils.c;568.36;0x0;{xmlGenericErrorFunc};{};{};{}
+xsltGenericDebugContext;000143.017;third_party/libxslt/libxslt/xsltutils.h;143.40;0x0;{void XSLTPUBVAR *};{};{};{}
+xsltGenericDebugContext;000569.006;third_party/libxslt/libxslt/xsltutils.c;569.29;0x0;{void *};{};{};{}
+xsltGenericError;000140.031;third_party/libxslt/libxslt/xsltutils.h;140.47;0x0;{xmlGenericErrorFunc};{};{};{}
+xsltGenericError;000522.020;third_party/libxslt/libxslt/xsltutils.c;522.36;0x0;{xmlGenericErrorFunc};{};{};{}
+xsltGenericErrorContext;000141.017;third_party/libxslt/libxslt/xsltutils.h;141.40;0x0;{void XSLTPUBVAR *};{};{};{}
+xsltGenericErrorContext;000523.006;third_party/libxslt/libxslt/xsltutils.c;523.29;0x0;{void *};{};{};{}
+xsltHTMLVersions;005661.023;third_party/libxslt/libxslt/transform.c;5661.39;0x8;{xsltHTMLVersion []};{};{};{}
+xsltLocaleList;000053.024;third_party/libxslt/libxslt/xsltlocale.c;53.38;0x8;{xsltRFC1766Info *};{};{};{}
+xsltLocaleListSize;000052.011;third_party/libxslt/libxslt/xsltlocale.c;52.29;0x8;{int};{};{};{}
+xsltLocaleMutex;000042.013;third_party/libxslt/libxslt/xsltlocale.c;42.28;0x0;{xmlRMutexPtr};{};{};{}
+xsltLocaleMutex;000091.020;third_party/libxslt/libxslt/xslt.c;91.35;0x0;{xmlRMutexPtr};{};{};{}
+xsltMaxDepth;000062.015;third_party/libxslt/libxslt/xslt.h;62.27;0x0;{int XSLTPUBVAR};{};{};{}
+xsltMaxDepth;000066.004;third_party/libxslt/libxslt/transform.c;66.16;0x0;{int};{};{};{}
+xsltModuleHash;000088.023;third_party/libxslt/libxslt/extensions.c;88.37;0x8;{xmlHashTablePtr};{};{};{}
+xsltSortFunction;001331.020;third_party/libxslt/libxslt/xsltutils.c;1331.36;0x8;{xsltSortFunc};{};{};{}
+xsltTopLevelsHash;000087.023;third_party/libxslt/libxslt/extensions.c;87.40;0x8;{xmlHashTablePtr};{};{};{}
+xsltXSLTAttrMarker;000086.015;third_party/libxslt/libxslt/xslt.c;86.33;0x0;{const xmlChar *};{};{};{}
+xsltXSLTAttrMarker;000093.022;third_party/libxslt/libxslt/xsltInternals.h;93.40;0x0;{const xmlChar *};{};{};{}
+xsltXSLTTextMarker;000080.015;third_party/libxslt/libxslt/xslt.c;80.33;0x0;{const xmlChar *};{};{};{}
+yyTraceFILE;103664.013;third_party/sqlite/amalgamation/sqlite3.c;103664.24;0x8;{FILE *};{};{};{}
+yyTracePrompt;103665.013;third_party/sqlite/amalgamation/sqlite3.c;103665.26;0x8;{char *};{};{};{}
+z_verbose;000120.018;third_party/zlib/zutil.c;120.27;0x0;{int ZLIB_INTERNAL};{};{};{}
+z_verbose;000262.028;third_party/zlib/zutil.h;262.37;0x0;{int ZLIB_INTERNAL};{};{};{}
+zero_only;000068.022;gpu/command_buffer/service/gles2_cmd_validation_autogen.h;68.31;0x0;{ValueValidator<GLint>};{};{};{}

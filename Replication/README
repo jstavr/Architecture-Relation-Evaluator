@@ -1,0 +1,64 @@
+In the DataFileSystem Folder there exist several Folders: 
+There must exist atleast the following:
+	1 : ACDC_INPUT
+	2 : Auxiliary_RSFS
+	3 : CDIFS
+	4 : CLUSTERED_SYSTEMS
+	5 : File_RSFS
+	6 : FILE_CLUSTERED_SYSTEMS
+	7 : LIN_DEREK_GROUND_TRUTHS
+	8 : RSFS
+
+In order to obtain the same results that we provide in the Excels 
+folder you will have to perform the following steps.
+
+	1  : Execute the TextGTToIDGTTransformer.jar
+
+this will find all filenames existing in both the GT provided by 
+the original author and those which were actually found when the 
+specific version was analysed. Then those filenames are substituted 
+with their ID equivalent as is defined in our .rsf file as provided 
+by the Fact Extraction ToolCHain (fetch tool).
+
+	2  : Execute the FileRSFWriter.jar
+
+this will perform a File Lift on the RSF translating all relations
+to relations between files and modules and will write this in an
+ACDC tool friendly format that is:
+[RELATION] [ENTITYID_1] [ENTITYID_2]
+
+	3  : Execute the ACDCExecutor.jar 
+
+after the FileRSFWriter.jar has been run for all products available
+the execution of ACDCExecutor.jar will perform clustering and the output id est the new clusters will be stored in the
+CLUSTERED_SYSTEMS folder
+
+	4  : Execute the ResultCalculator.jar
+
+after providing the product name it will perform a set of 
+techniques which will result in it printing out a few lines related 
+to the execution and 3 matrices containing:
+
+Tversky Coefficient between each cluster
+File Containment as percentage of GT clusters
+LOC Containment as percentage of GT clusters.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Product Names as Used in this Replicator:
+Actual Name | Name used for files in DataFileSystem
+Chromium   --> chromium
+Hadoop 	   --> hadoop
+Bash       --> bash
+ITK        --> itk
+ArchStudio --> astudio
+
+Of cource if names are changed or you want to compare acdc results 
+to another type of ground truth then you will have to provide a 
+TXT format of the Ground Truth resembling the GT files in 
+LIN_DEREK_GROUND_TRUTHS. Extract the RSF an CDIF of the project 
+from the source code using fetch. and store the source code in the 
+PRODUCT_SOURCE_CODE folder, all using the same name and appendix 
+conventions.
+
+

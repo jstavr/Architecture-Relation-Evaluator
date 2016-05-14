@@ -1,0 +1,1878 @@
+BC;000037.013;lib/termcap/termcap.h;37.15;0x0;{char *};{};{};{}
+BC;000043.018;lib/readline/tcap.h;43.20;0x0;{char *};{};{};{}
+BC;000057.013;lib/termcap/termcap.h;57.15;0x0;{char *};{};{};{}
+BC;000103.010;lib/readline/terminal.c;103.12;0x0;{char *};{};{};{}
+BC;000126.025;lib/termcap/tparam.c;126.27;0x0;{char __private_extern__ *};{};{};{}
+COLS;002696.018;execute_cmd.c;2696.22;0x8;{int};{};{};{}
+Carg;000097.055;builtins/complete.c;97.59;0x8;{char *};{};{};{}
+EOF_Reached;000044.011;shell.h;44.22;0x0;{int};{};{};{}
+EOF_Reached;003608.004;y.tab.c;3608.15;0x0;{int};{};{};{}
+EOF_reached;000048.011;eval.c;48.22;0x0;{int};{};{};{}
+Farg;000097.048;builtins/complete.c;97.52;0x8;{char *};{};{};{}
+GERMANIC_PLURAL;000051.018;lib/intl/plural-exp.c;51.33;0x0;{expression};{};{};{}
+GERMANIC_PLURAL;000074.018;lib/intl/plural-exp.c;74.33;0x0;{expression};{};{};{}
+Garg;000097.013;builtins/complete.c;97.17;0x8;{char *};{};{};{}
+LINES;002696.011;execute_cmd.c;2696.16;0x8;{int};{};{};{}
+NEWLINE;000279.012;support/man2html.c;279.19;0x8;{char []};{};{};{}
+PC;000030.012;lib/termcap/termcap.h;30.14;0x0;{char};{};{};{}
+PC;000042.012;lib/readline/tcap.h;42.14;0x0;{char};{};{};{}
+PC;000049.012;lib/termcap/termcap.h;49.14;0x0;{char};{};{};{}
+PC;000103.005;lib/readline/terminal.c;103.7;0x0;{char};{};{};{}
+PC;000295.024;lib/termcap/termcap.c;295.26;0x0;{char __private_extern__};{};{};{}
+POSIXCOLL;000032.017;lib/glob/collsyms.h;32.26;0x8;{__COLLSYM []};{};{};{}
+Parg;000097.027;builtins/complete.c;97.31;0x8;{char *};{};{};{}
+SB;000261.012;execute_cmd.c;261.14;0x0;{stat};{};{};{}
+Sarg;000097.034;builtins/complete.c;97.38;0x8;{char *};{};{};{}
+Status;000038.005;builtins/umask.c;38.11;0x0;{Exit};{};{};{}
+UP;000036.013;lib/termcap/termcap.h;36.15;0x0;{char *};{};{};{}
+UP;000043.013;lib/readline/tcap.h;43.15;0x0;{char *};{};{};{}
+UP;000056.013;lib/termcap/termcap.h;56.15;0x0;{char *};{};{};{}
+UP;000103.015;lib/readline/terminal.c;103.17;0x0;{char *};{};{};{}
+UP;000127.025;lib/termcap/tparam.c;127.27;0x0;{char __private_extern__ *};{};{};{}
+Warg;000097.020;builtins/complete.c;97.24;0x8;{char *};{};{};{}
+Xarg;000097.041;builtins/complete.c;97.45;0x8;{char *};{};{};{}
+__noreturn__;000079.049;externs.h;79.61;0x0;{void __attribute__ (())};{};{};{}
+__noreturn__;000080.046;externs.h;80.58;0x0;{void __attribute__ (())};{};{};{}
+__noreturn__;000112.067;test.c;112.79;0x8;{void __attribute__ (())};{};{};{}
+__noreturn__;000113.046;test.c;113.58;0x8;{void __attribute__ (())};{};{};{}
+__noreturn__;000114.064;test.c;114.76;0x8;{void __attribute__ (())};{};{};{}
+__noreturn__;000126.056;sig.h;126.68;0x0;{void __attribute__ (())};{};{};{}
+_keyboard_input_timeout;000083.011;lib/readline/input.c;83.34;0x8;{int};{};{};{}
+_malloc_nwatch;000034.005;lib/malloc/watch.c;34.19;0x0;{int};{};{};{}
+_malloc_nwatch;000035.011;lib/malloc/watch.h;35.25;0x0;{int};{};{};{}
+_malloc_trace_buckets;000041.012;lib/malloc/trace.c;41.33;0x0;{char []};{};{};{}
+_malloc_trace_buckets;000282.005;lib/malloc/malloc.c;282.26;0x0;{char []};{};{};{}
+_malloc_watch_list;000035.013;lib/malloc/watch.c;35.31;0x8;{PTR_T []};{};{};{}
+_mstats;000039.024;lib/malloc/stats.c;39.31;0x0;{_malstats};{};{};{}
+_mstats;000273.017;lib/malloc/malloc.c;273.24;0x0;{_malstats};{};{};{}
+_mtrace_fp;000040.006;lib/malloc/trace.c;40.16;0x0;{FILE *};{};{};{}
+_mtrace_verbose;000034.011;lib/malloc/trace.c;34.26;0x8;{int};{};{};{}
+_nl_domain_bindings;000070.023;lib/intl/bindtextdom.c;70.42;0x0;{binding *};{};{};{}
+_nl_domain_bindings;000310.016;lib/intl/dcigettext.c;310.35;0x0;{binding *};{};{};{}
+_nl_loaded_domains;000044.031;lib/intl/finddomain.c;44.49;0x8;{loaded_l10nfile *};{};{};{}
+_nl_msg_cat_cntr;000161.011;lib/intl/gettextP.h;161.27;0x0;{int};{};{};{}
+_nl_msg_cat_cntr;000504.004;lib/intl/loadmsgcat.c;504.20;0x0;{int};{};{};{}
+_nlos2_libdir;000046.006;lib/intl/os2compat.c;46.19;0x0;{char *};{};{};{}
+_nlos2_localealiaspath;000047.006;lib/intl/os2compat.c;47.28;0x0;{char *};{};{};{}
+_nlos2_localedir;000048.006;lib/intl/os2compat.c;48.22;0x0;{char *};{};{};{}
+_paren_blink_usec;000066.011;lib/readline/parens.c;66.28;0x8;{int};{};{};{}
+_redir_special_filenames;000487.024;redir.c;487.48;0x8;{STRING_INT_ALIST []};{};{};{}
+_rl_allow_pathname_alphabetic_chars;000068.004;lib/readline/util.c;68.39;0x0;{int};{};{};{}
+_rl_argcxt;000066.012;lib/readline/misc.c;66.22;0x0;{_rl_arg_cxt};{};{};{}
+_rl_argcxt;000442.019;lib/readline/rlprivate.h;442.29;0x0;{_rl_arg_cxt};{};{};{}
+_rl_bell_preference;000223.004;lib/readline/readline.c;223.23;0x0;{int};{};{};{}
+_rl_bell_preference;000448.011;lib/readline/rlprivate.h;448.30;0x0;{int};{};{};{}
+_rl_bind_stty_chars;000271.004;lib/readline/readline.c;271.23;0x0;{int};{};{};{}
+_rl_bind_stty_chars;000452.011;lib/readline/rlprivate.h;452.30;0x0;{int};{};{};{}
+_rl_callback_data;000051.026;lib/readline/callback.c;51.43;0x0;{_rl_callback_generic_arg *};{};{};{}
+_rl_callback_data;000407.033;lib/readline/rlprivate.h;407.50;0x0;{_rl_callback_generic_arg *};{};{};{}
+_rl_callback_func;000050.021;lib/readline/callback.c;50.38;0x0;{_rl_callback_func_t *};{};{};{}
+_rl_callback_func;000406.028;lib/readline/rlprivate.h;406.45;0x0;{_rl_callback_func_t *};{};{};{}
+_rl_caught_signal;000102.013;lib/readline/signals.c;102.30;0x100;{volatile int};{};{};{}
+_rl_caught_signal;000470.020;lib/readline/rlprivate.h;470.37;0x100;{volatile int};{};{};{}
+_rl_comment_begin;000226.006;lib/readline/readline.c;226.23;0x0;{char *};{};{};{}
+_rl_comment_begin;000455.013;lib/readline/rlprivate.h;455.30;0x0;{char *};{};{};{}
+_rl_complete_mark_directories;000146.004;lib/readline/complete.c;146.33;0x0;{int};{};{};{}
+_rl_complete_mark_directories;000412.011;lib/readline/rlprivate.h;412.40;0x0;{int};{};{};{}
+_rl_complete_mark_symlink_dirs;000152.004;lib/readline/complete.c;152.34;0x0;{int};{};{};{}
+_rl_complete_mark_symlink_dirs;000413.011;lib/readline/rlprivate.h;413.41;0x0;{int};{};{};{}
+_rl_complete_show_all;000139.004;lib/readline/complete.c;139.25;0x0;{int};{};{};{}
+_rl_complete_show_all;000410.011;lib/readline/rlprivate.h;410.32;0x0;{int};{};{};{}
+_rl_complete_show_unmodified;000143.004;lib/readline/complete.c;143.32;0x0;{int};{};{};{}
+_rl_complete_show_unmodified;000411.011;lib/readline/rlprivate.h;411.39;0x0;{int};{};{};{}
+_rl_completion_case_fold;000160.004;lib/readline/complete.c;160.28;0x0;{int};{};{};{}
+_rl_completion_case_fold;000162.004;lib/readline/complete.c;162.28;0x0;{int};{};{};{}
+_rl_completion_case_fold;000417.011;lib/readline/rlprivate.h;417.35;0x0;{int};{};{};{}
+_rl_completion_case_map;000167.004;lib/readline/complete.c;167.27;0x0;{int};{};{};{}
+_rl_completion_case_map;000418.011;lib/readline/rlprivate.h;418.34;0x0;{int};{};{};{}
+_rl_completion_columns;000181.004;lib/readline/complete.c;181.26;0x0;{int};{};{};{}
+_rl_completion_columns;000415.011;lib/readline/rlprivate.h;415.33;0x0;{int};{};{};{}
+_rl_completion_prefix_display_length;000177.004;lib/readline/complete.c;177.40;0x0;{int};{};{};{}
+_rl_completion_prefix_display_length;000414.011;lib/readline/rlprivate.h;414.47;0x0;{int};{};{};{}
+_rl_convert_meta_chars_to_ascii;000263.004;lib/readline/readline.c;263.35;0x0;{int};{};{};{}
+_rl_convert_meta_chars_to_ascii;000450.011;lib/readline/rlprivate.h;450.42;0x0;{int};{};{};{}
+_rl_cs_dir;001508.011;lib/readline/vi_mode.c;1508.21;0x8;{int};{};{};{}
+_rl_cs_orig_dir;001508.023;lib/readline/vi_mode.c;1508.38;0x8;{int};{};{};{}
+_rl_dispatching_keymap;000232.007;lib/readline/readline.c;232.29;0x0;{Keymap};{};{};{}
+_rl_doing_an_undo;000057.004;lib/readline/undo.c;57.21;0x0;{int};{};{};{}
+_rl_doing_an_undo;000499.011;lib/readline/rlprivate.h;499.28;0x0;{int};{};{};{}
+_rl_echo_control_chars;000280.004;lib/readline/readline.c;280.26;0x0;{int};{};{};{}
+_rl_echo_control_chars;000454.011;lib/readline/rlprivate.h;454.33;0x0;{int};{};{};{}
+_rl_echoctl;000106.004;lib/readline/signals.c;106.15;0x0;{int};{};{};{}
+_rl_echoctl;000472.011;lib/readline/rlprivate.h;472.22;0x0;{int};{};{};{}
+_rl_echoing_p;000179.004;lib/readline/readline.c;179.17;0x0;{int};{};{};{}
+_rl_echoing_p;000445.011;lib/readline/rlprivate.h;445.24;0x0;{int};{};{};{}
+_rl_enable_keypad;000178.004;lib/readline/terminal.c;178.21;0x0;{int};{};{};{}
+_rl_enable_keypad;000479.011;lib/readline/rlprivate.h;479.28;0x0;{int};{};{};{}
+_rl_enable_meta;000181.004;lib/readline/terminal.c;181.19;0x0;{int};{};{};{}
+_rl_enable_meta;000480.011;lib/readline/rlprivate.h;480.26;0x0;{int};{};{};{}
+_rl_eof_char;000206.004;lib/readline/readline.c;206.16;0x0;{int};{};{};{}
+_rl_eof_char;000461.011;lib/readline/rlprivate.h;461.23;0x0;{int};{};{};{}
+_rl_executing_macro;000436.013;lib/readline/rlprivate.h;436.32;0x0;{char *};{};{};{}
+_rl_history_preserve_point;000064.004;lib/readline/misc.c;64.30;0x0;{int};{};{};{}
+_rl_history_preserve_point;000439.011;lib/readline/rlprivate.h;439.37;0x0;{int};{};{};{}
+_rl_history_saved_point;000070.004;lib/readline/misc.c;70.27;0x0;{int};{};{};{}
+_rl_history_saved_point;000440.011;lib/readline/rlprivate.h;440.34;0x0;{int};{};{};{}
+_rl_horizontal_scroll_mode;000215.004;lib/readline/readline.c;215.30;0x0;{int};{};{};{}
+_rl_horizontal_scroll_mode;000446.011;lib/readline/rlprivate.h;446.37;0x0;{int};{};{};{}
+_rl_in_stream;000169.006;lib/readline/readline.c;169.19;0x0;{FILE *};{};{};{}
+_rl_in_stream;000458.013;lib/readline/rlprivate.h;458.26;0x0;{FILE *};{};{};{}
+_rl_interrupt_immediately;000101.004;lib/readline/signals.c;101.29;0x0;{int};{};{};{}
+_rl_interrupt_immediately;000469.011;lib/readline/rlprivate.h;469.36;0x0;{int};{};{};{}
+_rl_intr_char;000108.004;lib/readline/signals.c;108.17;0x0;{int};{};{};{}
+_rl_intr_char;000474.011;lib/readline/rlprivate.h;474.24;0x0;{int};{};{};{}
+_rl_iscxt;000060.016;lib/readline/isearch.c;60.25;0x0;{_rl_search_cxt *};{};{};{}
+_rl_iscxt;000433.023;lib/readline/rlprivate.h;433.32;0x0;{_rl_search_cxt *};{};{};{}
+_rl_isearch_terminators;000058.006;lib/readline/isearch.c;58.29;0x0;{char *};{};{};{}
+_rl_isearch_terminators;000431.013;lib/readline/rlprivate.h;431.36;0x0;{char *};{};{};{}
+_rl_keymap;000113.007;lib/readline/readline.c;113.17;0x0;{Keymap};{};{};{}
+_rl_keymap;000457.014;lib/readline/rlprivate.h;457.24;0x0;{Keymap};{};{};{}
+_rl_kscxt;000246.016;lib/readline/readline.c;246.25;0x0;{_rl_keyseq_cxt *};{};{};{}
+_rl_kscxt;000463.023;lib/readline/rlprivate.h;463.32;0x0;{_rl_keyseq_cxt *};{};{};{}
+_rl_last_c_pos;000163.004;lib/readline/display.c;163.18;0x0;{int};{};{};{}
+_rl_last_c_pos;000426.011;lib/readline/rlprivate.h;426.25;0x0;{int};{};{};{}
+_rl_last_command_was_kill;000128.004;lib/readline/readline.c;128.29;0x0;{int};{};{};{}
+_rl_last_command_was_kill;000460.011;lib/readline/rlprivate.h;460.36;0x0;{int};{};{};{}
+_rl_last_tty_chars;000066.036;lib/readline/rltty.c;66.54;0x8;{_RL_TTY_CHARS};{};{};{}
+_rl_last_v_pos;000164.004;lib/readline/display.c;164.18;0x0;{int};{};{};{}
+_rl_mark_modified_lines;000219.004;lib/readline/readline.c;219.27;0x0;{int};{};{};{}
+_rl_mark_modified_lines;000447.011;lib/readline/rlprivate.h;447.34;0x0;{int};{};{};{}
+_rl_match_hidden_files;000171.004;lib/readline/complete.c;171.26;0x0;{int};{};{};{}
+_rl_match_hidden_files;000419.011;lib/readline/rlprivate.h;419.33;0x0;{int};{};{};{}
+_rl_menu_complete_prefix_first;000200.004;lib/readline/complete.c;200.34;0x0;{int};{};{};{}
+_rl_menu_complete_prefix_first;000422.011;lib/readline/rlprivate.h;422.41;0x0;{int};{};{};{}
+_rl_meta_flag;000289.004;lib/readline/readline.c;289.17;0x0;{int};{};{};{}
+_rl_meta_flag;000449.011;lib/readline/rlprivate.h;449.24;0x0;{int};{};{};{}
+_rl_nscxt;000055.016;lib/readline/search.c;55.25;0x0;{_rl_search_cxt *};{};{};{}
+_rl_nscxt;000466.023;lib/readline/rlprivate.h;466.32;0x0;{_rl_search_cxt *};{};{};{}
+_rl_out_stream;000169.022;lib/readline/readline.c;169.36;0x0;{FILE *};{};{};{}
+_rl_out_stream;000459.013;lib/readline/rlprivate.h;459.27;0x0;{FILE *};{};{};{}
+_rl_output_meta_chars;000267.004;lib/readline/readline.c;267.25;0x0;{int};{};{};{}
+_rl_output_meta_chars;000451.011;lib/readline/rlprivate.h;451.32;0x0;{int};{};{};{}
+_rl_page_completions;000256.004;lib/readline/complete.c;256.24;0x0;{int};{};{};{}
+_rl_page_completions;000420.011;lib/readline/rlprivate.h;420.31;0x0;{int};{};{};{}
+_rl_parsing_conditionalized_out;000258.014;lib/readline/readline.c;258.45;0x0;{unsigned char};{};{};{}
+_rl_parsing_conditionalized_out;000456.021;lib/readline/rlprivate.h;456.52;0x0;{unsigned char};{};{};{}
+_rl_prefer_visible_bell;000087.011;lib/readline/bind.c;87.34;0x8;{int};{};{};{}
+_rl_print_completions_horizontally;000156.004;lib/readline/complete.c;156.38;0x0;{int};{};{};{}
+_rl_print_completions_horizontally;000416.011;lib/readline/rlprivate.h;416.45;0x0;{int};{};{};{}
+_rl_quit_char;000109.004;lib/readline/signals.c;109.17;0x0;{int};{};{};{}
+_rl_quit_char;000475.011;lib/readline/rlprivate.h;475.24;0x0;{int};{};{};{}
+_rl_revert_all_at_newline;000276.004;lib/readline/readline.c;276.29;0x0;{int};{};{};{}
+_rl_revert_all_at_newline;000453.011;lib/readline/rlprivate.h;453.36;0x0;{int};{};{};{}
+_rl_saved_line_for_history;000057.019;lib/readline/search.c;57.45;0x0;{HIST_ENTRY *};{};{};{}
+_rl_saved_line_for_history;000063.019;lib/readline/isearch.c;63.45;0x0;{HIST_ENTRY *};{};{};{}
+_rl_saved_line_for_history;000307.012;lib/readline/misc.c;307.38;0x0;{HIST_ENTRY *};{};{};{}
+_rl_screenchars;000175.039;lib/readline/terminal.c;175.54;0x0;{int};{};{};{}
+_rl_screenchars;000494.011;lib/readline/rlprivate.h;494.26;0x0;{int};{};{};{}
+_rl_screenheight;000175.021;lib/readline/terminal.c;175.37;0x0;{int};{};{};{}
+_rl_screenheight;000492.011;lib/readline/rlprivate.h;492.27;0x0;{int};{};{};{}
+_rl_screenwidth;000175.004;lib/readline/terminal.c;175.19;0x0;{int};{};{};{}
+_rl_screenwidth;000493.011;lib/readline/rlprivate.h;493.26;0x0;{int};{};{};{}
+_rl_skip_completed_text;000196.004;lib/readline/complete.c;196.27;0x0;{int};{};{};{}
+_rl_skip_completed_text;000421.011;lib/readline/rlprivate.h;421.34;0x0;{int};{};{};{}
+_rl_suppress_redisplay;000149.004;lib/readline/display.c;149.26;0x0;{int};{};{};{}
+_rl_suppress_redisplay;000427.011;lib/readline/rlprivate.h;427.33;0x0;{int};{};{};{}
+_rl_susp_char;000110.004;lib/readline/signals.c;110.17;0x0;{int};{};{};{}
+_rl_susp_char;000476.011;lib/readline/rlprivate.h;476.24;0x0;{int};{};{};{}
+_rl_term_DC;000126.006;lib/readline/terminal.c;126.17;0x0;{char *};{};{};{}
+_rl_term_DC;000486.013;lib/readline/rlprivate.h;486.24;0x0;{char *};{};{};{}
+_rl_term_IC;000122.006;lib/readline/terminal.c;122.17;0x0;{char *};{};{};{}
+_rl_term_IC;000490.013;lib/readline/rlprivate.h;490.24;0x0;{char *};{};{};{}
+_rl_term_at7;000160.013;lib/readline/terminal.c;160.25;0x8;{char *};{};{};{}
+_rl_term_autowrap;000137.004;lib/readline/terminal.c;137.21;0x0;{int};{};{};{}
+_rl_term_autowrap;000496.011;lib/readline/rlprivate.h;496.28;0x0;{int};{};{};{}
+_rl_term_backspace;000110.006;lib/readline/terminal.c;110.24;0x0;{char *};{};{};{}
+_rl_term_clreol;000107.006;lib/readline/terminal.c;107.21;0x0;{char *};{};{};{}
+_rl_term_clreol;000481.013;lib/readline/rlprivate.h;481.28;0x0;{char *};{};{};{}
+_rl_term_clrpag;000108.006;lib/readline/terminal.c;108.21;0x0;{char *};{};{};{}
+_rl_term_clrpag;000482.013;lib/readline/rlprivate.h;482.28;0x0;{char *};{};{};{}
+_rl_term_cr;000109.006;lib/readline/terminal.c;109.17;0x0;{char *};{};{};{}
+_rl_term_cr;000489.013;lib/readline/rlprivate.h;489.24;0x0;{char *};{};{};{}
+_rl_term_dc;000125.006;lib/readline/terminal.c;125.17;0x0;{char *};{};{};{}
+_rl_term_dc;000488.013;lib/readline/rlprivate.h;488.24;0x0;{char *};{};{};{}
+_rl_term_ei;000119.006;lib/readline/terminal.c;119.17;0x0;{char *};{};{};{}
+_rl_term_ei;000485.013;lib/readline/rlprivate.h;485.24;0x0;{char *};{};{};{}
+_rl_term_forward_char;000128.006;lib/readline/terminal.c;128.27;0x0;{char *};{};{};{}
+_rl_term_forward_char;000491.013;lib/readline/rlprivate.h;491.34;0x0;{char *};{};{};{}
+_rl_term_goto;000111.006;lib/readline/terminal.c;111.19;0x0;{char *};{};{};{}
+_rl_term_ic;000120.006;lib/readline/terminal.c;120.17;0x0;{char *};{};{};{}
+_rl_term_ic;000484.013;lib/readline/rlprivate.h;484.24;0x0;{char *};{};{};{}
+_rl_term_im;000118.006;lib/readline/terminal.c;118.17;0x0;{char *};{};{};{}
+_rl_term_im;000483.013;lib/readline/rlprivate.h;483.24;0x0;{char *};{};{};{}
+_rl_term_ip;000121.006;lib/readline/terminal.c;121.17;0x0;{char *};{};{};{}
+_rl_term_kD;000163.013;lib/readline/terminal.c;163.24;0x8;{char *};{};{};{}
+_rl_term_kH;000159.013;lib/readline/terminal.c;159.24;0x8;{char *};{};{};{}
+_rl_term_kI;000166.013;lib/readline/terminal.c;166.24;0x8;{char *};{};{};{}
+_rl_term_kd;000149.013;lib/readline/terminal.c;149.24;0x8;{char *};{};{};{}
+_rl_term_ke;000155.013;lib/readline/terminal.c;155.24;0x8;{char *};{};{};{}
+_rl_term_kh;000158.013;lib/readline/terminal.c;158.24;0x8;{char *};{};{};{}
+_rl_term_kl;000151.013;lib/readline/terminal.c;151.24;0x8;{char *};{};{};{}
+_rl_term_kr;000150.013;lib/readline/terminal.c;150.24;0x8;{char *};{};{};{}
+_rl_term_ks;000154.013;lib/readline/terminal.c;154.24;0x8;{char *};{};{};{}
+_rl_term_ku;000148.013;lib/readline/terminal.c;148.24;0x8;{char *};{};{};{}
+_rl_term_mm;000144.013;lib/readline/terminal.c;144.24;0x8;{char *};{};{};{}
+_rl_term_mo;000145.013;lib/readline/terminal.c;145.24;0x8;{char *};{};{};{}
+_rl_term_pc;000112.006;lib/readline/terminal.c;112.17;0x0;{char *};{};{};{}
+_rl_term_up;000131.006;lib/readline/terminal.c;131.17;0x0;{char *};{};{};{}
+_rl_term_up;000487.013;lib/readline/rlprivate.h;487.24;0x0;{char *};{};{};{}
+_rl_term_ve;000170.013;lib/readline/terminal.c;170.24;0x8;{char *};{};{};{}
+_rl_term_vs;000169.013;lib/readline/terminal.c;169.24;0x8;{char *};{};{};{}
+_rl_terminal_can_insert;000115.004;lib/readline/terminal.c;115.27;0x0;{int};{};{};{}
+_rl_terminal_can_insert;000495.011;lib/readline/rlprivate.h;495.34;0x0;{int};{};{};{}
+_rl_top_level;000166.010;lib/readline/readline.c;166.23;0x0;{procenv_t};{};{};{}
+_rl_top_level;000462.017;lib/readline/rlprivate.h;462.30;0x0;{procenv_t};{};{};{}
+_rl_tracefp;000472.013;lib/readline/util.c;472.24;0x8;{FILE *};{};{};{}
+_rl_tty_chars;000066.021;lib/readline/rltty.c;66.34;0x8;{_RL_TTY_CHARS};{};{};{}
+_rl_undo_group_level;000060.004;lib/readline/undo.c;60.24;0x0;{int};{};{};{}
+_rl_undo_group_level;000500.011;lib/readline/rlprivate.h;500.31;0x0;{int};{};{};{}
+_rl_vi_doing_insert;000071.011;lib/readline/vi_mode.c;71.30;0x8;{int};{};{};{}
+_rl_vi_last_arg_sign;000091.011;lib/readline/vi_mode.c;91.31;0x8;{int};{};{};{}
+_rl_vi_last_command;000066.004;lib/readline/vi_mode.c;66.23;0x0;{int};{};{};{}
+_rl_vi_last_command;000503.011;lib/readline/rlprivate.h;503.30;0x0;{int};{};{};{}
+_rl_vi_last_key_before_insert;000101.011;lib/readline/vi_mode.c;101.40;0x8;{int};{};{};{}
+_rl_vi_last_motion;000092.011;lib/readline/vi_mode.c;92.29;0x8;{int};{};{};{}
+_rl_vi_last_repeat;000090.011;lib/readline/vi_mode.c;90.29;0x8;{int};{};{};{}
+_rl_vi_last_replacement;000099.011;lib/readline/vi_mode.c;99.34;0x8;{int};{};{};{}
+_rl_vi_last_search_char;000097.011;lib/readline/vi_mode.c;97.34;0x8;{int};{};{};{}
+_rl_vi_last_search_mbchar;000094.012;lib/readline/vi_mode.c;94.37;0x8;{char []};{};{};{}
+_rl_vi_last_search_mblen;000095.011;lib/readline/vi_mode.c;95.35;0x8;{int};{};{};{}
+_rl_vimvcxt;000068.018;lib/readline/vi_mode.c;68.29;0x0;{_rl_vimotion_cxt *};{};{};{}
+_rl_vimvcxt;000504.025;lib/readline/rlprivate.h;504.36;0x0;{_rl_vimotion_cxt *};{};{};{}
+_rl_vis_botlin;000171.004;lib/readline/display.c;171.18;0x0;{int};{};{};{}
+_rl_vis_botlin;000425.011;lib/readline/rlprivate.h;425.25;0x0;{int};{};{};{}
+_rl_visible_bell;000134.013;lib/readline/terminal.c;134.29;0x8;{char *};{};{};{}
+_rl_want_redisplay;000150.004;lib/readline/display.c;150.22;0x0;{int};{};{};{}
+_rl_want_redisplay;000428.011;lib/readline/rlprivate.h;428.29;0x0;{int};{};{};{}
+abbrev_list;002038.013;support/man2html.c;2038.24;0x8;{char *[]};{};{};{}
+act_like_sh;000197.011;shell.c;197.22;0x8;{int};{};{};{}
+alias_expand_all;000062.004;alias.c;62.20;0x0;{int};{};{};{}
+aliases;000033.010;builtins/type.c;33.17;0x0;{includes};{};{};{}
+aliases;000039.019;alias.h;39.26;0x0;{HASH_TABLE *};{};{};{}
+aliases;000065.012;alias.c;65.19;0x0;{HASH_TABLE *};{};{};{}
+allocated;000056.014;xmalloc.c;56.23;0x8;{size_t};{};{};{}
+allow_null_glob_expansion;000175.004;subst.c;175.29;0x0;{int};{};{};{}
+already_making_children;000090.004;nojobs.c;90.27;0x0;{int};{};{};{}
+already_making_children;000109.011;execute_cmd.c;109.34;0x0;{int};{};{};{}
+already_making_children;000218.004;jobs.c;218.27;0x0;{int};{};{};{}
+alrmbuf;000130.017;builtins/read.c;130.24;0x8;{procenv_t};{};{};{}
+altzone;000103.026;lib/sh/strftime.c;103.33;0x0;{long};{};{};{}
+altzone;000108.021;lib/sh/strftime.c;108.28;0x0;{int};{};{};{}
+argc;000108.011;test.c;108.15;0x8;{int};{};{};{}
+argument;000430.014;support/man2html.c;430.22;0x8;{char **};{};{};{}
+argv;000109.014;test.c;109.18;0x8;{char **};{};{};{}
+arith_for_lineno;000438.011;y.tab.c;438.27;0x8;{int};{};{};{}
+array;000806.013;lib/sh/strftime.c;806.18;0x8;{char *[]};{};{};{}
+array_needs_making;000041.011;arrayfunc.c;41.29;0x0;{int};{};{};{}
+array_needs_making;000041.011;builtins/setattr.c;41.29;0x0;{int};{};{};{}
+array_needs_making;000057.011;builtins/cd.c;57.29;0x0;{int};{};{};{}
+array_needs_making;000082.011;pcomplete.c;82.29;0x0;{int};{};{};{}
+array_needs_making;000105.011;shell.c;105.29;0x0;{int};{};{};{}
+array_needs_making;000147.004;variables.c;147.22;0x0;{int};{};{};{}
+array_needs_making;000180.011;bashline.c;180.29;0x0;{int};{};{};{}
+asint;000922.011;support/man2html.c;922.16;0x8;{int};{};{};{}
+assigning_in_environment;000100.011;variables.c;100.35;0x0;{int};{};{};{}
+assigning_in_environment;000148.004;subst.c;148.28;0x0;{int};{};{};{}
+assignment_builtins;000152.006;builtins/mkbuiltins.c;152.25;0x0;{char *[]};{};{};{}
+assigntok;000167.011;expr.c;167.20;0x8;{int};{};{};{}
+asynchronous_notification;000049.002;flags.h;49.27;0x0;{int};{};{};{}
+asynchronous_notification;000059.004;flags.c;59.29;0x0;{int};{};{};{}
+asynchronous_notification;000169.011;jobs.h;169.36;0x0;{int};{};{};{}
+attribute_hidden;000059.046;lib/intl/textdomain.c;59.62;0x0;{const char *};{};{};{}
+attribute_hidden;000117.041;lib/intl/plural-exp.h;117.57;0x0;{GERMANIC_PLURAL};{};{};{}
+attribute_hidden;000297.039;lib/intl/dcigettext.c;297.55;0x0;{const char *};{};{};{}
+autocd;000085.011;builtins/shopt.c;85.17;0x0;{int};{};{};{}
+autocd;000104.011;execute_cmd.c;104.17;0x0;{int};{};{};{}
+autocd;000151.004;shell.c;151.10;0x0;{int};{};{};{}
+bash_badsub_errmsg;000050.019;arrayfunc.c;50.37;0x0;{const char *const };{};{};{}
+bash_badsub_errmsg;000064.026;error.c;64.44;0x0;{const char *const };{};{};{}
+bash_badsub_errmsg;000221.026;expr.c;221.44;0x0;{const char *const };{};{};{}
+bash_completer_word_break_characters;000246.013;bashline.c;246.49;0x8;{char *};{};{};{}
+bash_copyright;000046.019;version.c;46.33;0x0;{const char *const };{};{};{}
+bash_copyright;000077.026;builtins/help.c;77.40;0x0;{const char *const };{};{};{}
+bash_getcwd_errstr;000058.026;builtins/cd.c;58.44;0x0;{const char *const };{};{};{}
+bash_getcwd_errstr;000061.019;general.c;61.37;0x0;{const char *const };{};{};{}
+bash_getcwd_errstr;000076.026;builtins/common.c;76.44;0x0;{const char *const };{};{};{}
+bash_input;000089.018;input.h;89.28;0x0;{BASH_INPUT};{};{};{}
+bash_input;000620.011;input.c;620.21;0x0;{BASH_INPUT};{};{};{}
+bash_input;003638.011;y.tab.c;3638.21;0x0;{BASH_INPUT};{};{};{}
+bash_input_fd_changed;000147.004;input.c;147.25;0x0;{int};{};{};{}
+bash_input_fd_changed;000279.011;y.tab.c;279.32;0x0;{int};{};{};{}
+bash_license;000047.019;version.c;47.31;0x0;{const char *const };{};{};{}
+bash_license;000078.026;builtins/help.c;78.38;0x0;{const char *const };{};{};{}
+bash_nohostname_word_break_characters;000247.013;bashline.c;247.50;0x8;{char *};{};{};{}
+bash_readline_initialized;000026.011;bashline.h;26.36;0x0;{int};{};{};{}
+bash_readline_initialized;000228.004;bashline.c;228.29;0x0;{int};{};{};{}
+bash_tilde_prefixes;000832.014;general.c;832.33;0x8;{char **};{};{};{}
+bash_tilde_prefixes2;000833.014;general.c;833.34;0x8;{char **};{};{};{}
+bash_tilde_suffixes;000834.014;general.c;834.33;0x8;{char **};{};{};{}
+bash_tilde_suffixes2;000835.014;general.c;835.34;0x8;{char **};{};{};{}
+bashrc_file;000194.013;shell.c;194.24;0x8;{char *};{};{};{}
+bgpids;000165.014;jobs.c;165.20;0x0;{bgpids};{};{};{}
+brace_expansion;000057.011;flags.h;57.26;0x0;{int};{};{};{}
+brace_expansion;000152.004;flags.c;152.19;0x0;{int};{};{};{}
+breaking;000057.004;builtins/break.c;57.12;0x0;{int};{};{};{}
+breaking;000058.035;sig.c;58.43;0x0;{int};{};{};{}
+breaking;000105.011;execute_cmd.c;105.19;0x0;{int};{};{};{}
+breaking;000151.023;jobs.c;151.31;0x0;{int};{};{};{}
+brkfound;000055.011;xmalloc.c;55.19;0x8;{int};{};{};{}
+buffer;000417.013;support/man2html.c;417.19;0x8;{char *};{};{};{}
+buffers;000154.025;input.c;154.32;0x8;{BUFFERED_STREAM **};{};{};{}
+buffmax;000418.024;support/man2html.c;418.31;0x8;{int};{};{};{}
+buffpos;000418.011;support/man2html.c;418.18;0x8;{int};{};{};{}
+bufsize;000097.004;lib/termcap/termcap.c;97.11;0x0;{int};{};{};{}
+build_version;000088.011;variables.c;88.24;0x0;{int};{};{};{}
+build_version;000099.024;shell.c;99.37;0x0;{int};{};{};{}
+building_builtin;000472.011;builtins/mkbuiltins.c;472.27;0x8;{int};{};{};{}
+builtins;000033.019;builtins/type.c;33.27;0x0;{includes};{};{};{}
+busy;000224.012;lib/malloc/malloc.c;224.16;0x8;{char []};{};{};{}
+caller_doc;000132.013;builtins/caller.c;132.23;0x8;{char *[]};{};{};{}
+caller_struct;000144.015;builtins/caller.c;144.28;0x0;{builtin};{};{};{}
+catch_flag;000264.011;trap.c;264.21;0x8;{int};{};{};{}
+cdable_vars;000068.004;builtins/cd.c;68.15;0x0;{int};{};{};{}
+cdable_vars;000074.011;builtins/shopt.c;74.22;0x0;{int};{};{};{}
+cdspelling;000066.004;builtins/cd.c;66.14;0x0;{int};{};{};{}
+cdspelling;000077.011;builtins/shopt.c;77.21;0x0;{int};{};{};{}
+changed_dollar_vars;000408.011;builtins/common.c;408.30;0x8;{int};{};{};{}
+charb;000432.012;support/man2html.c;432.17;0x8;{char []};{};{};{}
+chardef;000287.015;support/man2html.c;287.22;0x8;{STRDEF *};{};{};{}
+charset_aliases;000107.029;lib/intl/localcharset.c;107.44;0x8;{const char *volatile };{};{};{}
+check_hashed_filenames;000052.011;general.c;52.33;0x0;{int};{};{};{}
+check_hashed_filenames;000071.004;findcmd.c;71.26;0x0;{int};{};{};{}
+check_hashed_filenames;000076.011;builtins/shopt.c;76.33;0x0;{int};{};{};{}
+check_jobs_at_exit;000084.011;builtins/shopt.c;84.29;0x0;{int};{};{};{}
+check_jobs_at_exit;000148.004;shell.c;148.22;0x0;{int};{};{};{}
+check_window_size;000079.011;builtins/shopt.c;79.28;0x0;{int};{};{};{}
+check_window_size;000097.004;nojobs.c;97.21;0x0;{int};{};{};{}
+check_window_size;000222.004;jobs.c;222.21;0x0;{int};{};{};{}
+child_max;000121.012;nojobs.c;121.21;0x8;{long};{};{};{}
+cmd_xmap;003456.014;bashline.c;3456.22;0x8;{Keymap};{};{};{}
+cmdlist;000277.014;builtins/ulimit.c;277.21;0x8;{ULCMD *};{};{};{}
+cmdlistsz;000279.011;builtins/ulimit.c;279.20;0x8;{int};{};{};{}
+command_execution_string;000098.013;variables.c;98.37;0x0;{char *};{};{};{}
+command_execution_string;000285.006;shell.c;285.30;0x0;{char *};{};{};{}
+command_oriented_history;000041.011;bashhist.h;41.35;0x0;{int};{};{};{}
+command_oriented_history;000134.004;bashhist.c;134.28;0x0;{int};{};{};{}
+command_string_index;000107.011;execute_cmd.c;107.31;0x0;{int};{};{};{}
+command_string_index;000109.004;print_cmd.c;109.24;0x0;{int};{};{};{}
+command_word;000294.011;alias.c;294.23;0x8;{int};{};{};{}
+completion_changed_buffer;000378.011;lib/readline/complete.c;378.36;0x8;{int};{};{};{}
+completion_quoting_style;000265.011;bashline.c;265.35;0x8;{int};{};{};{}
+completion_y_or_n;000381.011;lib/readline/complete.c;381.28;0x8;{int};{};{};{}
+comsub_ignore_return;000060.011;sig.c;60.31;0x0;{int};{};{};{}
+comsub_ignore_return;000070.011;builtins/evalstring.c;70.31;0x0;{int};{};{};{}
+comsub_ignore_return;000244.004;execute_cmd.c;244.24;0x0;{int};{};{};{}
+cond_lineno;003966.011;y.tab.c;3966.22;0x8;{int};{};{};{}
+cond_token;003967.011;y.tab.c;3967.21;0x8;{int};{};{};{}
+contained_tab;003738.011;support/man2html.c;3738.24;0x8;{int};{};{};{}
+continuing;000058.023;sig.c;58.33;0x0;{int};{};{};{}
+continuing;000060.004;builtins/break.c;60.14;0x0;{int};{};{};{}
+continuing;000105.021;execute_cmd.c;105.31;0x0;{int};{};{};{}
+controlsym;000415.049;support/man2html.c;415.59;0x8;{char};{};{};{}
+conv_buf;000224.013;builtins/printf.c;224.21;0x8;{char *};{};{};{}
+conv_bufsize;000225.014;builtins/printf.c;225.26;0x8;{size_t};{};{};{}
+conv_fromfs;000044.015;lib/sh/fnxform.c;44.26;0x8;{iconv_t};{};{};{}
+conv_tofs;000045.015;lib/sh/fnxform.c;45.24;0x8;{iconv_t};{};{};{}
+conversion_error;000214.011;builtins/printf.c;214.27;0x8;{int};{};{};{}
+coproc_list;001557.009;execute_cmd.c;1557.20;0x0;{cplist_t};{};{};{}
+cpos_adjusted;000166.011;lib/readline/display.c;166.24;0x8;{int};{};{};{}
+cpos_buffer_position;000167.011;lib/readline/display.c;167.31;0x8;{int};{};{};{}
+curlval;000173.021;expr.c;173.28;0x8;{lvalue};{};{};{}
+curpos;000425.011;support/man2html.c;425.17;0x8;{int};{};{};{}
+curr_prefix;000091.013;lib/intl/relocatable.c;91.24;0x8;{char *};{};{};{}
+curr_prefix_len;000092.014;lib/intl/relocatable.c;92.29;0x8;{size_t};{};{};{}
+current_builtin;000061.023;builtins.h;61.38;0x0;{builtin *};{};{};{}
+current_command_first_line_saved;000042.011;bashhist.h;42.43;0x0;{int};{};{};{}
+current_command_first_line_saved;000139.004;bashhist.c;139.36;0x0;{int};{};{};{}
+current_command_line_count;000054.035;eval.c;54.61;0x0;{int};{};{};{}
+current_command_line_count;000057.024;make_cmd.c;57.50;0x0;{int};{};{};{}
+current_command_line_count;000086.011;builtins/history.c;86.37;0x0;{int};{};{};{}
+current_command_line_count;000088.011;builtins/fc.c;88.37;0x0;{int};{};{};{}
+current_command_line_count;000178.011;bashline.c;178.37;0x0;{int};{};{};{}
+current_command_line_count;000184.011;bashhist.c;184.37;0x0;{int};{};{};{}
+current_command_line_count;000402.004;y.tab.c;402.30;0x0;{int};{};{};{}
+current_command_number;000054.011;eval.c;54.33;0x0;{int};{};{};{}
+current_command_number;000172.004;shell.c;172.26;0x0;{int};{};{};{}
+current_command_number;000268.011;y.tab.c;268.33;0x0;{int};{};{};{}
+current_command_subst_pid;000131.006;subst.c;131.31;0x0;{pid_t};{};{};{}
+current_decoded_prompt;000442.013;y.tab.c;442.35;0x8;{char *};{};{};{}
+current_fds_to_close;000164.025;subst.c;164.45;0x0;{fd_bitmap *};{};{};{}
+current_fds_to_close;000283.018;execute_cmd.c;283.38;0x0;{fd_bitmap *};{};{};{}
+current_font;000758.011;support/man2html.c;758.23;0x8;{int};{};{};{}
+current_host_name;000093.013;variables.c;93.30;0x0;{char *};{};{};{}
+current_host_name;000124.006;shell.c;124.23;0x0;{char *};{};{};{}
+current_host_name;000273.026;y.tab.c;273.43;0x0;{char *};{};{};{}
+current_macro;000067.013;lib/readline/macro.c;67.26;0x8;{char *};{};{};{}
+current_macro_index;000073.011;lib/readline/macro.c;73.30;0x8;{int};{};{};{}
+current_macro_size;000070.011;lib/readline/macro.c;70.29;0x8;{int};{};{};{}
+current_prompt_string;000182.013;bashline.c;182.34;0x0;{char *};{};{};{}
+current_prompt_string;000385.006;y.tab.c;385.27;0x0;{char *};{};{};{}
+current_readline_init_file;000762.019;lib/readline/bind.c;762.45;0x8;{const char *};{};{};{}
+current_readline_init_include_level;000763.011;lib/readline/bind.c;763.46;0x8;{int};{};{};{}
+current_readline_init_lineno;000764.011;lib/readline/bind.c;764.39;0x8;{int};{};{};{}
+current_readline_line;003727.006;y.tab.c;3727.27;0x0;{char *};{};{};{}
+current_readline_line_index;003728.004;y.tab.c;3728.31;0x0;{int};{};{};{}
+current_readline_prompt;003726.006;y.tab.c;3726.29;0x0;{char *};{};{};{}
+current_size;000759.011;support/man2html.c;759.23;0x8;{int};{};{};{}
+current_token;000065.011;builtins/evalstring.c;65.24;0x0;{int};{};{};{}
+current_token;000411.004;y.tab.c;411.17;0x0;{int};{};{};{}
+current_user;000117.017;shell.c;117.29;0x0;{user_info};{};{};{}
+current_user;000120.024;shell.h;120.36;0x0;{user_info};{};{};{}
+currently_executing_command;000265.016;execute_cmd.c;265.43;0x8;{COMMAND *};{};{};{}
+currently_reading_init_file;000084.011;lib/readline/bind.c;84.38;0x8;{int};{};{};{}
+curtok;000165.011;expr.c;165.17;0x8;{int};{};{};{}
+dabbrev_expand_active;000255.011;bashline.c;255.32;0x8;{int};{};{};{}
+daylight;000101.011;lib/sh/strftime.c;101.19;0x0;{int};{};{};{}
+debug;000072.004;mksyntax.c;72.9;0x0;{int};{};{};{}
+debugging;000209.011;shell.c;209.20;0x8;{int};{};{};{}
+debugging_login_shell;000163.004;shell.c;163.25;0x0;{int};{};{};{}
+debugging_mode;000092.011;shell.h;92.25;0x0;{int};{};{};{}
+debugging_mode;000111.011;builtins/shopt.c;111.25;0x0;{int};{};{};{}
+debugging_mode;000216.004;shell.c;216.18;0x0;{int};{};{};{}
+decpoint;000185.011;lib/sh/snprintf.c;185.19;0x8;{int};{};{};{}
+default_buffered_input;000069.011;input.h;69.33;0x0;{int};{};{};{}
+default_buffered_input;000277.004;shell.c;277.26;0x0;{int};{};{};{}
+default_dir;000049.013;locale.c;49.24;0x8;{char *};{};{};{}
+default_domain;000048.013;locale.c;48.27;0x8;{char *};{};{};{}
+default_input;000291.013;shell.c;291.26;0x8;{FILE *};{};{};{}
+default_isearch_terminators;000079.020;lib/readline/isearch.c;79.47;0x8;{char *const };{};{};{}
+default_locale;000045.013;locale.c;45.27;0x8;{char *};{};{};{}
+defdef;000287.034;support/man2html.c;287.40;0x8;{STRDEF *};{};{};{}
+deferred_heredocs;000127.017;print_cmd.c;127.34;0x8;{REDIRECT *};{};{};{}
+deftext;000887.013;builtins/read.c;887.20;0x8;{char *};{};{};{}
+delim;000132.021;builtins/read.c;132.26;0x8;{unsigned char};{};{};{}
+delim_char;000952.021;builtins/read.c;952.31;0x8;{unsigned char};{};{};{}
+dev_fd_list;004798.013;subst.c;4798.24;0x8;{char *};{};{};{}
+dircomplete_spelling;000097.011;builtins/shopt.c;97.31;0x0;{int};{};{};{}
+dircomplete_spelling;000244.004;bashline.c;244.24;0x0;{int};{};{};{}
+directory_list_offset;000156.011;builtins/pushd.c;156.32;0x8;{int};{};{};{}
+directory_list_size;000153.011;builtins/pushd.c;153.30;0x8;{int};{};{};{}
+dirs_doc;000682.013;builtins/pushd.c;682.21;0x0;{char *const []};{};{};{}
+dirs_struct;000768.015;builtins/pushd.c;768.26;0x0;{builtin};{};{};{}
+disallow_filename_globbing;000044.049;flags.h;44.75;0x0;{int};{};{};{}
+disallow_filename_globbing;000066.004;flags.c;66.30;0x0;{int};{};{};{}
+dist_version;000036.019;version.c;36.31;0x0;{const char *const };{};{};{}
+dist_version;000047.013;support/bashversion.c;47.25;0x0;{char *};{};{};{}
+dist_version;000090.013;variables.c;90.25;0x0;{char *};{};{};{}
+dist_version;000098.013;shell.c;98.25;0x0;{char *};{};{};{}
+dist_version;000274.013;y.tab.c;274.25;0x0;{char *};{};{};{}
+dl_set;000421.011;support/man2html.c;421.17;0x8;{int []};{};{};{}
+do_version;000212.011;shell.c;212.21;0x8;{int};{};{};{}
+documentation_file;000080.006;builtins/mkbuiltins.c;80.24;0x0;{FILE *};{};{};{}
+dollar_arg_stack;004010.019;variables.c;4010.35;0x8;{WORD_LIST **};{};{};{}
+dollar_arg_stack_index;004012.011;variables.c;4012.33;0x8;{int};{};{};{}
+dollar_arg_stack_slots;004011.011;variables.c;4011.33;0x8;{int};{};{};{}
+dollar_dollar_pid;000048.013;lib/sh/tmpfile.c;48.30;0x0;{pid_t};{};{};{}
+dollar_dollar_pid;000101.011;execute_cmd.c;101.28;0x0;{int};{};{};{}
+dollar_dollar_pid;000144.006;variables.c;144.23;0x0;{pid_t};{};{};{}
+dollar_dollar_pid;000161.013;subst.c;161.30;0x0;{pid_t};{};{};{}
+dollar_vars;000140.006;variables.c;140.17;0x0;{char *[]};{};{};{}
+dollar_vars;000220.013;variables.h;220.24;0x0;{char *[]};{};{};{}
+dont_save_function_defs;000054.011;builtins/set.c;54.34;0x0;{int};{};{};{}
+dont_save_function_defs;000181.004;bashhist.c;181.27;0x0;{int};{};{};{}
+dot_found_in_search;000071.011;builtins/hash.c;71.30;0x0;{int};{};{};{}
+dot_found_in_search;000077.004;findcmd.c;77.23;0x0;{int};{};{};{}
+dot_found_in_search;000108.011;execute_cmd.c;108.30;0x0;{int};{};{};{}
+dot_in_path;000252.011;bashline.c;252.22;0x8;{int};{};{};{}
+dsb;000622.012;input.c;622.15;0x0;{stat};{};{};{}
+dstack;000186.021;bashhist.c;186.27;0x0;{dstack};{};{};{}
+dstack;004435.014;y.tab.c;4435.20;0x0;{dstack};{};{};{}
+dump_po_strings;000042.038;locale.c;42.53;0x0;{int};{};{};{}
+dump_po_strings;000219.004;shell.c;219.19;0x0;{int};{};{};{}
+dump_po_strings;000276.038;y.tab.c;276.53;0x0;{int};{};{};{}
+dump_translatable_strings;000042.011;locale.c;42.36;0x0;{int};{};{};{}
+dump_translatable_strings;000218.004;shell.c;218.29;0x0;{int};{};{};{}
+dump_translatable_strings;000276.011;y.tab.c;276.36;0x0;{int};{};{};{}
+echo_command_at_execute;000047.002;flags.h;47.25;0x0;{int};{};{};{}
+echo_command_at_execute;000093.004;flags.c;93.27;0x0;{int};{};{};{}
+echo_input_at_read;000046.043;flags.h;46.61;0x0;{int};{};{};{}
+echo_input_at_read;000089.004;flags.c;89.22;0x0;{int};{};{};{}
+eflag;000070.011;builtins/cd.c;70.16;0x8;{int};{};{};{}
+emacs_ctlx_keymap;000063.068;lib/readline/keymaps.h;63.85;0x0;{KEYMAP_ENTRY_ARRAY};{};{};{}
+emacs_ctlx_keymap;000595.019;lib/readline/emacs_keymap.c;595.36;0x0;{KEYMAP_ENTRY_ARRAY};{};{};{}
+emacs_meta_keymap;000063.049;lib/readline/keymaps.h;63.66;0x0;{KEYMAP_ENTRY_ARRAY};{};{};{}
+emacs_meta_keymap;000315.019;lib/readline/emacs_keymap.c;315.36;0x0;{KEYMAP_ENTRY_ARRAY};{};{};{}
+emacs_standard_keymap;000032.019;lib/readline/emacs_keymap.c;32.40;0x0;{KEYMAP_ENTRY_ARRAY};{};{};{}
+emacs_standard_keymap;000063.026;lib/readline/keymaps.h;63.47;0x0;{KEYMAP_ENTRY_ARRAY};{};{};{}
+emptyfield;001203.017;support/man2html.c;1203.27;0x8;{TABLEITEM};{};{};{}
+enable_history_list;000034.011;bashhist.h;34.30;0x0;{int};{};{};{}
+enable_history_list;000087.004;bashhist.c;87.23;0x0;{int};{};{};{}
+enable_secure;000414.011;lib/intl/dcigettext.c;414.24;0x8;{int};{};{};{}
+environ;000033.014;support/printenv.c;33.21;0x0;{char **};{};{};{}
+environ;000038.014;lib/sh/getenv.c;38.21;0x0;{char **};{};{};{}
+environ;000082.014;variables.c;82.21;0x0;{char **};{};{};{}
+environ;000095.014;shell.c;95.21;0x0;{char **};{};{};{}
+eof_encountered;000159.011;subst.c;159.26;0x0;{int};{};{};{}
+eof_encountered;000266.011;y.tab.c;266.26;0x0;{int};{};{};{}
+eof_encountered;004134.011;variables.c;4134.26;0x0;{int};{};{};{}
+eof_encountered;007943.004;y.tab.c;7943.19;0x0;{int};{};{};{}
+eof_encountered_limit;004134.028;variables.c;4134.49;0x0;{int};{};{};{}
+eof_encountered_limit;007946.004;y.tab.c;7946.25;0x0;{int};{};{};{}
+eol_ungetc_lookahead;004468.011;y.tab.c;4468.31;0x8;{int};{};{};{}
+eqndelimclose;000414.030;support/man2html.c;414.43;0x8;{char};{};{};{}
+eqndelimopen;000414.012;support/man2html.c;414.24;0x8;{char};{};{};{}
+errbase;000049.013;lib/sh/strerror.c;49.20;0x8;{char *};{};{};{}
+errno;000029.011;lib/sh/strtod.c;29.16;0x0;{int};{};{};{}
+errno;000029.011;lib/sh/strtol.c;29.16;0x0;{int};{};{};{}
+errno;000032.011;lib/sh/zread.c;32.16;0x0;{int};{};{};{}
+errno;000032.011;lib/sh/zwrite.c;32.16;0x0;{int};{};{};{}
+errno;000034.011;lib/sh/zcatfd.c;34.16;0x0;{int};{};{};{}
+errno;000034.011;lib/sh/zgetline.c;34.16;0x0;{int};{};{};{}
+errno;000035.011;lib/sh/getenv.c;35.16;0x0;{int};{};{};{}
+errno;000036.011;lib/sh/zmapfd.c;36.16;0x0;{int};{};{};{}
+errno;000036.011;support/xcase.c;36.16;0x0;{int};{};{};{}
+errno;000037.011;lib/sh/eaccess.c;37.16;0x0;{int};{};{};{}
+errno;000038.011;lib/sh/rename.c;38.16;0x0;{int};{};{};{}
+errno;000039.011;locale.c;39.16;0x0;{int};{};{};{}
+errno;000040.011;error.c;40.16;0x0;{int};{};{};{}
+errno;000040.011;lib/sh/strerror.c;40.16;0x0;{int};{};{};{}
+errno;000040.011;lib/sh/tmpfile.c;40.16;0x0;{int};{};{};{}
+errno;000040.011;mksyntax.c;40.16;0x0;{int};{};{};{}
+errno;000042.011;lib/sh/pathcanon.c;42.16;0x0;{int};{};{};{}
+errno;000042.011;redir.c;42.16;0x0;{int};{};{};{}
+errno;000045.011;builtins/psize.c;45.16;0x0;{int};{};{};{}
+errno;000045.011;test.c;45.16;0x0;{int};{};{};{}
+errno;000046.011;lib/sh/pathphys.c;46.16;0x0;{int};{};{};{}
+errno;000047.011;general.c;47.16;0x0;{int};{};{};{}
+errno;000047.011;input.c;47.16;0x0;{int};{};{};{}
+errno;000048.011;findcmd.c;48.16;0x0;{int};{};{};{}
+errno;000048.011;lib/readline/complete.c;48.16;0x0;{int};{};{};{}
+errno;000048.011;trap.c;48.16;0x0;{int};{};{};{}
+errno;000049.011;lib/readline/rltty.c;49.16;0x0;{int};{};{};{}
+errno;000051.011;lib/sh/oslib.c;51.16;0x0;{int};{};{};{}
+errno;000052.011;lib/readline/bind.c;52.16;0x0;{int};{};{};{}
+errno;000052.011;lib/sh/input_avail.c;52.16;0x0;{int};{};{};{}
+errno;000054.011;lib/sh/fmtulong.c;54.16;0x0;{int};{};{};{}
+errno;000055.011;builtins/evalfile.c;55.16;0x0;{int};{};{};{}
+errno;000055.011;lib/readline/readline.c;55.16;0x0;{int};{};{};{}
+errno;000057.011;execute_cmd.c;57.16;0x0;{int};{};{};{}
+errno;000058.011;builtins/evalstring.c;58.16;0x0;{int};{};{};{}
+errno;000058.011;lib/intl/dcigettext.c;58.16;0x0;{int};{};{};{}
+errno;000058.011;lib/readline/input.c;58.16;0x0;{int};{};{};{}
+errno;000059.011;builtins/mkbuiltins.c;59.16;0x0;{int};{};{};{}
+errno;000060.011;lib/sh/getcwd.c;60.16;0x0;{int};{};{};{}
+errno;000062.011;lib/sh/netopen.c;62.16;0x0;{int};{};{};{}
+errno;000063.011;bashhist.c;63.16;0x0;{int};{};{};{}
+errno;000063.011;lib/sh/winsize.c;63.16;0x0;{int};{};{};{}
+errno;000066.011;subst.c;66.16;0x0;{int};{};{};{}
+errno;000067.011;builtins/common.c;67.16;0x0;{int};{};{};{}
+errno;000072.011;nojobs.c;72.16;0x0;{int};{};{};{}
+errno;000077.011;jobs.c;77.16;0x0;{int};{};{};{}
+errno;000091.011;shell.c;91.16;0x0;{int};{};{};{}
+errno;000093.011;lib/readline/histfile.c;93.16;0x0;{int};{};{};{}
+errno;000282.011;y.tab.c;282.16;0x0;{int};{};{};{}
+error_directory;000102.006;builtins/mkbuiltins.c;102.21;0x0;{char *};{};{};{}
+error_pointer;000058.012;lib/readline/histexpand.c;58.25;0x8;{char};{};{};{}
+error_trace_mode;000050.023;flags.h;50.39;0x0;{int};{};{};{}
+error_trace_mode;000159.004;flags.c;159.20;0x0;{int};{};{};{}
+esacs_needed_count;004844.011;y.tab.c;4844.29;0x8;{int};{};{};{}
+escapesym;000415.012;support/man2html.c;415.21;0x8;{char};{};{};{}
+esctab;000206.012;lib/termcap/termcap.c;206.18;0x8;{char []};{};{};{}
+evalbuf;000171.017;expr.c;171.24;0x8;{procenv_t};{};{};{}
+exec_argv0;000079.013;builtins/exec.c;79.23;0x0;{char *};{};{};{}
+exec_argv0;000273.006;shell.c;273.16;0x0;{char *};{};{};{}
+exec_redirection_undo_list;000067.017;redir.c;67.43;0x0;{REDIRECT *};{};{};{}
+exec_redirection_undo_list;000232.010;execute_cmd.c;232.36;0x0;{REDIRECT *};{};{};{}
+executing;000093.011;shell.h;93.20;0x0;{int};{};{};{}
+executing;000169.004;shell.c;169.13;0x0;{int};{};{};{}
+executing_builtin;000101.011;variables.c;101.28;0x0;{int};{};{};{}
+executing_builtin;000236.004;execute_cmd.c;236.21;0x0;{int};{};{};{}
+executing_command_builtin;000073.011;builtins/evalfile.c;73.36;0x0;{int};{};{};{}
+executing_command_builtin;000084.011;builtins/source.c;84.36;0x0;{int};{};{};{}
+executing_command_builtin;000259.004;execute_cmd.c;259.29;0x0;{int};{};{};{}
+executing_list;000059.011;sig.c;59.25;0x0;{int};{};{};{}
+executing_list;000069.011;builtins/evalstring.c;69.25;0x0;{int};{};{};{}
+executing_list;000152.011;jobs.c;152.25;0x0;{int};{};{};{}
+executing_list;000239.004;execute_cmd.c;239.18;0x0;{int};{};{};{}
+executing_macro_index;000063.011;lib/readline/macro.c;63.32;0x8;{int};{};{};{}
+exit_immediately_on_error;000044.022;flags.h;44.47;0x0;{int};{};{};{}
+exit_immediately_on_error;000063.004;flags.c;63.29;0x0;{int};{};{};{}
+expand_aliases;000050.011;general.c;50.25;0x0;{int};{};{};{}
+expand_aliases;000055.011;eval.c;55.25;0x0;{int};{};{};{}
+expand_aliases;000077.023;builtins/shopt.c;77.37;0x0;{int};{};{};{}
+expand_aliases;000080.011;builtins/type.c;80.25;0x0;{int};{};{};{}
+expand_aliases;000103.011;execute_cmd.c;103.25;0x0;{int};{};{};{}
+expand_aliases;000104.011;shell.c;104.25;0x0;{int};{};{};{}
+expand_aliases;000388.004;y.tab.c;388.18;0x0;{int};{};{};{}
+expand_no_split_dollar_star;000200.011;subst.c;200.38;0x8;{int};{};{};{}
+expand_param_error;000191.012;subst.c;191.30;0x8;{char};{};{};{}
+expand_param_fatal;000191.032;subst.c;191.50;0x8;{char};{};{};{}
+expand_wdesc_error;000190.017;subst.c;190.35;0x8;{WORD_DESC};{};{};{}
+expand_wdesc_fatal;000190.037;subst.c;190.55;0x8;{WORD_DESC};{};{};{}
+expand_word_error;000189.017;subst.c;189.34;0x8;{WORD_LIST};{};{};{}
+expand_word_fatal;000189.036;subst.c;189.53;0x8;{WORD_LIST};{};{};{}
+expanding_redir;000062.004;redir.c;62.19;0x0;{int};{};{};{}
+expanding_redir;000089.011;variables.c;89.26;0x0;{int};{};{};{}
+expanding_redir;000166.011;subst.c;166.26;0x0;{int};{};{};{}
+export_env;000156.007;variables.c;156.17;0x0;{char **};{};{};{}
+export_env;000221.014;variables.h;221.24;0x0;{char **};{};{};{}
+export_env_index;000157.011;variables.c;157.27;0x8;{int};{};{};{}
+export_env_size;000158.011;variables.c;158.26;0x8;{int};{};{};{}
+expr_depth;000214.011;expr.c;214.21;0x8;{int};{};{};{}
+expr_stack;000213.022;expr.c;213.32;0x8;{EXPR_CONTEXT **};{};{};{}
+expr_stack_size;000215.011;expr.c;215.26;0x8;{int};{};{};{}
+expression;000162.013;expr.c;162.23;0x8;{char *};{};{};{}
+extended_glob;000048.011;pathexp.h;48.24;0x0;{int};{};{};{}
+extended_glob;000056.004;pathexp.c;56.17;0x0;{int};{};{};{}
+extended_glob;000088.011;lib/glob/glob.c;88.24;0x0;{int};{};{};{}
+extended_glob;000090.011;builtins/shopt.c;90.24;0x0;{int};{};{};{}
+extended_glob;000263.011;y.tab.c;263.24;0x0;{int};{};{};{}
+extended_quote;000078.011;builtins/shopt.c;78.25;0x0;{int};{};{};{}
+extended_quote;000399.004;y.tab.c;399.18;0x0;{int};{};{};{}
+extern_filename;000108.006;builtins/mkbuiltins.c;108.21;0x0;{char *};{};{};{}
+extract_string_error;000192.012;subst.c;192.32;0x8;{char};{};{};{}
+extract_string_fatal;000192.034;subst.c;192.54;0x8;{char};{};{};{}
+fail_glob_expansion;000178.004;subst.c;178.23;0x0;{int};{};{};{}
+fieldsym;000415.067;support/man2html.c;415.75;0x8;{char};{};{};{}
+fifo_list;004660.025;subst.c;4660.34;0x8;{temp_fifo *};{};{};{}
+fifo_list_size;004662.011;subst.c;4662.25;0x8;{int};{};{};{}
+fignore;002433.024;bashline.c;2433.31;0x8;{ignorevar};{};{};{}
+file_to_lose_on;000067.013;findcmd.c;67.28;0x8;{char *};{};{};{}
+filenum;000056.021;lib/sh/tmpfile.c;56.28;0x8;{unsigned long};{};{};{}
+fillout;000760.011;support/man2html.c;760.18;0x8;{int};{};{};{}
+finddirs_error_return;000101.022;lib/glob/glob.c;101.43;0x8;{globval};{};{};{}
+first_pid;000322.013;jobs.c;322.22;0x8;{pid_t};{};{};{}
+fname;000284.013;support/man2html.c;284.18;0x8;{char *};{};{};{}
+force_append_history;000036.011;bashhist.h;36.31;0x0;{int};{};{};{}
+force_append_history;000087.011;builtins/history.c;87.31;0x0;{int};{};{};{}
+force_append_history;000147.004;bashhist.c;147.24;0x0;{int};{};{};{}
+force_fignore;000096.011;builtins/shopt.c;96.24;0x0;{int};{};{};{}
+force_fignore;000241.004;bashline.c;241.17;0x0;{int};{};{};{}
+forced_display;000182.011;lib/readline/display.c;182.25;0x8;{int};{};{};{}
+forced_interactive;000048.019;flags.h;48.37;0x0;{int};{};{};{}
+forced_interactive;000100.004;flags.c;100.22;0x0;{int};{};{};{}
+funcnest;000058.045;sig.c;58.53;0x0;{int};{};{};{}
+funcnest;000278.004;execute_cmd.c;278.12;0x0;{int};{};{};{}
+funcnest_max;000102.011;variables.c;102.23;0x0;{int};{};{};{}
+funcnest_max;000279.004;execute_cmd.c;279.16;0x0;{int};{};{};{}
+function_bstart;000435.011;y.tab.c;435.26;0x8;{int};{};{};{}
+function_dstart;000432.011;y.tab.c;432.26;0x8;{int};{};{};{}
+function_line_number;000268.011;execute_cmd.c;268.31;0x8;{int};{};{};{}
+function_trace_mode;000050.002;flags.h;50.21;0x0;{int};{};{};{}
+function_trace_mode;000156.004;flags.c;156.23;0x0;{int};{};{};{}
+functions;000033.033;builtins/type.c;33.42;0x0;{includes};{};{};{}
+funmap;000051.009;lib/readline/funmap.c;51.15;0x0;{FUNMAP **};{};{};{}
+funmap;000073.016;lib/readline/readline.h;73.22;0x0;{FUNMAP **};{};{};{}
+funmap_entry;000053.011;lib/readline/funmap.c;53.23;0x8;{int};{};{};{}
+funmap_initialized;000219.011;lib/readline/funmap.c;219.29;0x8;{int};{};{};{}
+funmap_program_specific_entry_start;000057.004;lib/readline/funmap.c;57.39;0x0;{int};{};{};{}
+funmap_size;000052.011;lib/readline/funmap.c;52.22;0x8;{int};{};{};{}
+garglist;000204.018;subst.c;204.26;0x8;{WORD_LIST *};{};{};{}
+garglist;000212.018;builtins/printf.c;212.26;0x8;{WORD_LIST *};{};{};{}
+glob_dot_filenames;000047.011;pathexp.h;47.29;0x0;{int};{};{};{}
+glob_dot_filenames;000053.004;pathexp.c;53.22;0x0;{int};{};{};{}
+glob_error_return;000029.013;pathexp.h;29.30;0x0;{char *};{};{};{}
+glob_error_return;000038.013;lib/glob/glob.h;38.30;0x0;{char *};{};{};{}
+glob_error_return;000099.006;lib/glob/glob.c;99.23;0x0;{char *};{};{};{}
+glob_ignore_case;000040.011;lib/glob/glob.h;40.27;0x0;{int};{};{};{}
+glob_ignore_case;000042.011;lib/sh/shmatch.c;42.27;0x0;{int};{};{};{}
+glob_ignore_case;000080.011;builtins/shopt.c;80.27;0x0;{int};{};{};{}
+glob_ignore_case;000096.004;lib/glob/glob.c;96.20;0x0;{int};{};{};{}
+glob_star;000049.011;pathexp.h;49.20;0x0;{int};{};{};{}
+glob_star;000059.004;pathexp.c;59.13;0x0;{int};{};{};{}
+glob_star;000086.011;builtins/shopt.c;86.20;0x0;{int};{};{};{}
+global_command;000114.009;shell.c;114.23;0x0;{COMMAND *};{};{};{}
+global_command;000365.016;command.h;365.30;0x0;{COMMAND *};{};{};{}
+global_error_list;000033.013;list.c;33.30;0x0;{GENERIC_LIST};{};{};{}
+global_extglob;000454.011;y.tab.c;454.25;0x8;{int};{};{};{}
+global_variables;000111.013;variables.c;111.29;0x0;{VAR_CONTEXT *};{};{};{}
+global_variables;000213.020;variables.h;213.36;0x0;{VAR_CONTEXT *};{};{};{}
+globignore;000325.024;pathexp.c;325.34;0x8;{ignorevar};{};{};{}
+globorig;003089.013;bashline.c;3089.21;0x8;{char *};{};{};{}
+globtext;003088.013;bashline.c;3088.21;0x8;{char *};{};{};{}
+gnu_error_format;000077.004;error.c;77.20;0x0;{int};{};{};{}
+gnu_error_format;000083.011;builtins/shopt.c;83.27;0x0;{int};{};{};{}
+gnu_error_format;000106.011;shell.c;106.27;0x0;{int};{};{};{}
+got_tty_state;000848.011;nojobs.c;848.24;0x8;{int};{};{};{}
+group_array;001006.020;general.c;1006.31;0x8;{GETGROUPS_T *};{};{};{}
+group_command_nesting;000131.011;print_cmd.c;131.32;0x8;{int};{};{};{}
+grouping;000187.013;lib/sh/snprintf.c;187.21;0x8;{char *};{};{};{}
+handlers;000443.014;builtins/mkbuiltins.c;443.22;0x0;{HANDLER_ENTRY []};{};{};{}
+harry_len;002811.011;bashline.c;2811.20;0x8;{int};{};{};{}
+harry_size;002810.011;bashline.c;2810.21;0x8;{int};{};{};{}
+hashed_filenames;000026.019;hashcmd.h;26.35;0x0;{HASH_TABLE *};{};{};{}
+hashed_filenames;000039.012;hashcmd.c;39.28;0x0;{HASH_TABLE *};{};{};{}
+hashing_enabled;000037.011;hashcmd.c;37.26;0x0;{int};{};{};{}
+hashing_enabled;000048.002;flags.h;48.17;0x0;{int};{};{};{}
+hashing_enabled;000124.004;flags.c;124.19;0x0;{int};{};{};{}
+have_devfd;000188.004;shell.c;188.14;0x0;{int};{};{};{}
+have_devfd;000190.004;shell.c;190.14;0x0;{int};{};{};{}
+helpfile_directory;000098.006;builtins/mkbuiltins.c;98.24;0x0;{char *};{};{};{}
+heredoc_errno;000095.011;redir.c;95.24;0x8;{int};{};{};{}
+hist_last_line_added;000043.011;bashhist.h;43.31;0x0;{int};{};{};{}
+hist_last_line_added;000162.004;bashhist.c;162.24;0x0;{int};{};{};{}
+hist_last_line_pushed;000044.011;bashhist.h;44.32;0x0;{int};{};{};{}
+hist_last_line_pushed;000166.004;bashhist.c;166.25;0x0;{int};{};{};{}
+hist_verify;000094.011;builtins/shopt.c;94.22;0x0;{int};{};{};{}
+hist_verify;000175.011;bashline.c;175.22;0x0;{int};{};{};{}
+hist_verify;000176.004;bashhist.c;176.15;0x0;{int};{};{};{}
+histignore;000071.024;bashhist.c;71.34;0x8;{ignorevar};{};{};{}
+history_base;000085.004;lib/readline/history.c;85.16;0x0;{int};{};{};{}
+history_base;000241.011;lib/readline/history.h;241.23;0x0;{int};{};{};{}
+history_comment_char;000087.005;lib/readline/histexpand.c;87.25;0x0;{char};{};{};{}
+history_comment_char;000247.012;lib/readline/history.h;247.32;0x0;{char};{};{};{}
+history_completion_array;002809.014;bashline.c;2809.38;0x8;{char **};{};{};{}
+history_control;000040.011;bashhist.h;40.26;0x0;{int};{};{};{}
+history_control;000157.004;bashhist.c;157.19;0x0;{int};{};{};{}
+history_expansion;000039.011;bashhist.h;39.28;0x0;{int};{};{};{}
+history_expansion;000061.011;flags.h;61.28;0x0;{int};{};{};{}
+history_expansion;000129.004;flags.c;129.21;0x0;{int};{};{};{}
+history_expansion_char;000077.005;lib/readline/histexpand.c;77.27;0x0;{char};{};{};{}
+history_expansion_char;000244.012;lib/readline/history.h;244.34;0x0;{char};{};{};{}
+history_expansion_inhibited;000047.011;bashhist.h;47.38;0x0;{int};{};{};{}
+history_expansion_inhibited;000101.004;bashhist.c;101.31;0x0;{int};{};{};{}
+history_inhibit_expansion_function;000102.019;lib/readline/histexpand.c;102.53;0x0;{rl_linebuf_func_t *};{};{};{}
+history_inhibit_expansion_function;000260.026;lib/readline/history.h;260.60;0x0;{rl_linebuf_func_t *};{};{};{}
+history_length;000082.004;lib/readline/history.c;82.18;0x0;{int};{};{};{}
+history_length;000242.011;lib/readline/history.h;242.25;0x0;{int};{};{};{}
+history_lines_in_file;000038.011;bashhist.h;38.32;0x0;{int};{};{};{}
+history_lines_in_file;000096.004;bashhist.c;96.25;0x0;{int};{};{};{}
+history_lines_this_session;000037.011;bashhist.h;37.37;0x0;{int};{};{};{}
+history_lines_this_session;000063.011;sig.c;63.37;0x0;{int};{};{};{}
+history_lines_this_session;000093.004;bashhist.c;93.30;0x0;{int};{};{};{}
+history_max_entries;000074.004;lib/readline/history.c;74.23;0x0;{int};{};{};{}
+history_max_entries;000243.011;lib/readline/history.h;243.30;0x0;{int};{};{};{}
+history_no_expand_chars;000091.006;lib/readline/histexpand.c;91.29;0x0;{char *};{};{};{}
+history_no_expand_chars;000248.013;lib/readline/history.h;248.36;0x0;{char *};{};{};{}
+history_offset;000079.004;lib/readline/history.c;79.18;0x0;{int};{};{};{}
+history_offset;000080.011;lib/readline/histlib.h;80.25;0x0;{int};{};{};{}
+history_quotes_inhibit_expansion;000095.004;lib/readline/histexpand.c;95.36;0x0;{int};{};{};{}
+history_quotes_inhibit_expansion;000250.011;lib/readline/history.h;250.43;0x0;{int};{};{};{}
+history_reediting;000094.024;builtins/shopt.c;94.41;0x0;{int};{};{};{}
+history_reediting;000171.004;bashhist.c;171.21;0x0;{int};{};{};{}
+history_search_delimiter_chars;000047.006;lib/readline/histsearch.c;47.36;0x0;{char *};{};{};{}
+history_search_delimiter_chars;000249.013;lib/readline/history.h;249.43;0x0;{char *};{};{};{}
+history_search_string;000069.013;lib/readline/search.c;69.34;0x8;{char *};{};{};{}
+history_size;000070.011;lib/readline/history.c;70.23;0x8;{int};{};{};{}
+history_stifled;000067.011;lib/readline/history.c;67.26;0x8;{int};{};{};{}
+history_string_size;000070.011;lib/readline/search.c;70.30;0x8;{int};{};{};{}
+history_subst_char;000081.005;lib/readline/histexpand.c;81.23;0x0;{char};{};{};{}
+history_subst_char;000245.012;lib/readline/history.h;245.30;0x0;{char};{};{};{}
+history_word_delimiters;000098.006;lib/readline/histexpand.c;98.29;0x0;{char *};{};{};{}
+history_word_delimiters;000246.013;lib/readline/history.h;246.36;0x0;{char *};{};{};{}
+history_write_timestamps;000103.004;lib/readline/histfile.c;103.28;0x0;{int};{};{};{}
+history_write_timestamps;000252.011;lib/readline/history.h;252.35;0x0;{int};{};{};{}
+hostname_list;000629.014;bashline.c;629.27;0x8;{char **};{};{};{}
+hostname_list_initialized;000638.004;bashline.c;638.29;0x0;{int};{};{};{}
+hostname_list_initialized;004137.011;variables.c;4137.36;0x0;{int};{};{};{}
+hostname_list_length;000635.011;bashline.c;635.31;0x8;{int};{};{};{}
+hostname_list_size;000632.011;bashline.c;632.29;0x8;{int};{};{};{}
+hup_on_exit;000081.011;builtins/shopt.c;81.22;0x0;{int};{};{};{}
+hup_on_exit;000145.004;shell.c;145.15;0x0;{int};{};{};{}
+ibuffer;000096.021;lib/readline/input.c;96.28;0x8;{unsigned char []};{};{};{}
+ibuffer_len;000097.011;lib/readline/input.c;97.22;0x8;{int};{};{};{}
+idxfile;000285.013;support/man2html.c;285.20;0x8;{FILE *};{};{};{}
+idxlabel;000280.012;support/man2html.c;280.20;0x8;{char []};{};{};{}
+if_stack;000962.022;lib/readline/bind.c;962.30;0x8;{unsigned char *};{};{};{}
+if_stack_depth;000963.011;lib/readline/bind.c;963.25;0x8;{int};{};{};{}
+if_stack_size;000964.011;lib/readline/bind.c;964.24;0x8;{int};{};{};{}
+ifelseval;002175.011;support/man2html.c;2175.20;0x8;{int};{};{};{}
+ifs_cmap;000136.014;subst.c;136.22;0x0;{unsigned char []};{};{};{}
+ifs_cmap;000294.021;subst.h;294.29;0x0;{unsigned char []};{};{};{}
+ifs_firstc;000139.014;subst.c;139.24;0x0;{unsigned char []};{};{};{}
+ifs_firstc;000142.014;subst.c;142.24;0x0;{unsigned char};{};{};{}
+ifs_firstc;000297.021;subst.h;297.31;0x0;{unsigned char []};{};{};{}
+ifs_firstc;000300.021;subst.h;300.31;0x0;{unsigned char};{};{};{}
+ifs_firstc_len;000140.007;subst.c;140.21;0x0;{size_t};{};{};{}
+ifs_firstc_len;000298.014;subst.h;298.28;0x0;{size_t};{};{};{}
+ifs_value;000135.006;subst.c;135.15;0x0;{char *};{};{};{}
+ifs_value;000293.013;subst.h;293.22;0x0;{char *};{};{};{}
+ifs_var;000134.011;subst.c;134.18;0x0;{SHELL_VAR *};{};{};{}
+ifs_var;000292.018;subst.h;292.25;0x0;{SHELL_VAR *};{};{};{}
+ignoreeof;004134.051;variables.c;4134.60;0x0;{int};{};{};{}
+ignoreeof;007938.004;y.tab.c;7938.13;0x0;{int};{};{};{}
+in_handler;000069.011;lib/readline/callback.c;69.21;0x8;{int};{};{};{}
+includes;000081.005;mksyntax.c;81.13;0x0;{char []};{};{};{}
+indentation;000055.011;print_cmd.c;55.22;0x8;{int};{};{};{}
+indentation_amount;000056.011;print_cmd.c;56.29;0x8;{int};{};{};{}
+indentation_size;001381.011;print_cmd.c;1381.27;0x8;{int};{};{};{}
+indentation_string;001380.013;print_cmd.c;1380.31;0x8;{char *};{};{};{}
+indirection_level;000049.011;eval.c;49.28;0x0;{int};{};{};{}
+indirection_level;000053.011;print_cmd.c;53.28;0x0;{int};{};{};{}
+indirection_level;000063.011;builtins/evalstring.c;63.28;0x0;{int};{};{};{}
+indirection_level;000070.011;builtins/common.c;70.28;0x0;{int};{};{};{}
+indirection_level;000070.011;builtins/evalfile.c;70.28;0x0;{int};{};{};{}
+indirection_level;000087.033;variables.c;87.50;0x0;{int};{};{};{}
+indirection_level;000175.004;shell.c;175.21;0x0;{int};{};{};{}
+indirection_string;000134.012;print_cmd.c;134.30;0x8;{char []};{};{};{}
+inhibit_production;000086.004;builtins/mkbuiltins.c;86.22;0x0;{int};{};{};{}
+inside_function_def;000123.011;print_cmd.c;123.30;0x8;{int};{};{};{}
+intbuf;000183.012;lib/sh/snprintf.c;183.18;0x8;{char []};{};{};{}
+intdef;000288.015;support/man2html.c;288.21;0x8;{INTDEF *};{};{};{}
+interactive;000075.011;nojobs.c;75.22;0x0;{int};{};{};{}
+interactive;000094.011;shell.h;94.22;0x0;{int};{};{};{}
+interactive;000138.004;shell.c;138.15;0x0;{int};{};{};{}
+interactive_comments;000049.029;flags.h;49.49;0x0;{int};{};{};{}
+interactive_comments;000051.011;general.c;51.31;0x0;{int};{};{};{}
+interactive_comments;000133.004;flags.c;133.24;0x0;{int};{};{};{}
+interactive_shell;000075.024;nojobs.c;75.41;0x0;{int};{};{};{}
+interactive_shell;000091.033;builtins/fc.c;91.50;0x0;{int};{};{};{}
+interactive_shell;000094.024;shell.h;94.41;0x0;{int};{};{};{}
+interactive_shell;000141.004;shell.c;141.21;0x0;{int};{};{};{}
+interactive_shell;000145.011;input.c;145.28;0x0;{int};{};{};{}
+internal_function;000171.005;lib/intl/gettextP.h;171.22;0x0;{int};{};{};{}
+internal_function;000180.005;lib/intl/gettextP.h;180.22;0x0;{int};{};{};{}
+internal_function;000187.005;lib/intl/gettextP.h;187.22;0x0;{int};{};{};{}
+internal_function;000317.005;lib/intl/dcigettext.c;317.22;0x0;{int};{};{};{}
+internal_function;000320.005;lib/intl/dcigettext.c;320.22;0x0;{int};{};{};{}
+internal_function;000325.060;lib/intl/dcigettext.c;325.77;0x0;{int};{};{};{}
+interrupt_immediately;000078.011;nojobs.c;78.32;0x0;{int};{};{};{}
+interrupt_immediately;000087.004;sig.c;87.25;0x0;{int};{};{};{}
+interrupt_immediately;000114.011;sig.h;114.32;0x0;{int};{};{};{}
+interrupt_immediately;000268.011;lib/malloc/malloc.c;268.32;0x0;{int};{};{};{}
+interrupt_immediately;000384.004;hashlib.c;384.25;0x0;{int};{};{};{}
+interrupt_immediately;000925.004;array.c;925.25;0x0;{int};{};{};{}
+interrupt_state;000025.020;quit.h;25.35;0x100;{volatile int};{};{};{}
+interrupt_state;000069.013;sig.c;69.28;0x100;{volatile int};{};{};{}
+intresult;000923.011;support/man2html.c;923.20;0x8;{int};{};{};{}
+is;000001.010;builtins/return.c;1.12;0x0;{file};{};{};{}
+it_aliases;000107.016;pcomplete.h;107.26;0x0;{ITEMLIST};{};{};{}
+it_aliases;000149.009;pcomplete.c;149.19;0x0;{ITEMLIST};{};{};{}
+it_arrayvars;000108.016;pcomplete.h;108.28;0x0;{ITEMLIST};{};{};{}
+it_arrayvars;000150.009;pcomplete.c;150.21;0x0;{ITEMLIST};{};{};{}
+it_bindings;000109.016;pcomplete.h;109.27;0x0;{ITEMLIST};{};{};{}
+it_bindings;000151.009;pcomplete.c;151.20;0x0;{ITEMLIST};{};{};{}
+it_builtins;000110.016;pcomplete.h;110.27;0x0;{ITEMLIST};{};{};{}
+it_builtins;000152.009;pcomplete.c;152.20;0x0;{ITEMLIST};{};{};{}
+it_commands;000111.016;pcomplete.h;111.27;0x0;{ITEMLIST};{};{};{}
+it_commands;000153.009;pcomplete.c;153.20;0x0;{ITEMLIST};{};{};{}
+it_directories;000112.016;pcomplete.h;112.30;0x0;{ITEMLIST};{};{};{}
+it_directories;000154.009;pcomplete.c;154.23;0x0;{ITEMLIST};{};{};{}
+it_disabled;000113.016;pcomplete.h;113.27;0x0;{ITEMLIST};{};{};{}
+it_disabled;000155.009;pcomplete.c;155.20;0x0;{ITEMLIST};{};{};{}
+it_enabled;000114.016;pcomplete.h;114.26;0x0;{ITEMLIST};{};{};{}
+it_enabled;000156.009;pcomplete.c;156.19;0x0;{ITEMLIST};{};{};{}
+it_exports;000115.016;pcomplete.h;115.26;0x0;{ITEMLIST};{};{};{}
+it_exports;000157.009;pcomplete.c;157.19;0x0;{ITEMLIST};{};{};{}
+it_files;000116.016;pcomplete.h;116.24;0x0;{ITEMLIST};{};{};{}
+it_files;000158.009;pcomplete.c;158.17;0x0;{ITEMLIST};{};{};{}
+it_functions;000117.016;pcomplete.h;117.28;0x0;{ITEMLIST};{};{};{}
+it_functions;000159.009;pcomplete.c;159.21;0x0;{ITEMLIST};{};{};{}
+it_groups;000118.016;pcomplete.h;118.25;0x0;{ITEMLIST};{};{};{}
+it_groups;000161.009;pcomplete.c;161.18;0x0;{ITEMLIST};{};{};{}
+it_hostnames;000119.016;pcomplete.h;119.28;0x0;{ITEMLIST};{};{};{}
+it_hostnames;000160.009;pcomplete.c;160.21;0x0;{ITEMLIST};{};{};{}
+it_jobs;000120.016;pcomplete.h;120.23;0x0;{ITEMLIST};{};{};{}
+it_jobs;000162.009;pcomplete.c;162.16;0x0;{ITEMLIST};{};{};{}
+it_keywords;000121.016;pcomplete.h;121.27;0x0;{ITEMLIST};{};{};{}
+it_keywords;000163.009;pcomplete.c;163.20;0x0;{ITEMLIST};{};{};{}
+it_running;000122.016;pcomplete.h;122.26;0x0;{ITEMLIST};{};{};{}
+it_running;000164.009;pcomplete.c;164.19;0x0;{ITEMLIST};{};{};{}
+it_services;000123.016;pcomplete.h;123.27;0x0;{ITEMLIST};{};{};{}
+it_services;000165.009;pcomplete.c;165.20;0x0;{ITEMLIST};{};{};{}
+it_setopts;000124.016;pcomplete.h;124.26;0x0;{ITEMLIST};{};{};{}
+it_setopts;000166.009;pcomplete.c;166.19;0x0;{ITEMLIST};{};{};{}
+it_shopts;000125.016;pcomplete.h;125.25;0x0;{ITEMLIST};{};{};{}
+it_shopts;000167.009;pcomplete.c;167.18;0x0;{ITEMLIST};{};{};{}
+it_signals;000126.016;pcomplete.h;126.26;0x0;{ITEMLIST};{};{};{}
+it_signals;000168.009;pcomplete.c;168.19;0x0;{ITEMLIST};{};{};{}
+it_stopped;000127.016;pcomplete.h;127.26;0x0;{ITEMLIST};{};{};{}
+it_stopped;000169.009;pcomplete.c;169.19;0x0;{ITEMLIST};{};{};{}
+it_users;000128.016;pcomplete.h;128.24;0x0;{ITEMLIST};{};{};{}
+it_users;000170.009;pcomplete.c;170.17;0x0;{ITEMLIST};{};{};{}
+it_variables;000129.016;pcomplete.h;129.28;0x0;{ITEMLIST};{};{};{}
+it_variables;000171.009;pcomplete.c;171.21;0x0;{ITEMLIST};{};{};{}
+itemdepth;000420.011;support/man2html.c;420.20;0x8;{int};{};{};{}
+itemreset;001419.012;support/man2html.c;1419.21;0x8;{char []};{};{};{}
+job_control;000215.004;jobs.c;215.15;0x0;{int};{};{};{}
+job_control;000247.011;jobs.h;247.22;0x0;{int};{};{};{}
+jobs;000168.006;jobs.c;168.10;0x0;{JOB **};{};{};{}
+jobs;000171.013;jobs.h;171.17;0x0;{JOB **};{};{};{}
+jobs_list_frozen;000317.011;jobs.c;317.27;0x8;{int};{};{};{}
+jobs_m_flag;000096.004;flags.c;96.15;0x0;{int};{};{};{}
+js;000163.016;jobs.c;163.18;0x0;{jobstats};{};{};{}
+js;000165.023;jobs.h;165.25;0x0;{jobstats};{};{};{}
+just_one_command;000046.002;flags.h;46.18;0x0;{int};{};{};{}
+just_one_command;000079.004;flags.c;79.20;0x0;{int};{};{};{}
+ksrflow;000071.011;lib/readline/rltty.c;71.18;0x8;{int};{};{};{}
+label;002101.012;support/man2html.c;2101.17;0x8;{char []};{};{};{}
+lang;000057.013;locale.c;57.17;0x8;{char *};{};{};{}
+last_alloca_header;000149.015;lib/malloc/alloca.c;149.33;0x8;{header *};{};{};{}
+last_asynchronous_pid;000087.006;nojobs.c;87.27;0x0;{pid_t};{};{};{}
+last_asynchronous_pid;000168.028;jobs.h;168.49;0x0;{pid_t};{};{};{}
+last_asynchronous_pid;000209.006;jobs.c;209.27;0x0;{pid_t};{};{};{}
+last_command_exit_signal;000056.011;sig.c;56.35;0x0;{int};{};{};{}
+last_command_exit_signal;000077.036;nojobs.c;77.60;0x0;{int};{};{};{}
+last_command_exit_signal;000150.036;jobs.c;150.60;0x0;{int};{};{};{}
+last_command_exit_signal;000156.036;subst.c;156.60;0x0;{int};{};{};{}
+last_command_exit_signal;000223.004;execute_cmd.c;223.28;0x0;{int};{};{};{}
+last_command_exit_value;000040.011;arrayfunc.c;40.34;0x0;{int};{};{};{}
+last_command_exit_value;000050.011;builtins/exit.c;50.34;0x0;{int};{};{};{}
+last_command_exit_value;000052.011;eval.c;52.34;0x0;{int};{};{};{}
+last_command_exit_value;000055.011;sig.c;55.34;0x0;{int};{};{};{}
+last_command_exit_value;000056.011;error.c;56.34;0x0;{int};{};{};{}
+last_command_exit_value;000058.011;make_cmd.c;58.34;0x0;{int};{};{};{}
+last_command_exit_value;000065.011;redir.c;65.34;0x0;{int};{};{};{}
+last_command_exit_value;000066.011;builtins/evalstring.c;66.34;0x0;{int};{};{};{}
+last_command_exit_value;000072.011;builtins/common.c;72.34;0x0;{int};{};{};{}
+last_command_exit_value;000072.011;builtins/evalfile.c;72.34;0x0;{int};{};{};{}
+last_command_exit_value;000077.011;nojobs.c;77.34;0x0;{int};{};{};{}
+last_command_exit_value;000081.011;trap.c;81.34;0x0;{int};{};{};{}
+last_command_exit_value;000083.011;builtins/source.c;83.34;0x0;{int};{};{};{}
+last_command_exit_value;000102.011;shell.c;102.34;0x0;{int};{};{};{}
+last_command_exit_value;000150.011;jobs.c;150.34;0x0;{int};{};{};{}
+last_command_exit_value;000156.011;subst.c;156.34;0x0;{int};{};{};{}
+last_command_exit_value;000179.011;bashline.c;179.34;0x0;{int};{};{};{}
+last_command_exit_value;000218.034;expr.c;218.57;0x0;{int};{};{};{}
+last_command_exit_value;000219.004;execute_cmd.c;219.27;0x0;{int};{};{};{}
+last_command_exit_value;000271.011;y.tab.c;271.34;0x0;{int};{};{};{}
+last_command_subst_pid;000112.013;execute_cmd.c;112.35;0x0;{pid_t};{};{};{}
+last_command_subst_pid;000130.006;subst.c;130.28;0x0;{pid_t};{};{};{}
+last_command_subst_pid;000272.013;y.tab.c;272.35;0x0;{pid_t};{};{};{}
+last_isearch_string;000076.013;lib/readline/isearch.c;76.32;0x8;{char *};{};{};{}
+last_isearch_string_len;000077.011;lib/readline/isearch.c;77.34;0x8;{int};{};{};{}
+last_lmargin;000176.011;lib/readline/display.c;176.23;0x8;{int};{};{};{}
+last_made_pid;000086.006;nojobs.c;86.19;0x0;{pid_t};{};{};{}
+last_made_pid;000168.013;jobs.h;168.26;0x0;{pid_t};{};{};{}
+last_made_pid;000206.006;jobs.c;206.19;0x0;{pid_t};{};{};{}
+last_random_value;001227.011;variables.c;1227.28;0x8;{int};{};{};{}
+last_read_token;000446.011;y.tab.c;446.26;0x8;{int};{};{};{}
+last_readline_init_file;000759.013;lib/readline/bind.c;759.36;0x8;{char *};{};{};{}
+last_shell_builtin;000054.026;builtins/exit.c;54.44;0x0;{sh_builtin_func_t *};{};{};{}
+last_shell_builtin;000079.019;builtins/common.c;79.37;0x0;{sh_builtin_func_t *};{};{};{}
+last_shell_builtin;000113.026;execute_cmd.c;113.44;0x0;{sh_builtin_func_t *};{};{};{}
+last_shell_builtin;000184.026;bashline.c;184.44;0x0;{sh_builtin_func_t *};{};{};{}
+last_shell_builtin;000277.026;y.tab.c;277.44;0x0;{sh_builtin_func_t *};{};{};{}
+last_tempenv_value;000047.013;lib/sh/getenv.c;47.31;0x8;{char *};{};{};{}
+last_time_mail_checked;000064.014;mailcheck.c;64.36;0x8;{time_t};{};{};{}
+lastarray;000058.014;array.c;58.23;0x8;{ARRAY *};{};{};{}
+lastlval;000174.021;expr.c;174.29;0x8;{lvalue};{};{};{}
+lastpipe_opt;000087.011;builtins/shopt.c;87.23;0x0;{int};{};{};{}
+lastpipe_opt;000281.004;execute_cmd.c;281.16;0x0;{int};{};{};{}
+lastref;000059.022;array.c;59.29;0x8;{ARRAY_ELEMENT *};{};{};{}
+lasttok;000166.011;expr.c;166.18;0x8;{int};{};{};{}
+lasttp;000164.013;expr.c;164.19;0x8;{char *};{};{};{}
+lbreak;000054.013;xmalloc.c;54.19;0x8;{PTR_T};{};{};{}
+lbuf;000100.012;lib/sh/zread.c;100.16;0x8;{char []};{};{};{}
+lc_all;000053.013;locale.c;53.19;0x8;{char *};{};{};{}
+lcurrent;000033.018;builtins/bashgetopt.h;33.26;0x0;{WORD_LIST *};{};{};{}
+lcurrent;000044.011;builtins/bashgetopt.c;44.19;0x0;{WORD_LIST *};{};{};{}
+legal_lang_values;000058.013;lib/readline/nls.c;58.30;0x8;{char *[]};{};{};{}
+lhead;000043.018;builtins/bashgetopt.c;43.23;0x8;{WORD_LIST *};{};{};{}
+libintl_nl_default_dirname;000044.005;lib/intl/os2compat.c;44.31;0x0;{char []};{};{};{}
+limits;000218.023;builtins/ulimit.c;218.29;0x8;{RESOURCE_LIMITS []};{};{};{}
+lind;000101.014;lib/sh/zread.c;101.18;0x8;{size_t};{};{};{}
+line_number;000054.063;eval.c;54.74;0x0;{int};{};{};{}
+line_number;000057.011;make_cmd.c;57.22;0x0;{int};{};{};{}
+line_number;000064.011;builtins/evalstring.c;64.22;0x0;{int};{};{};{}
+line_number;000071.011;builtins/common.c;71.22;0x0;{int};{};{};{}
+line_number;000082.011;trap.c;82.22;0x0;{int};{};{};{}
+line_number;000086.011;variables.c;86.22;0x0;{int};{};{};{}
+line_number;000103.011;shell.c;103.22;0x0;{int};{};{};{}
+line_number;000107.033;execute_cmd.c;107.44;0x0;{int};{};{};{}
+line_number;000148.033;jobs.c;148.44;0x0;{int};{};{};{}
+line_number;000157.033;subst.c;157.44;0x0;{int};{};{};{}
+line_number;003960.004;y.tab.c;3960.15;0x0;{int};{};{};{}
+line_number_base;000086.024;variables.c;86.40;0x0;{int};{};{};{}
+line_number_base;003963.004;y.tab.c;3963.20;0x0;{int};{};{};{}
+line_number_for_err_trap;000275.011;execute_cmd.c;275.35;0x8;{int};{};{};{}
+line_size;000185.011;lib/readline/display.c;185.20;0x8;{int};{};{};{}
+line_state_array;000082.025;lib/readline/display.c;82.41;0x8;{line_state []};{};{};{}
+line_state_invisible;000084.026;lib/readline/display.c;84.46;0x8;{line_state *};{};{};{}
+line_state_visible;000083.026;lib/readline/display.c;83.44;0x8;{line_state *};{};{};{}
+line_structures_initialized;000085.011;lib/readline/display.c;85.38;0x8;{int};{};{};{}
+list_optarg;000028.013;builtins/bashgetopt.h;28.24;0x0;{char *};{};{};{}
+list_optarg;000039.009;builtins/bashgetopt.c;39.20;0x0;{char *};{};{};{}
+list_optopt;000030.011;builtins/bashgetopt.h;30.22;0x0;{int};{};{};{}
+list_optopt;000040.004;builtins/bashgetopt.c;40.15;0x0;{int};{};{};{}
+list_opttype;000031.011;builtins/bashgetopt.h;31.23;0x0;{int};{};{};{}
+list_opttype;000041.004;builtins/bashgetopt.c;41.16;0x0;{int};{};{};{}
+literal_history;000035.011;bashhist.h;35.26;0x0;{int};{};{};{}
+literal_history;000089.011;builtins/fc.c;89.26;0x0;{int};{};{};{}
+literal_history;000143.004;bashhist.c;143.19;0x0;{int};{};{};{}
+local_bufused;000068.028;input.c;68.41;0x8;{int};{};{};{}
+local_index;000068.011;input.c;68.22;0x8;{int};{};{};{}
+local_prompt;000190.013;lib/readline/display.c;190.25;0x8;{char *};{};{};{}
+local_prompt_len;000191.011;lib/readline/display.c;191.27;0x8;{int};{};{};{}
+local_prompt_prefix;000190.028;lib/readline/display.c;190.47;0x8;{char *};{};{};{}
+local_state;000049.017;lib/glob/xmbsrtowcs.c;49.28;0x8;{mbstate_t};{};{};{}
+local_state_use;000050.011;lib/glob/xmbsrtowcs.c;50.26;0x8;{int};{};{};{}
+localbuf;000067.012;input.c;67.20;0x8;{char []};{};{};{}
+localconv;000060.015;lib/sh/unicode.c;60.24;0x8;{iconv_t};{};{};{}
+localtime_offset;000158.014;lib/sh/mktime.c;158.30;0x8;{time_t};{};{};{}
+location_base;000103.012;support/man2html.c;103.25;0x8;{char []};{};{};{}
+login_shell;000075.043;nojobs.c;75.54;0x0;{int};{};{};{}
+login_shell;000093.022;shell.h;93.33;0x0;{int};{};{};{}
+login_shell;000133.004;shell.c;133.15;0x0;{int};{};{};{}
+loop_level;000054.004;builtins/break.c;54.14;0x0;{int};{};{};{}
+loop_level;000058.011;sig.c;58.21;0x0;{int};{};{};{}
+loop_level;000068.011;builtins/evalstring.c;68.21;0x0;{int};{};{};{}
+loop_level;000105.033;execute_cmd.c;105.43;0x0;{int};{};{};{}
+loop_level;000151.011;jobs.c;151.21;0x0;{int};{};{};{}
+loptend;000034.018;builtins/bashgetopt.h;34.25;0x0;{WORD_LIST *};{};{};{}
+loptend;000045.011;builtins/bashgetopt.c;45.18;0x0;{WORD_LIST *};{};{};{}
+lsyntax;000071.004;mksyntax.c;71.11;0x0;{int []};{};{};{}
+lused;000101.020;lib/sh/zread.c;101.25;0x8;{size_t};{};{};{}
+macro_list;000084.027;lib/readline/macro.c;84.37;0x8;{saved_macro *};{};{};{}
+mail_warning;000067.004;mailcheck.c;67.16;0x0;{int};{};{};{}
+mail_warning;000074.024;builtins/shopt.c;74.36;0x0;{int};{};{};{}
+mailfiles;000058.018;mailcheck.c;58.27;0x8;{FILEINFO **};{};{};{}
+mailfiles_count;000061.011;mailcheck.c;61.26;0x8;{int};{};{};{}
+make_login_shell;000213.011;shell.c;213.27;0x8;{int};{};{};{}
+malloc_flags;000277.004;lib/malloc/malloc.c;277.16;0x0;{int};{};{};{}
+malloc_register;000031.011;lib/malloc/table.c;31.26;0x0;{int};{};{};{}
+malloc_register;000279.004;lib/malloc/malloc.c;279.19;0x0;{int};{};{};{}
+malloc_trace;000032.011;lib/malloc/trace.c;32.23;0x0;{int};{};{};{}
+malloc_trace;000278.004;lib/malloc/malloc.c;278.16;0x0;{int};{};{};{}
+malloc_trace_at_exit;000287.004;shell.c;287.24;0x0;{int};{};{};{}
+mandoc_line;003739.011;support/man2html.c;3739.22;0x8;{int};{};{};{}
+manidx;002098.012;support/man2html.c;2098.18;0x8;{char []};{};{};{}
+manpage;000114.006;support/man2html.c;114.13;0x0;{char *};{};{};{}
+mark_modified_vars;000044.002;flags.h;44.20;0x0;{int};{};{};{}
+mark_modified_vars;000055.004;flags.c;55.22;0x0;{int};{};{};{}
+match_ignore_case;000042.029;lib/sh/shmatch.c;42.46;0x0;{int};{};{};{}
+match_ignore_case;000050.011;pathexp.h;50.28;0x0;{int};{};{};{}
+match_ignore_case;000080.029;builtins/shopt.c;80.46;0x0;{int};{};{};{}
+match_ignore_case;000257.004;execute_cmd.c;257.21;0x0;{int};{};{};{}
+matched_pair_error;005448.012;y.tab.c;5448.30;0x8;{char};{};{};{}
+max_input_history;000075.004;lib/readline/history.c;75.21;0x0;{int};{};{};{}
+max_input_history;000255.011;lib/readline/history.h;255.28;0x0;{int};{};{};{}
+maxbuck;000228.011;lib/malloc/malloc.c;228.18;0x8;{int};{};{};{}
+maxgroups;001003.020;general.c;1003.29;0x8;{int};{};{};{}
+maxmap;000141.014;lib/intl/localealias.c;141.20;0x8;{size_t};{};{};{}
+maxtstop;000424.011;support/man2html.c;424.19;0x8;{int};{};{};{}
+mem_overflow;000041.018;lib/malloc/table.c;41.30;0x8;{mr_table_t};{};{};{}
+mem_table;000040.018;lib/malloc/table.c;40.27;0x8;{mr_table_t []};{};{};{}
+memtop;000230.013;lib/malloc/malloc.c;230.19;0x8;{char *};{};{};{}
+mip;002100.011;support/man2html.c;2100.14;0x8;{int};{};{};{}
+modmark;000220.011;lib/readline/display.c;220.18;0x8;{int};{};{};{}
+msg_buf;000179.012;lib/readline/display.c;179.19;0x8;{char []};{};{};{}
+msg_saved_prompt;002124.011;lib/readline/display.c;2124.27;0x8;{int};{};{};{}
+multiplier;000059.011;lib/sh/uconvert.c;59.21;0x8;{int []};{};{};{}
+nbuffers;000155.011;input.c;155.19;0x8;{int};{};{};{}
+ncmd;000278.011;builtins/ulimit.c;278.15;0x8;{int};{};{};{}
+need_here_doc;000053.011;eval.c;53.24;0x0;{int};{};{};{}
+need_here_doc;000419.004;y.tab.c;419.17;0x0;{int};{};{};{}
+newline_for_fun;000522.011;support/man2html.c;522.26;0x8;{int};{};{};{}
+nextchar;000066.013;builtins/getopt.c;66.21;0x8;{char *};{};{};{}
+nextf;000220.020;lib/malloc/malloc.c;220.25;0x8;{mhead *[]};{};{};{}
+nfds;004799.011;subst.c;4799.15;0x8;{int};{};{};{}
+nfifo;004661.011;subst.c;4661.16;0x8;{int};{};{};{}
+ngroups;001003.011;general.c;1003.18;0x8;{int};{};{};{}
+nmap;000140.014;lib/intl/localealias.c;140.18;0x8;{size_t};{};{};{}
+no_empty_command_completion;000095.011;builtins/shopt.c;95.38;0x0;{int};{};{};{}
+no_empty_command_completion;000236.004;bashline.c;236.31;0x0;{int};{};{};{}
+no_exit_on_failed_exec;000075.011;builtins/shopt.c;75.33;0x0;{int};{};{};{}
+no_exit_on_failed_exec;000081.004;builtins/exec.c;81.26;0x0;{int};{};{};{}
+no_invisible_vars;000047.027;flags.h;47.44;0x0;{int};{};{};{}
+no_invisible_vars;000121.004;flags.c;121.21;0x0;{int};{};{};{}
+no_line_editing;000057.011;builtins/set.c;57.26;0x0;{int};{};{};{}
+no_line_editing;000090.011;builtins/bind.c;90.26;0x0;{int};{};{};{}
+no_line_editing;000105.011;variables.c;105.26;0x0;{int};{};{};{}
+no_line_editing;000217.004;shell.c;217.19;0x0;{int};{};{};{}
+no_line_editing;000267.011;y.tab.c;267.26;0x0;{int};{};{};{}
+no_longjmp_on_fatal_error;000196.011;subst.c;196.36;0x8;{int};{};{};{}
+no_newline_output;000521.011;support/man2html.c;521.28;0x8;{int};{};{};{}
+no_profile;000211.011;shell.c;211.21;0x8;{int};{};{};{}
+no_rc;000210.011;shell.c;210.16;0x8;{int};{};{};{}
+no_symbolic_links;000049.051;flags.h;49.68;0x0;{int};{};{};{}
+no_symbolic_links;000107.004;flags.c;107.21;0x0;{int};{};{};{}
+no_symbolic_links;000181.028;bashline.c;181.45;0x0;{int};{};{};{}
+nobreaksym;000415.030;support/man2html.c;415.40;0x8;{char};{};{};{}
+noclobber;000047.046;flags.h;47.55;0x0;{int};{};{};{}
+noclobber;000082.004;flags.c;82.13;0x0;{int};{};{};{}
+noeval;000110.011;test.c;110.17;0x8;{int};{};{};{}
+noeval;000170.011;expr.c;170.17;0x8;{int};{};{};{}
+noglob_dot_filenames;000028.011;pathexp.h;28.31;0x0;{int};{};{};{}
+noglob_dot_filenames;000039.011;lib/glob/glob.h;39.31;0x0;{int};{};{};{}
+noglob_dot_filenames;000092.004;lib/glob/glob.c;92.24;0x0;{int};{};{};{}
+noninc_history_pos;000063.011;lib/readline/search.c;63.29;0x8;{int};{};{};{}
+noninc_search_string;000062.013;lib/readline/search.c;62.33;0x8;{char *};{};{};{}
+nosigstty;000934.024;lib/readline/rltty.c;934.33;0x8;{TIOTYPE};{};{};{}
+ntable;000382.020;hashlib.c;382.26;0x0;{HASH_TABLE *};{};{};{}
+ntmpfiles;000054.011;lib/sh/tmpfile.c;54.20;0x8;{int};{};{};{}
+nullpath;000050.013;lib/sh/makepath.c;50.21;0x8;{char *};{};{};{}
+nullstr;003323.020;execute_cmd.c;3323.27;0x8;{char *const };{};{};{}
+num_shell_builtins;000058.011;builtins.h;58.29;0x0;{int};{};{};{}
+nw;000048.004;builtins/psize.c;48.6;0x0;{int};{};{};{}
+obp;000520.011;support/man2html.c;520.14;0x8;{int};{};{};{}
+off;000176.026;builtins/set.c;176.29;0x8;{const char *const };{};{};{}
+off;000211.026;builtins/shopt.c;211.29;0x8;{const char *const };{};{};{}
+old_alrm;000121.041;lib/readline/signals.c;121.49;0x8;{sighandler_cxt};{};{};{}
+old_alrm;000131.019;builtins/read.c;131.27;0x8;{SigHandler *};{};{};{}
+old_attempted_completion_function;000885.029;builtins/read.c;885.62;0x8;{rl_completion_func_t *};{};{};{}
+old_cont;000059.019;builtins/suspend.c;59.27;0x8;{SigHandler *};{};{};{}
+old_cont;000307.019;jobs.c;307.27;0x8;{SigHandler *};{};{};{}
+old_delim_ctype;000947.011;builtins/read.c;947.26;0x8;{int};{};{};{}
+old_delim_func;000948.026;builtins/read.c;948.40;0x8;{rl_command_func_t *};{};{};{}
+old_int;000121.022;lib/readline/signals.c;121.29;0x8;{sighandler_cxt};{};{};{}
+old_newline_ctype;000949.011;builtins/read.c;949.28;0x8;{int};{};{};{}
+old_newline_func;000950.026;builtins/read.c;950.42;0x8;{rl_command_func_t *};{};{};{}
+old_quit;000121.051;lib/readline/signals.c;121.59;0x8;{sighandler_cxt};{};{};{}
+old_rl_startup_hook;000250.023;bashline.c;250.42;0x8;{rl_hook_func_t *};{};{};{}
+old_sigint_handler;000659.019;nojobs.c;659.37;0x8;{SigHandler *};{};{};{}
+old_sigint_handler;002213.019;jobs.c;2213.37;0x8;{SigHandler *};{};{};{}
+old_startup_hook;000886.023;builtins/read.c;886.39;0x8;{rl_hook_func_t *};{};{};{}
+old_term;000121.031;lib/readline/signals.c;121.39;0x8;{sighandler_cxt};{};{};{}
+old_tstp;000123.022;lib/readline/signals.c;123.30;0x8;{sighandler_cxt};{};{};{}
+old_tstp;000306.019;jobs.c;306.27;0x8;{SigHandler *};{};{};{}
+old_ttin;000123.042;lib/readline/signals.c;123.50;0x8;{sighandler_cxt};{};{};{}
+old_ttin;000306.041;jobs.c;306.49;0x8;{SigHandler *};{};{};{}
+old_ttou;000123.032;lib/readline/signals.c;123.40;0x8;{sighandler_cxt};{};{};{}
+old_ttou;000306.030;jobs.c;306.38;0x8;{SigHandler *};{};{};{}
+old_winch;000093.019;sig.c;93.28;0x8;{SigHandler *};{};{};{}
+old_winch;000126.022;lib/readline/signals.c;126.31;0x8;{sighandler_cxt};{};{};{}
+on;000175.026;builtins/set.c;175.28;0x8;{const char *const };{};{};{}
+on;000210.026;builtins/shopt.c;210.28;0x8;{const char *const };{};{};{}
+only_documentation;000083.004;builtins/mkbuiltins.c;83.22;0x0;{int};{};{};{}
+open_brace_count;004863.011;y.tab.c;4863.27;0x8;{int};{};{};{}
+optarg;000037.013;mksyntax.c;37.19;0x0;{char *};{};{};{}
+optarg;000045.013;support/bashversion.c;45.19;0x0;{char *};{};{};{}
+optflags;000041.012;flags.h;41.20;0x0;{char []};{};{};{}
+optflags;000216.005;flags.c;216.13;0x0;{char []};{};{};{}
+optind;000036.011;mksyntax.c;36.17;0x0;{int};{};{};{}
+optind;000044.011;support/bashversion.c;44.17;0x0;{int};{};{};{}
+optstring;000304.012;builtins/ulimit.c;304.21;0x8;{char []};{};{};{}
+orig_prefix;000088.013;lib/intl/relocatable.c;88.24;0x8;{char *};{};{};{}
+orig_prefix_len;000089.014;lib/intl/relocatable.c;89.29;0x8;{size_t};{};{};{}
+original_pgrp;000167.013;jobs.h;167.26;0x0;{pid_t};{};{};{}
+original_pgrp;000185.006;jobs.c;185.19;0x0;{pid_t};{};{};{}
+original_signals;000092.012;trap.c;92.28;0x0;{SigHandler *[]};{};{};{}
+ospeed;000031.013;lib/termcap/termcap.h;31.19;0x0;{short};{};{};{}
+ospeed;000045.013;lib/readline/tcap.h;45.19;0x0;{short};{};{};{}
+ospeed;000050.013;lib/termcap/termcap.h;50.19;0x0;{short};{};{};{}
+ospeed;000292.006;lib/termcap/termcap.c;292.12;0x0;{short};{};{};{}
+other_token_alist;004386.017;y.tab.c;4386.34;0x0;{STRING_INT_ALIST []};{};{};{}
+otio;000114.015;lib/readline/rltty.c;114.19;0x8;{TIOTYPE};{};{};{}
+otio;000334.015;lib/readline/rltty.c;334.19;0x8;{TIOTYPE};{};{};{}
+out_length;000524.011;support/man2html.c;524.21;0x8;{int};{};{};{}
+outbuf;000049.013;lib/sh/fnxform.c;49.19;0x8;{char *};{};{};{}
+outbuffer;000519.012;support/man2html.c;519.21;0x8;{char []};{};{};{}
+outlen;000050.014;lib/sh/fnxform.c;50.20;0x8;{size_t};{};{};{}
+output_cpp_line_info;000476.004;builtins/mkbuiltins.c;476.24;0x0;{int};{};{};{}
+output_possible;000523.011;support/man2html.c;523.26;0x8;{int};{};{};{}
+padsym;000415.081;support/man2html.c;415.87;0x8;{char};{};{};{}
+pagebucket;000227.011;lib/malloc/malloc.c;227.21;0x8;{int};{};{};{}
+pagesz;000226.011;lib/malloc/malloc.c;226.17;0x8;{int};{};{};{}
+parse_and_execute_level;000061.011;sig.c;61.34;0x0;{int};{};{};{}
+parse_and_execute_level;000074.004;builtins/evalstring.c;74.27;0x0;{int};{};{};{}
+parse_and_execute_level;000106.011;execute_cmd.c;106.34;0x0;{int};{};{};{}
+parse_and_execute_level;000158.027;subst.c;158.50;0x0;{int};{};{};{}
+parse_and_execute_level;000269.024;y.tab.c;269.47;0x0;{int};{};{};{}
+parse_string_error;008000.017;y.tab.c;8000.35;0x8;{WORD_LIST};{};{};{}
+parser_state;000057.052;make_cmd.c;57.64;0x0;{int};{};{};{}
+parser_state;000187.011;bashhist.c;187.23;0x0;{int};{};{};{}
+parser_state;000414.004;y.tab.c;414.16;0x0;{int};{};{};{}
+patch_level;000048.011;support/bashversion.c;48.22;0x0;{int};{};{};{}
+patch_level;000088.026;variables.c;88.37;0x0;{int};{};{};{}
+patch_level;000099.011;shell.c;99.22;0x0;{int};{};{};{}
+patch_level;000275.011;y.tab.c;275.22;0x0;{int};{};{};{}
+pathname_alphabetic_chars;000069.026;lib/readline/util.c;69.51;0x8;{const char *const };{};{};{}
+pcomp_curcmd;000132.019;pcomplete.h;132.31;0x0;{const char *};{};{};{}
+pcomp_curcmd;000174.012;pcomplete.c;174.24;0x0;{const char *};{};{};{}
+pcomp_curcs;000131.017;pcomplete.h;131.28;0x0;{COMPSPEC *};{};{};{}
+pcomp_curcs;000173.010;pcomplete.c;173.21;0x0;{COMPSPEC *};{};{};{}
+pending_bytes;000662.012;lib/readline/text.c;662.25;0x8;{char []};{};{};{}
+pending_bytes_length;000663.011;lib/readline/text.c;663.31;0x8;{int};{};{};{}
+pending_traps;000102.004;trap.c;102.17;0x0;{int []};{};{};{}
+perform_hostname_completion;000094.043;builtins/shopt.c;94.70;0x0;{int};{};{};{}
+perform_hostname_completion;000106.011;variables.c;106.38;0x0;{int};{};{};{}
+perform_hostname_completion;000233.004;bashline.c;233.31;0x0;{int};{};{};{}
+pgrp_pipe;000194.004;jobs.c;194.13;0x0;{int []};{};{};{}
+pid_list;000117.027;nojobs.c;117.35;0x8;{proc_status *};{};{};{}
+pid_list_size;000118.011;nojobs.c;118.24;0x8;{int};{};{};{}
+pid_wrap;000323.011;jobs.c;323.19;0x8;{int};{};{};{}
+pipefail_opt;000050.041;flags.h;50.53;0x0;{int};{};{};{}
+pipefail_opt;000164.004;flags.c;164.16;0x0;{int};{};{};{}
+pipeline_pgrp;000167.040;jobs.h;167.53;0x0;{pid_t};{};{};{}
+pipeline_pgrp;000188.006;jobs.c;188.19;0x0;{pid_t};{};{};{}
+place_keywords_in_env;000045.002;flags.h;45.23;0x0;{int};{};{};{}
+place_keywords_in_env;000071.004;flags.c;71.25;0x0;{int};{};{};{}
+plone;000073.025;lib/intl/plural-exp.c;73.30;0x8;{expression};{};{};{}
+plvar;000072.025;lib/intl/plural-exp.c;72.30;0x8;{expression};{};{};{}
+pop_index;000095.011;lib/readline/input.c;95.20;0x8;{int};{};{};{}
+popd_doc;000729.013;builtins/pushd.c;729.21;0x0;{char *const []};{};{};{}
+popd_struct;000759.015;builtins/pushd.c;759.26;0x0;{builtin};{};{};{}
+pos;000107.011;test.c;107.14;0x8;{int};{};{};{}
+posix_builtins;000159.006;builtins/mkbuiltins.c;159.20;0x0;{char *[]};{};{};{}
+posixly_correct;000049.011;builtins/break.c;49.26;0x0;{int};{};{};{}
+posixly_correct;000050.011;eval.c;50.26;0x0;{int};{};{};{}
+posixly_correct;000051.011;findcmd.c;51.26;0x0;{int};{};{};{}
+posixly_correct;000056.011;builtins/cd.c;56.26;0x0;{int};{};{};{}
+posixly_correct;000064.011;redir.c;64.26;0x0;{int};{};{};{}
+posixly_correct;000068.011;builtins/alias.c;68.26;0x0;{int};{};{};{}
+posixly_correct;000069.011;builtins/evalfile.c;69.26;0x0;{int};{};{};{}
+posixly_correct;000070.011;builtins/kill.c;70.26;0x0;{int};{};{};{}
+posixly_correct;000071.011;builtins/evalstring.c;71.26;0x0;{int};{};{};{}
+posixly_correct;000074.011;builtins/common.c;74.26;0x0;{int};{};{};{}
+posixly_correct;000080.027;builtins/type.c;80.42;0x0;{int};{};{};{}
+posixly_correct;000082.011;builtins/source.c;82.26;0x0;{int};{};{};{}
+posixly_correct;000085.011;variables.c;85.26;0x0;{int};{};{};{}
+posixly_correct;000089.011;builtins/declare.c;89.26;0x0;{int};{};{};{}
+posixly_correct;000090.011;builtins/fc.c;90.26;0x0;{int};{};{};{}
+posixly_correct;000100.011;builtins/echo.c;100.26;0x0;{int};{};{};{}
+posixly_correct;000100.011;builtins/trap.c;100.26;0x0;{int};{};{};{}
+posixly_correct;000102.011;execute_cmd.c;102.26;0x0;{int};{};{};{}
+posixly_correct;000149.011;jobs.c;149.26;0x0;{int};{};{};{}
+posixly_correct;000162.011;subst.c;162.26;0x0;{int};{};{};{}
+posixly_correct;000181.011;bashline.c;181.26;0x0;{int};{};{};{}
+posixly_correct;000191.011;builtins/ulimit.c;191.26;0x0;{int};{};{};{}
+posixly_correct;000224.004;shell.c;224.19;0x0;{int};{};{};{}
+posixly_correct;000226.004;shell.c;226.19;0x0;{int};{};{};{}
+posixly_correct;000270.011;y.tab.c;270.26;0x0;{int};{};{};{}
+preamble;000075.005;mksyntax.c;75.13;0x0;{char []};{};{};{}
+prev_line_found;000065.013;lib/readline/search.c;65.28;0x8;{char *};{};{};{}
+primary_prompt;000092.013;variables.c;92.27;0x0;{char *};{};{};{}
+primary_prompt;000107.013;shell.c;107.27;0x0;{char *};{};{};{}
+primary_prompt;000376.006;y.tab.c;376.20;0x0;{char *};{};{};{}
+print_shift_error;000075.035;builtins/shopt.c;75.52;0x0;{int};{};{};{}
+printing_connection;000126.011;print_cmd.c;126.30;0x8;{int};{};{};{}
+privileged_mode;000048.039;flags.h;48.54;0x0;{int};{};{};{}
+privileged_mode;000148.004;flags.c;148.19;0x0;{int};{};{};{}
+prog_complete_matches;000170.014;bashline.c;170.35;0x8;{char **};{};{};{}
+prog_completes;000044.012;pcomplib.c;44.26;0x0;{HASH_TABLE *};{};{};{}
+prog_completes;000103.019;pcomplete.h;103.33;0x0;{HASH_TABLE *};{};{};{}
+prog_completion_enabled;000103.011;builtins/shopt.c;103.34;0x0;{int};{};{};{}
+prog_completion_enabled;000104.011;pcomplete.h;104.34;0x0;{int};{};{};{}
+prog_completion_enabled;000146.004;pcomplete.c;146.27;0x0;{int};{};{};{}
+progcomp_debug;000143.011;pcomplete.c;143.25;0x8;{int};{};{};{}
+progname;000045.006;support/mksignames.c;45.14;0x0;{char *};{};{};{}
+progname;000054.006;support/bashversion.c;54.14;0x0;{char *};{};{};{}
+progname;000066.013;support/signames.c;66.21;0x0;{char *};{};{};{}
+progname;000073.006;mksyntax.c;73.14;0x0;{char *};{};{};{}
+prompt_invis_chars_first_line;000212.011;lib/readline/display.c;212.40;0x8;{int};{};{};{}
+prompt_last_invisible;000203.011;lib/readline/display.c;203.32;0x8;{int};{};{};{}
+prompt_last_screen_line;000214.011;lib/readline/display.c;214.34;0x8;{int};{};{};{}
+prompt_multibyte_chars;000168.011;lib/readline/display.c;168.33;0x8;{int};{};{};{}
+prompt_physical_chars;000216.011;lib/readline/display.c;216.32;0x8;{int};{};{};{}
+prompt_prefix_length;000192.034;lib/readline/display.c;192.54;0x8;{int};{};{};{}
+prompt_string_pointer;000384.007;y.tab.c;384.28;0x0;{char **};{};{};{}
+prompt_visible_length;000192.011;lib/readline/display.c;192.32;0x8;{int};{};{};{}
+promptvars;000076.035;builtins/shopt.c;76.45;0x0;{int};{};{};{}
+promptvars;000394.004;y.tab.c;394.14;0x0;{int};{};{};{}
+protected_mode;000221.004;shell.c;221.18;0x0;{int};{};{};{}
+ps;000664.017;lib/readline/text.c;664.19;0x8;{mbstate_t};{};{};{}
+ps1_prompt;000182.037;bashline.c;182.47;0x0;{char *};{};{};{}
+ps1_prompt;000380.006;y.tab.c;380.16;0x0;{char *};{};{};{}
+ps2_prompt;000380.019;y.tab.c;380.29;0x0;{char *};{};{};{}
+pstatuses;000288.012;jobs.c;288.21;0x8;{int *};{};{};{}
+push_index;000095.022;lib/readline/input.c;95.32;0x8;{int};{};{};{}
+push_to_readline;000572.013;bashline.c;572.29;0x8;{char *};{};{};{}
+pushd_directory_list;000150.014;builtins/pushd.c;150.34;0x8;{char **};{};{};{}
+pushd_doc;000704.013;builtins/pushd.c;704.22;0x0;{char *const []};{};{};{}
+pushd_struct;000750.015;builtins/pushd.c;750.27;0x0;{builtin};{};{};{}
+pushed_string_list;004115.014;y.tab.c;4115.32;0x0;{STRING_SAVER *};{};{};{}
+queue_sigchld;000295.011;jobs.c;295.24;0x8;{int};{};{};{}
+rcsid;000062.012;lib/sh/inet_aton.c;62.17;0x8;{char []};{};{};{}
+rd;000091.018;redir.c;91.20;0x8;{REDIRECTEE};{};{};{}
+read_but_dont_execute;000045.025;flags.h;45.46;0x0;{int};{};{};{}
+read_but_dont_execute;000076.004;flags.c;76.25;0x0;{int};{};{};{}
+read_from_stdin;000045.033;flags.c;45.48;0x0;{int};{};{};{}
+read_from_stdin;000281.004;shell.c;281.19;0x0;{int};{};{};{}
+redir;000471.018;y.tab.c;471.23;0x8;{REDIRECTEE};{};{};{}
+redir_stack;000418.017;y.tab.c;418.28;0x8;{REDIRECT *[]};{};{};{}
+redirection_undo_list;000066.017;redir.c;66.38;0x0;{REDIRECT *};{};{};{}
+redirection_undo_list;000078.017;builtins/exec.c;78.38;0x0;{REDIRECT *};{};{};{}
+redirection_undo_list;000227.010;execute_cmd.c;227.31;0x0;{REDIRECT *};{};{};{}
+release_status;000040.019;version.c;40.33;0x0;{const char *const };{};{};{}
+release_status;000042.019;version.c;42.33;0x0;{const char *const };{};{};{}
+release_status;000090.028;variables.c;90.42;0x0;{char *};{};{};{}
+release_status;000098.028;shell.c;98.42;0x0;{char *};{};{};{}
+remember_on_history;000033.011;bashhist.h;33.30;0x0;{int};{};{};{}
+remember_on_history;000086.004;bashhist.c;86.23;0x0;{int};{};{};{}
+rest_of_args;000089.018;shell.h;89.30;0x0;{WORD_LIST *};{};{};{}
+rest_of_args;000141.011;variables.c;141.23;0x0;{WORD_LIST *};{};{};{}
+restricted;000065.011;flags.h;65.21;0x0;{int};{};{};{}
+restricted;000140.004;flags.c;140.14;0x0;{int};{};{};{}
+restricted_shell;000066.011;flags.h;66.27;0x0;{int};{};{};{}
+restricted_shell;000141.004;flags.c;141.20;0x0;{int};{};{};{}
+retcode_name_buffer;000319.012;jobs.c;319.31;0x8;{char []};{};{};{}
+return_catch;000028.017;bashjmp.h;28.29;0x0;{procenv_t};{};{};{}
+return_catch;000216.010;execute_cmd.c;216.22;0x0;{procenv_t};{};{};{}
+return_catch_flag;000054.011;builtins/return.c;54.28;0x0;{int};{};{};{}
+return_catch_flag;000057.011;sig.c;57.28;0x0;{int};{};{};{}
+return_catch_flag;000071.011;builtins/evalfile.c;71.28;0x0;{int};{};{};{}
+return_catch_flag;000087.011;trap.c;87.28;0x0;{int};{};{};{}
+return_catch_flag;000160.011;subst.c;160.28;0x0;{int};{};{};{}
+return_catch_flag;000214.004;execute_cmd.c;214.21;0x0;{int};{};{};{}
+return_catch_value;000054.030;builtins/return.c;54.48;0x0;{int};{};{};{}
+return_catch_value;000071.030;builtins/evalfile.c;71.48;0x0;{int};{};{};{}
+return_catch_value;000087.030;trap.c;87.48;0x0;{int};{};{};{}
+return_catch_value;000160.030;subst.c;160.48;0x0;{int};{};{};{}
+return_catch_value;000215.004;execute_cmd.c;215.22;0x0;{int};{};{};{}
+retval;000213.011;builtins/printf.c;213.17;0x8;{int};{};{};{}
+rl_already_prompted;000187.004;lib/readline/readline.c;187.23;0x0;{int};{};{};{}
+rl_already_prompted;000585.011;lib/readline/readline.h;585.30;0x0;{int};{};{};{}
+rl_arg_sign;000137.004;lib/readline/readline.c;137.15;0x0;{int};{};{};{}
+rl_arg_sign;000179.011;lib/readline/rlprivate.h;179.22;0x0;{int};{};{};{}
+rl_attempted_completion_function;000239.022;lib/readline/complete.c;239.54;0x0;{rl_completion_func_t *};{};{};{}
+rl_attempted_completion_function;000631.029;lib/readline/readline.h;631.61;0x0;{rl_completion_func_t *};{};{};{}
+rl_attempted_completion_over;000243.004;lib/readline/complete.c;243.32;0x0;{int};{};{};{}
+rl_attempted_completion_over;000742.011;lib/readline/readline.h;742.39;0x0;{int};{};{};{}
+rl_basic_quote_characters;000264.012;lib/readline/complete.c;264.37;0x0;{const char *};{};{};{}
+rl_basic_quote_characters;000655.019;lib/readline/readline.h;655.44;0x0;{const char *};{};{};{}
+rl_basic_word_break_characters;000261.012;lib/readline/complete.c;261.42;0x0;{const char *};{};{};{}
+rl_basic_word_break_characters;000636.019;lib/readline/readline.h;636.49;0x0;{const char *};{};{};{}
+rl_binding_keymap;000073.007;lib/readline/bind.c;73.24;0x0;{Keymap};{};{};{}
+rl_binding_keymap;000574.014;lib/readline/readline.h;574.31;0x0;{Keymap};{};{};{}
+rl_blink_matching_paren;000061.004;lib/readline/parens.c;61.27;0x0;{int};{};{};{}
+rl_blink_matching_paren;000063.004;lib/readline/parens.c;63.27;0x0;{int};{};{};{}
+rl_blink_matching_paren;000188.011;lib/readline/rlprivate.h;188.34;0x0;{int};{};{};{}
+rl_byte_oriented;000062.004;lib/readline/mbutil.c;62.20;0x0;{int};{};{};{}
+rl_byte_oriented;000064.004;lib/readline/mbutil.c;64.20;0x0;{int};{};{};{}
+rl_byte_oriented;000152.011;lib/readline/rlmbutil.h;152.27;0x0;{int};{};{};{}
+rl_byte_oriented;000182.011;lib/readline/rlprivate.h;182.27;0x0;{int};{};{};{}
+rl_catch_signals;000091.004;lib/readline/signals.c;91.20;0x0;{int};{};{};{}
+rl_catch_signals;000597.011;lib/readline/readline.h;597.27;0x0;{int};{};{};{}
+rl_catch_sigwinch;000095.004;lib/readline/signals.c;95.21;0x0;{int};{};{};{}
+rl_catch_sigwinch;000097.004;lib/readline/signals.c;97.21;0x0;{int};{};{};{}
+rl_catch_sigwinch;000604.011;lib/readline/readline.h;604.28;0x0;{int};{};{};{}
+rl_char_is_quoted_p;000331.019;lib/readline/complete.c;331.38;0x0;{rl_linebuf_func_t *};{};{};{}
+rl_char_is_quoted_p;000738.026;lib/readline/readline.h;738.45;0x0;{rl_linebuf_func_t *};{};{};{}
+rl_complete_with_tilde_expansion;000172.011;lib/readline/rlprivate.h;172.43;0x0;{int};{};{};{}
+rl_complete_with_tilde_expansion;000221.004;lib/readline/complete.c;221.36;0x0;{int};{};{};{}
+rl_completer_quote_characters;000280.012;lib/readline/complete.c;280.41;0x0;{const char *};{};{};{}
+rl_completer_quote_characters;000652.019;lib/readline/readline.h;652.48;0x0;{const char *};{};{};{}
+rl_completer_word_break_characters;000269.016;lib/readline/complete.c;269.50;0x0;{char *};{};{};{}
+rl_completer_word_break_characters;000641.023;lib/readline/readline.h;641.57;0x0;{char *};{};{};{}
+rl_completion_append_character;000340.004;lib/readline/complete.c;340.34;0x0;{int};{};{};{}
+rl_completion_append_character;000759.011;lib/readline/readline.h;759.41;0x0;{int};{};{};{}
+rl_completion_display_matches_hook;000095.020;lib/readline/complete.c;95.54;0x0;{rl_compdisp_func_t *};{};{};{}
+rl_completion_display_matches_hook;000710.027;lib/readline/readline.h;710.61;0x0;{rl_compdisp_func_t *};{};{};{}
+rl_completion_entry_function;000226.021;lib/readline/complete.c;226.49;0x0;{rl_compentry_func_t *};{};{};{}
+rl_completion_entry_function;000610.028;lib/readline/readline.h;610.56;0x0;{rl_compentry_func_t *};{};{};{}
+rl_completion_found_quote;000353.004;lib/readline/complete.c;353.29;0x0;{int};{};{};{}
+rl_completion_found_quote;000771.011;lib/readline/readline.h;771.36;0x0;{int};{};{};{}
+rl_completion_invoking_key;000370.004;lib/readline/complete.c;370.30;0x0;{int};{};{};{}
+rl_completion_invoking_key;000750.011;lib/readline/readline.h;750.37;0x0;{int};{};{};{}
+rl_completion_mark_symlink_dirs;000364.004;lib/readline/complete.c;364.35;0x0;{int};{};{};{}
+rl_completion_mark_symlink_dirs;000790.011;lib/readline/readline.h;790.42;0x0;{int};{};{};{}
+rl_completion_query_items;000254.004;lib/readline/complete.c;254.29;0x0;{int};{};{};{}
+rl_completion_query_items;000755.011;lib/readline/readline.h;755.36;0x0;{int};{};{};{}
+rl_completion_quote_character;000349.004;lib/readline/complete.c;349.33;0x0;{int};{};{};{}
+rl_completion_quote_character;000767.011;lib/readline/readline.h;767.40;0x0;{int};{};{};{}
+rl_completion_suppress_append;000336.004;lib/readline/complete.c;336.33;0x0;{int};{};{};{}
+rl_completion_suppress_append;000763.011;lib/readline/readline.h;763.40;0x0;{int};{};{};{}
+rl_completion_suppress_quote;000345.004;lib/readline/complete.c;345.32;0x0;{int};{};{};{}
+rl_completion_suppress_quote;000776.011;lib/readline/readline.h;776.39;0x0;{int};{};{};{}
+rl_completion_type;000248.004;lib/readline/complete.c;248.22;0x0;{int};{};{};{}
+rl_completion_type;000747.011;lib/readline/readline.h;747.29;0x0;{int};{};{};{}
+rl_completion_word_break_hook;000274.014;lib/readline/complete.c;274.43;0x0;{rl_cpvfunc_t *};{};{};{}
+rl_completion_word_break_hook;000646.021;lib/readline/readline.h;646.50;0x0;{rl_cpvfunc_t *};{};{};{}
+rl_deprep_term_function;000053.015;lib/readline/rltty.c;53.38;0x0;{rl_voidfunc_t *};{};{};{}
+rl_deprep_term_function;000570.022;lib/readline/readline.h;570.45;0x0;{rl_voidfunc_t *};{};{};{}
+rl_directory_completion_hook;000205.015;lib/readline/complete.c;205.43;0x0;{rl_icppfunc_t *};{};{};{}
+rl_directory_completion_hook;000674.022;lib/readline/readline.h;674.50;0x0;{rl_icppfunc_t *};{};{};{}
+rl_directory_rewrite_hook;000207.015;lib/readline/complete.c;207.40;0x0;{rl_icppfunc_t *};{};{};{}
+rl_directory_rewrite_hook;000687.022;lib/readline/readline.h;687.47;0x0;{rl_icppfunc_t *};{};{};{}
+rl_dispatching;000059.020;bashhist.c;59.34;0x0;{int};{};{};{}
+rl_dispatching;000125.004;lib/readline/readline.c;125.18;0x0;{int};{};{};{}
+rl_dispatching;000526.011;lib/readline/readline.h;526.25;0x0;{int};{};{};{}
+rl_display_fixed;000147.004;lib/readline/display.c;147.20;0x0;{int};{};{};{}
+rl_display_fixed;000185.011;lib/readline/rlprivate.h;185.27;0x0;{int};{};{};{}
+rl_display_prompt;000154.006;lib/readline/display.c;154.23;0x0;{char *};{};{};{}
+rl_display_prompt;000504.013;lib/readline/readline.h;504.30;0x0;{char *};{};{};{}
+rl_done;000059.011;bashhist.c;59.18;0x0;{int};{};{};{}
+rl_done;000160.004;lib/readline/readline.c;160.11;0x0;{int};{};{};{}
+rl_done;000518.011;lib/readline/readline.h;518.18;0x0;{int};{};{};{}
+rl_editing_mode;000117.004;lib/readline/readline.c;117.19;0x0;{int};{};{};{}
+rl_editing_mode;000488.011;lib/readline/readline.h;488.26;0x0;{int};{};{};{}
+rl_end;000157.004;lib/readline/readline.c;157.10;0x0;{int};{};{};{}
+rl_end;000511.011;lib/readline/readline.h;511.17;0x0;{int};{};{};{}
+rl_erase_empty_line;000235.004;lib/readline/readline.c;235.23;0x0;{int};{};{};{}
+rl_erase_empty_line;000580.011;lib/readline/readline.h;580.30;0x0;{int};{};{};{}
+rl_event_hook;000079.016;lib/readline/input.c;79.29;0x0;{rl_hook_func_t *};{};{};{}
+rl_event_hook;000561.023;lib/readline/readline.h;561.36;0x0;{rl_hook_func_t *};{};{};{}
+rl_executing_keymap;000229.007;lib/readline/readline.c;229.26;0x0;{Keymap};{};{};{}
+rl_executing_keymap;000573.014;lib/readline/readline.h;573.33;0x0;{Keymap};{};{};{}
+rl_executing_macro;000060.006;lib/readline/macro.c;60.24;0x0;{char *};{};{};{}
+rl_executing_macro;000592.013;lib/readline/readline.h;592.31;0x0;{char *};{};{};{}
+rl_explicit_arg;000134.004;lib/readline/readline.c;134.19;0x0;{int};{};{};{}
+rl_explicit_arg;000530.011;lib/readline/readline.h;530.26;0x0;{int};{};{};{}
+rl_filename_completion_desired;000296.004;lib/readline/complete.c;296.34;0x0;{int};{};{};{}
+rl_filename_completion_desired;000715.011;lib/readline/readline.h;715.41;0x0;{int};{};{};{}
+rl_filename_dequoting_function;000326.019;lib/readline/complete.c;326.49;0x0;{rl_dequote_func_t *};{};{};{}
+rl_filename_dequoting_function;000733.026;lib/readline/readline.h;733.56;0x0;{rl_dequote_func_t *};{};{};{}
+rl_filename_quote_characters;000283.012;lib/readline/complete.c;283.40;0x0;{const char *};{};{};{}
+rl_filename_quote_characters;000658.019;lib/readline/readline.h;658.47;0x0;{const char *};{};{};{}
+rl_filename_quoting_desired;000303.004;lib/readline/complete.c;303.31;0x0;{int};{};{};{}
+rl_filename_quoting_desired;000722.011;lib/readline/readline.h;722.38;0x0;{int};{};{};{}
+rl_filename_quoting_function;000320.017;lib/readline/complete.c;320.45;0x0;{rl_quote_func_t *};{};{};{}
+rl_filename_quoting_function;000728.024;lib/readline/readline.h;728.52;0x0;{rl_quote_func_t *};{};{};{}
+rl_filename_rewrite_hook;000218.019;lib/readline/complete.c;218.43;0x0;{rl_dequote_func_t *};{};{};{}
+rl_filename_rewrite_hook;000698.026;lib/readline/readline.h;698.50;0x0;{rl_dequote_func_t *};{};{};{}
+rl_getc_function;000081.016;lib/readline/input.c;81.32;0x0;{rl_getc_func_t *};{};{};{}
+rl_getc_function;000565.023;lib/readline/readline.h;565.39;0x0;{rl_getc_func_t *};{};{};{}
+rl_gnu_readline_p;000109.004;lib/readline/readline.c;109.21;0x0;{int};{};{};{}
+rl_gnu_readline_p;000481.011;lib/readline/readline.h;481.28;0x0;{int};{};{};{}
+rl_history_search_len;000067.011;lib/readline/search.c;67.32;0x8;{int};{};{};{}
+rl_history_search_pos;000068.011;lib/readline/search.c;68.32;0x8;{int};{};{};{}
+rl_ignore_completion_duplicates;000291.004;lib/readline/complete.c;291.35;0x0;{int};{};{};{}
+rl_ignore_completion_duplicates;000793.011;lib/readline/readline.h;793.42;0x0;{int};{};{};{}
+rl_ignore_some_completions_function;000314.022;lib/readline/complete.c;314.57;0x0;{rl_compignore_func_t *};{};{};{}
+rl_ignore_some_completions_function;000622.029;lib/readline/readline.h;622.64;0x0;{rl_compignore_func_t *};{};{};{}
+rl_inhibit_completion;000367.004;lib/readline/complete.c;367.25;0x0;{int};{};{};{}
+rl_inhibit_completion;000797.011;lib/readline/readline.h;797.32;0x0;{int};{};{};{}
+rl_initialized;000140.011;lib/readline/readline.c;140.25;0x8;{int};{};{};{}
+rl_insert_mode;000120.004;lib/readline/readline.c;120.18;0x0;{int};{};{};{}
+rl_insert_mode;000492.011;lib/readline/readline.h;492.25;0x0;{int};{};{};{}
+rl_instream;000172.006;lib/readline/readline.c;172.17;0x0;{FILE *};{};{};{}
+rl_instream;000542.013;lib/readline/readline.h;542.24;0x0;{FILE *};{};{};{}
+rl_key_sequence_length;000181.011;lib/readline/rlprivate.h;181.33;0x0;{int};{};{};{}
+rl_key_sequence_length;000190.004;lib/readline/readline.c;190.26;0x0;{int};{};{};{}
+rl_kill_index;000068.011;lib/readline/kill.c;68.24;0x8;{int};{};{};{}
+rl_kill_ring;000065.014;lib/readline/kill.c;65.26;0x8;{char **};{};{};{}
+rl_kill_ring_length;000071.011;lib/readline/kill.c;71.30;0x8;{int};{};{};{}
+rl_last_func;000163.019;lib/readline/readline.c;163.31;0x0;{rl_command_func_t *};{};{};{}
+rl_last_func;000536.026;lib/readline/readline.h;536.38;0x0;{rl_command_func_t *};{};{};{}
+rl_library_version;000104.012;lib/readline/readline.c;104.30;0x0;{const char *};{};{};{}
+rl_library_version;000477.019;lib/readline/readline.h;477.37;0x0;{const char *};{};{};{}
+rl_line_buffer;000242.006;lib/readline/readline.c;242.20;0x0;{char *};{};{};{}
+rl_line_buffer;000507.013;lib/readline/readline.h;507.27;0x0;{char *};{};{};{}
+rl_line_buffer_len;000178.011;lib/readline/rlprivate.h;178.29;0x0;{int};{};{};{}
+rl_line_buffer_len;000243.004;lib/readline/readline.c;243.22;0x0;{int};{};{};{}
+rl_linefunc;000068.014;lib/readline/callback.c;68.25;0x0;{rl_vcpfunc_t *};{};{};{}
+rl_mark;000154.004;lib/readline/readline.c;154.11;0x0;{int};{};{};{}
+rl_mark;000514.011;lib/readline/readline.h;514.18;0x0;{int};{};{};{}
+rl_max_kills;000062.011;lib/readline/kill.c;62.23;0x8;{int};{};{};{}
+rl_menu_completion_entry_function;000230.021;lib/readline/complete.c;230.54;0x0;{rl_compentry_func_t *};{};{};{}
+rl_menu_completion_entry_function;000614.029;lib/readline/readline.h;614.62;0x0;{rl_compentry_func_t *};{};{};{}
+rl_num_chars_to_read;000239.004;lib/readline/readline.c;239.24;0x0;{int};{};{};{}
+rl_num_chars_to_read;000589.011;lib/readline/readline.h;589.31;0x0;{int};{};{};{}
+rl_numeric_arg;000131.004;lib/readline/readline.c;131.18;0x0;{int};{};{};{}
+rl_numeric_arg;000533.011;lib/readline/readline.h;533.25;0x0;{int};{};{};{}
+rl_outstream;000173.006;lib/readline/readline.c;173.18;0x0;{FILE *};{};{};{}
+rl_outstream;000543.013;lib/readline/readline.h;543.25;0x0;{FILE *};{};{};{}
+rl_pending_input;000209.004;lib/readline/readline.c;209.20;0x0;{int};{};{};{}
+rl_pending_input;000521.011;lib/readline/readline.h;521.27;0x0;{int};{};{};{}
+rl_point;000151.004;lib/readline/readline.c;151.12;0x0;{int};{};{};{}
+rl_point;000510.011;lib/readline/readline.h;510.19;0x0;{int};{};{};{}
+rl_pre_input_hook;000199.016;lib/readline/readline.c;199.33;0x0;{rl_hook_func_t *};{};{};{}
+rl_pre_input_hook;000557.023;lib/readline/readline.h;557.40;0x0;{rl_hook_func_t *};{};{};{}
+rl_prefer_env_winsize;000086.004;lib/readline/terminal.c;86.25;0x0;{int};{};{};{}
+rl_prefer_env_winsize;000548.011;lib/readline/readline.h;548.32;0x0;{int};{};{};{}
+rl_prep_term_function;000052.015;lib/readline/rltty.c;52.36;0x0;{rl_vintfunc_t *};{};{};{}
+rl_prep_term_function;000569.022;lib/readline/readline.h;569.43;0x0;{rl_vintfunc_t *};{};{};{}
+rl_prompt;000182.006;lib/readline/readline.c;182.15;0x0;{char *};{};{};{}
+rl_prompt;000500.013;lib/readline/readline.h;500.22;0x0;{char *};{};{};{}
+rl_readline_name;000496.019;lib/readline/readline.h;496.35;0x0;{const char *};{};{};{}
+rl_readline_name;000959.012;lib/readline/bind.c;959.28;0x0;{const char *};{};{};{}
+rl_readline_state;000148.004;lib/readline/readline.c;148.21;0x0;{int};{};{};{}
+rl_readline_state;000484.011;lib/readline/readline.h;484.28;0x0;{int};{};{};{}
+rl_readline_version;000106.004;lib/readline/readline.c;106.23;0x0;{int};{};{};{}
+rl_readline_version;000478.011;lib/readline/readline.h;478.30;0x0;{int};{};{};{}
+rl_redisplay_function;000143.015;lib/readline/display.c;143.36;0x0;{rl_voidfunc_t *};{};{};{}
+rl_redisplay_function;000567.022;lib/readline/readline.h;567.43;0x0;{rl_voidfunc_t *};{};{};{}
+rl_sort_completion_matches;000373.004;lib/readline/complete.c;373.30;0x0;{int};{};{};{}
+rl_sort_completion_matches;000779.011;lib/readline/readline.h;779.37;0x0;{int};{};{};{}
+rl_special_prefixes;000288.012;lib/readline/complete.c;288.31;0x0;{const char *};{};{};{}
+rl_special_prefixes;000663.019;lib/readline/readline.h;663.38;0x0;{const char *};{};{};{}
+rl_startup_hook;000194.016;lib/readline/readline.c;194.31;0x0;{rl_hook_func_t *};{};{};{}
+rl_startup_hook;000552.023;lib/readline/readline.h;552.38;0x0;{rl_hook_func_t *};{};{};{}
+rl_terminal_name;000212.012;lib/readline/readline.c;212.28;0x0;{const char *};{};{};{}
+rl_terminal_name;000539.019;lib/readline/readline.h;539.35;0x0;{const char *};{};{};{}
+rl_undo_list;000063.011;lib/readline/undo.c;63.23;0x0;{UNDO_LIST *};{};{};{}
+rl_undo_list;000065.018;lib/readline/readline.h;65.30;0x0;{UNDO_LIST *};{};{};{}
+rl_visible_prompt_length;000180.011;lib/readline/rlprivate.h;180.35;0x0;{int};{};{};{}
+rl_visible_prompt_length;000183.004;lib/readline/readline.c;183.28;0x0;{int};{};{};{}
+rl_visible_stats;000174.011;lib/readline/rlprivate.h;174.27;0x0;{int};{};{};{}
+rl_visible_stats;000189.004;lib/readline/complete.c;189.20;0x0;{int};{};{};{}
+root;000250.013;lib/intl/dcigettext.c;250.17;0x8;{void *};{};{};{}
+rseed;001226.021;variables.c;1226.26;0x8;{unsigned long};{};{};{}
+running_setuid;000206.011;shell.c;206.25;0x8;{int};{};{};{}
+running_trap;000051.011;builtins/exit.c;51.23;0x0;{int};{};{};{}
+running_trap;000067.011;builtins/evalstring.c;67.23;0x0;{int};{};{};{}
+running_trap;000073.011;builtins/common.c;73.23;0x0;{int};{};{};{}
+running_trap;000106.036;execute_cmd.c;106.48;0x0;{int};{};{};{}
+running_trap;000108.004;trap.c;108.16;0x0;{int};{};{};{}
+running_trap;000154.011;jobs.c;154.23;0x0;{int};{};{};{}
+running_under_emacs;000051.033;eval.c;51.52;0x0;{int};{};{};{}
+running_under_emacs;000184.004;shell.c;184.23;0x0;{int};{};{};{}
+running_under_emacs;000267.028;y.tab.c;267.47;0x0;{int};{};{};{}
+saved_already_making_children;000311.011;jobs.c;311.40;0x8;{int};{};{};{}
+saved_builtins;000141.007;builtins/mkbuiltins.c;141.21;0x0;{ARRAY *};{};{};{}
+saved_command_line_count;000088.039;builtins/fc.c;88.63;0x0;{int};{};{};{}
+saved_command_line_count;000178.039;bashline.c;178.63;0x0;{int};{};{};{}
+saved_command_line_count;000405.004;y.tab.c;405.28;0x0;{int};{};{};{}
+saved_history_line_to_use;000813.011;bashline.c;813.36;0x8;{int};{};{};{}
+saved_invis_chars_first_line;000232.011;lib/readline/display.c;232.39;0x8;{int};{};{};{}
+saved_last_invisible;000228.011;lib/readline/display.c;228.31;0x8;{int};{};{};{}
+saved_local_length;000231.011;lib/readline/display.c;231.29;0x8;{int};{};{};{}
+saved_local_prefix;000227.013;lib/readline/display.c;227.31;0x8;{char *};{};{};{}
+saved_local_prompt;000226.013;lib/readline/display.c;226.31;0x8;{char *};{};{};{}
+saved_physical_chars;000233.011;lib/readline/display.c;233.31;0x8;{int};{};{};{}
+saved_pipeline;000310.016;jobs.c;310.30;0x8;{PROCESS *};{};{};{}
+saved_prefix_length;000230.011;lib/readline/display.c;230.30;0x8;{int};{};{};{}
+saved_visible_length;000229.011;lib/readline/display.c;229.31;0x8;{int};{};{};{}
+scaninbuff;000419.011;support/man2html.c;419.21;0x8;{int};{};{};{}
+sccs_version;000044.019;version.c;44.31;0x0;{const char *const };{};{};{}
+sccsid;000061.012;lib/sh/inet_aton.c;61.18;0x8;{char []};{};{};{}
+search_match;000117.013;lib/readline/histexpand.c;117.25;0x8;{char *};{};{};{}
+search_string;000114.013;lib/readline/histexpand.c;114.26;0x8;{char *};{};{};{}
+secondary_prompt;000092.030;variables.c;92.46;0x0;{char *};{};{};{}
+secondary_prompt;000107.030;shell.c;107.46;0x0;{char *};{};{};{}
+secondary_prompt;000377.006;y.tab.c;377.22;0x0;{char *};{};{};{}
+seconds_value_assigned;001178.016;variables.c;1178.38;0x8;{intmax_t};{};{};{}
+seeded_subshell;001228.011;variables.c;1228.26;0x8;{int};{};{};{}
+separate_helpfiles;000090.004;builtins/mkbuiltins.c;90.22;0x0;{int};{};{};{}
+sequences;000034.000;builtins/printf.c;34.9;0x0;{escape};{};{};{}
+sh_badopt;000060.011;builtins/getopt.h;60.20;0x0;{int};{};{};{}
+sh_badopt;000081.004;builtins/getopt.c;81.13;0x0;{int};{};{};{}
+sh_charindex;000067.011;builtins/getopt.c;67.23;0x8;{int};{};{};{}
+sh_coproc;000366.014;command.h;366.23;0x0;{Coproc};{};{};{}
+sh_coproc;001555.007;execute_cmd.c;1555.16;0x0;{Coproc};{};{};{}
+sh_curopt;000057.011;builtins/getopt.c;57.20;0x8;{int};{};{};{}
+sh_optarg;000034.013;builtins/getopt.h;34.22;0x0;{char *};{};{};{}
+sh_optarg;000039.006;builtins/getopt.c;39.15;0x0;{char *};{};{};{}
+sh_opterr;000053.011;builtins/getopt.h;53.20;0x0;{int};{};{};{}
+sh_opterr;000072.004;builtins/getopt.c;72.13;0x0;{int};{};{};{}
+sh_optind;000048.011;builtins/getopt.h;48.20;0x0;{int};{};{};{}
+sh_optind;000054.004;builtins/getopt.c;54.13;0x0;{int};{};{};{}
+sh_optopt;000057.011;builtins/getopt.h;57.20;0x0;{int};{};{};{}
+sh_optopt;000078.004;builtins/getopt.c;78.13;0x0;{int};{};{};{}
+sh_syntabsiz;000069.011;syntax.h;69.23;0x0;{int};{};{};{}
+sh_syntaxtab;000068.011;syntax.h;68.23;0x0;{int []};{};{};{}
+shared_library_fullname;000273.013;lib/intl/relocatable.c;273.36;0x8;{char *};{};{};{}
+shell_builtins;000060.023;builtins.h;60.37;0x0;{builtin *};{};{};{}
+shell_compatibility_level;000050.004;version.c;50.29;0x0;{int};{};{};{}
+shell_compatibility_level;000097.011;shell.h;97.36;0x0;{int};{};{};{}
+shell_environment;000088.014;shell.h;88.31;0x0;{char **};{};{};{}
+shell_environment;000166.007;shell.c;166.24;0x0;{char **};{};{};{}
+shell_eof_token;000065.026;builtins/evalstring.c;65.41;0x0;{int};{};{};{}
+shell_eof_token;000408.004;y.tab.c;408.19;0x0;{int};{};{};{}
+shell_function_defs;000123.012;variables.c;123.31;0x0;{HASH_TABLE *};{};{};{}
+shell_functions;000118.012;variables.c;118.27;0x0;{HASH_TABLE *};{};{};{}
+shell_functions;000216.019;variables.h;216.34;0x0;{HASH_TABLE *};{};{};{}
+shell_initialized;000042.011;flags.c;42.28;0x0;{int};{};{};{}
+shell_initialized;000061.036;sig.c;61.53;0x0;{int};{};{};{}
+shell_initialized;000112.004;shell.c;112.21;0x0;{int};{};{};{}
+shell_input_line;000423.013;y.tab.c;423.29;0x8;{char *};{};{};{}
+shell_input_line_index;000424.011;y.tab.c;424.33;0x8;{int};{};{};{}
+shell_input_line_len;000426.011;y.tab.c;426.31;0x8;{int};{};{};{}
+shell_input_line_property;000364.013;y.tab.c;364.38;0x8;{char *};{};{};{}
+shell_input_line_size;000425.011;y.tab.c;425.32;0x8;{int};{};{};{}
+shell_input_line_terminator;000429.011;y.tab.c;429.38;0x8;{int};{};{};{}
+shell_level;000100.011;shell.c;100.22;0x0;{int};{};{};{}
+shell_level;000149.028;jobs.c;149.39;0x0;{int};{};{};{}
+shell_level;000151.004;variables.c;151.15;0x0;{int};{};{};{}
+shell_ltchars;001949.022;jobs.c;1949.35;0x8;{ltchars};{};{};{}
+shell_name;000033.013;version.c;33.23;0x0;{char *};{};{};{}
+shell_name;000039.013;flags.c;39.23;0x0;{char *};{};{};{}
+shell_name;000053.006;support/bashversion.c;53.16;0x0;{char *};{};{};{}
+shell_name;000057.013;error.c;57.23;0x0;{char *};{};{};{}
+shell_name;000075.033;builtins/common.c;75.43;0x0;{char *};{};{};{}
+shell_name;000091.013;variables.c;91.23;0x0;{char *};{};{};{}
+shell_name;000107.013;builtins/shopt.c;107.23;0x0;{char *};{};{};{}
+shell_name;000111.035;execute_cmd.c;111.45;0x0;{char *};{};{};{}
+shell_name;000156.013;jobs.c;156.23;0x0;{char *};{};{};{}
+shell_name;000178.006;shell.c;178.16;0x0;{char *};{};{};{}
+shell_name;000273.013;y.tab.c;273.23;0x0;{char *};{};{};{}
+shell_pgrp;000059.013;error.c;59.23;0x0;{pid_t};{};{};{}
+shell_pgrp;000167.028;jobs.h;167.38;0x0;{pid_t};{};{};{}
+shell_pgrp;000179.006;jobs.c;179.16;0x0;{pid_t};{};{};{}
+shell_reinitialized;000289.011;shell.c;289.30;0x8;{int};{};{};{}
+shell_start_time;000044.014;mailcheck.c;44.30;0x0;{time_t};{};{};{}
+shell_start_time;000099.014;variables.c;99.30;0x0;{time_t};{};{};{}
+shell_start_time;000116.014;execute_cmd.c;116.30;0x0;{time_t};{};{};{}
+shell_start_time;000175.014;builtins/printf.c;175.30;0x0;{time_t};{};{};{}
+shell_start_time;000181.007;shell.c;181.23;0x0;{time_t};{};{};{}
+shell_tchars;001948.021;jobs.c;1948.33;0x8;{tchars};{};{};{}
+shell_tty;000066.011;lib/sh/winsize.c;66.20;0x0;{int};{};{};{}
+shell_tty;000093.004;nojobs.c;93.13;0x0;{int};{};{};{}
+shell_tty;000176.004;jobs.c;176.13;0x0;{int};{};{};{}
+shell_tty_info;000847.017;nojobs.c;847.31;0x8;{TTYSTRUCT};{};{};{}
+shell_tty_info;001945.017;jobs.c;1945.31;0x8;{TTYSTRUCT};{};{};{}
+shell_variables;000114.013;variables.c;114.28;0x0;{VAR_CONTEXT *};{};{};{}
+shell_variables;000214.020;variables.h;214.35;0x0;{VAR_CONTEXT *};{};{};{}
+shopt_alist;000293.025;shell.c;293.36;0x8;{STRING_INT_ALIST *};{};{};{}
+shopt_compat31;000125.011;builtins/shopt.c;125.25;0x8;{int};{};{};{}
+shopt_compat32;000126.011;builtins/shopt.c;126.25;0x8;{int};{};{};{}
+shopt_compat40;000127.011;builtins/shopt.c;127.25;0x8;{int};{};{};{}
+shopt_compat41;000128.011;builtins/shopt.c;128.25;0x8;{int};{};{};{}
+shopt_ind;000294.011;shell.c;294.20;0x8;{int};{};{};{}
+shopt_len;000294.026;shell.c;294.35;0x8;{int};{};{};{}
+shopt_login_shell;000124.011;builtins/shopt.c;124.28;0x8;{int};{};{};{}
+shopt_vars;000136.002;builtins/shopt.c;136.12;0x8;{anonymous []};{};{};{}
+showing_function_line;000273.011;execute_cmd.c;273.32;0x8;{int};{};{};{}
+sigchld;000294.011;jobs.c;294.18;0x8;{int};{};{};{}
+sigint_blocked;000532.011;lib/readline/signals.c;532.25;0x8;{int};{};{};{}
+sigint_oldmask;000527.011;lib/readline/signals.c;527.25;0x8;{int};{};{};{}
+sigint_oset;000523.028;lib/readline/signals.c;523.39;0x8;{sigset_t};{};{};{}
+sigint_set;000523.016;lib/readline/signals.c;523.26;0x8;{sigset_t};{};{};{}
+sigmodes;000066.011;trap.c;66.19;0x8;{int []};{};{};{}
+signal_names;000043.013;support/mksignames.c;43.25;0x0;{char *[]};{};{};{}
+signal_names;000047.006;support/signames.c;47.18;0x0;{char *[]};{};{};{}
+signal_names;000084.013;pcomplete.c;84.25;0x0;{char *[]};{};{};{}
+signals_set_flag;000112.011;lib/readline/signals.c;112.27;0x8;{int};{};{};{}
+signature;000109.008;support/man2html.c;109.17;0x0;{char *};{};{};{}
+sigstty;000934.015;lib/readline/rltty.c;934.22;0x8;{TIOTYPE};{};{};{}
+sigwinch_blocked;000533.011;lib/readline/signals.c;533.27;0x8;{int};{};{};{}
+sigwinch_oldmask;000528.011;lib/readline/signals.c;528.27;0x8;{int};{};{};{}
+sigwinch_oset;000524.030;lib/readline/signals.c;524.43;0x8;{sigset_t};{};{};{}
+sigwinch_received;000072.013;sig.c;72.30;0x100;{volatile int};{};{};{}
+sigwinch_received;000112.020;sig.h;112.37;0x100;{volatile int};{};{};{}
+sigwinch_set;000524.016;lib/readline/signals.c;524.28;0x8;{sigset_t};{};{};{}
+sigwinch_set_flag;000113.011;lib/readline/signals.c;113.28;0x8;{int};{};{};{}
+single_escape;000928.011;support/man2html.c;928.24;0x8;{int};{};{};{}
+single_longdoc_strings;000094.004;builtins/mkbuiltins.c;94.26;0x0;{int};{};{};{}
+sizebuf;000867.012;support/man2html.c;867.19;0x8;{char []};{};{};{}
+skip_escape;000927.011;support/man2html.c;927.22;0x8;{int};{};{};{}
+skip_this_indent;000124.011;print_cmd.c;124.27;0x8;{int};{};{};{}
+source;000470.018;y.tab.c;470.24;0x8;{REDIRECTEE};{};{};{}
+source_searches_cwd;000054.011;general.c;54.30;0x0;{int};{};{};{}
+source_searches_cwd;000093.004;builtins/source.c;93.23;0x0;{int};{};{};{}
+source_uses_path;000053.011;general.c;53.27;0x0;{int};{};{};{}
+source_uses_path;000074.038;builtins/shopt.c;74.54;0x0;{int};{};{};{}
+source_uses_path;000089.004;builtins/source.c;89.20;0x0;{int};{};{};{}
+sourced_env;000203.011;shell.c;203.22;0x8;{int};{};{};{}
+sourced_logout;000057.011;builtins/exit.c;57.25;0x8;{int};{};{};{}
+sourcelevel;000076.004;builtins/evalfile.c;76.15;0x0;{int};{};{};{}
+sourcelevel;000106.050;execute_cmd.c;106.61;0x0;{int};{};{};{}
+sourcelevel;000153.011;jobs.c;153.22;0x0;{int};{};{};{}
+sourcelevel;000158.052;subst.c;158.63;0x0;{int};{};{};{}
+sourcelevel;000269.011;y.tab.c;269.22;0x0;{int};{};{};{}
+sp;000037.011;builtins/bashgetopt.c;37.13;0x8;{int};{};{};{}
+special_builtin_failed;000263.011;execute_cmd.c;263.33;0x8;{int};{};{};{}
+special_builtins;000144.006;builtins/mkbuiltins.c;144.22;0x0;{char *[]};{};{};{}
+special_vars;004153.032;variables.c;4153.44;0x8;{name_and_function []};{};{};{}
+specifications;000035.007;builtins/printf.c;35.21;0x0;{format};{};{};{}
+speeds;000300.011;lib/termcap/termcap.c;300.17;0x8;{int []};{};{};{}
+stack_dir;000101.011;lib/malloc/alloca.c;101.20;0x8;{int};{};{};{}
+standardchar;000312.014;support/man2html.c;312.26;0x8;{STRDEF []};{};{};{}
+standardint;000292.014;support/man2html.c;292.25;0x8;{INTDEF []};{};{};{}
+standardstring;000304.014;support/man2html.c;304.28;0x8;{STRDEF []};{};{};{}
+startup_state;000095.011;shell.h;95.24;0x0;{int};{};{};{}
+startup_state;000160.004;shell.c;160.17;0x0;{int};{};{};{}
+static_shell_builtins;000059.022;builtins.h;59.43;0x0;{builtin []};{};{};{}
+statsize;000289.011;jobs.c;289.19;0x8;{int};{};{};{}
+stdin_redir;000052.036;eval.c;52.47;0x0;{int};{};{};{}
+stdin_redir;000202.004;execute_cmd.c;202.15;0x0;{int};{};{};{}
+still_dd;000422.011;support/man2html.c;422.19;0x8;{int};{};{};{}
+strdef;000287.025;support/man2html.c;287.31;0x8;{STRDEF *};{};{};{}
+stream_list;003970.014;y.tab.c;3970.25;0x0;{STREAM_SAVER *};{};{};{}
+string_space_act;000137.014;lib/intl/localealias.c;137.30;0x8;{size_t};{};{};{}
+string_space_max;000138.014;lib/intl/localealias.c;138.30;0x8;{size_t};{};{};{}
+struct_filename;000105.006;builtins/mkbuiltins.c;105.21;0x0;{char *};{};{};{}
+structfile_footer;001129.006;builtins/mkbuiltins.c;1129.23;0x0;{char *[]};{};{};{}
+structfile_header;001089.006;builtins/mkbuiltins.c;1089.23;0x0;{char *[]};{};{};{}
+su_shell;000200.011;shell.c;200.19;0x8;{int};{};{};{}
+subs;002099.011;support/man2html.c;2099.15;0x8;{int};{};{};{}
+subshell_argc;000115.011;execute_cmd.c;115.24;0x0;{int};{};{};{}
+subshell_argc;000269.004;shell.c;269.17;0x0;{int};{};{};{}
+subshell_argv;000114.014;execute_cmd.c;114.27;0x0;{char **};{};{};{}
+subshell_argv;000270.007;shell.c;270.20;0x0;{char **};{};{};{}
+subshell_environment;000051.011;eval.c;51.31;0x0;{int};{};{};{}
+subshell_environment;000052.011;builtins/exit.c;52.31;0x0;{int};{};{};{}
+subshell_environment;000053.011;builtins/return.c;53.31;0x0;{int};{};{};{}
+subshell_environment;000063.011;builtins/command.c;63.31;0x0;{int};{};{};{}
+subshell_environment;000063.030;builtins/evalstring.c;63.50;0x0;{int};{};{};{}
+subshell_environment;000070.030;builtins/common.c;70.50;0x0;{int};{};{};{}
+subshell_environment;000070.030;builtins/evalfile.c;70.50;0x0;{int};{};{};{}
+subshell_environment;000076.011;nojobs.c;76.31;0x0;{int};{};{};{}
+subshell_environment;000077.011;builtins/exec.c;77.31;0x0;{int};{};{};{}
+subshell_environment;000087.011;variables.c;87.31;0x0;{int};{};{};{}
+subshell_environment;000091.011;builtins/fc.c;91.31;0x0;{int};{};{};{}
+subshell_environment;000096.011;shell.h;96.31;0x0;{int};{};{};{}
+subshell_environment;000100.028;builtins/trap.c;100.48;0x0;{int};{};{};{}
+subshell_environment;000101.011;shell.c;101.31;0x0;{int};{};{};{}
+subshell_environment;000148.011;jobs.c;148.31;0x0;{int};{};{};{}
+subshell_environment;000157.011;subst.c;157.31;0x0;{int};{};{};{}
+subshell_environment;000248.004;execute_cmd.c;248.24;0x0;{int};{};{};{}
+subshell_envp;000114.031;execute_cmd.c;114.44;0x0;{char **};{};{};{}
+subshell_envp;000271.007;shell.c;271.20;0x0;{char **};{};{};{}
+subshell_level;000087.052;variables.c;87.66;0x0;{int};{};{};{}
+subshell_level;000088.011;trap.c;88.25;0x0;{int};{};{};{}
+subshell_level;000158.011;subst.c;158.25;0x0;{int};{};{};{}
+subshell_level;000251.004;execute_cmd.c;251.18;0x0;{int};{};{};{}
+subshell_top_level;000027.017;bashjmp.h;27.35;0x0;{procenv_t};{};{};{}
+subshell_top_level;000268.010;shell.c;268.28;0x0;{procenv_t};{};{};{}
+subst_assign_varlist;000089.018;trap.c;89.38;0x0;{WORD_LIST *};{};{};{}
+subst_assign_varlist;000153.011;subst.c;153.31;0x0;{WORD_LIST *};{};{};{}
+subst_assign_varlist;000160.018;jobs.c;160.38;0x0;{WORD_LIST *};{};{};{}
+subst_lhs;000060.013;lib/readline/histexpand.c;60.22;0x8;{char *};{};{};{}
+subst_lhs_len;000062.011;lib/readline/histexpand.c;62.24;0x8;{int};{};{};{}
+subst_rhs;000061.013;lib/readline/histexpand.c;61.22;0x8;{char *};{};{};{}
+subst_rhs_len;000063.011;lib/readline/histexpand.c;63.24;0x8;{int};{};{};{}
+switchfont;000816.013;support/man2html.c;816.23;0x8;{char *[]};{};{};{}
+sys_nerr;000028.011;CWRU/misc/errlist.c;28.19;0x0;{int};{};{};{}
+sys_siglist;000031.013;siglist.h;31.24;0x0;{char *[]};{};{};{}
+sys_siglist;000038.006;siglist.c;38.17;0x0;{char *[]};{};{};{}
+sys_tmpdir;000053.013;lib/sh/tmpfile.c;53.23;0x8;{char *};{};{};{}
+table;000382.012;hashlib.c;382.17;0x0;{HASH_TABLE *};{};{};{}
+table_allocated;000039.011;lib/malloc/table.c;39.26;0x8;{int};{};{};{}
+table_count;000038.011;lib/malloc/table.c;38.22;0x8;{int};{};{};{}
+tableopt;001212.013;support/man2html.c;1212.21;0x8;{char *[]};{};{};{}
+tableoptl;001216.011;support/man2html.c;1216.20;0x8;{int []};{};{};{}
+tabsize;002696.024;execute_cmd.c;2696.31;0x8;{int};{};{};{}
+tabstops;000423.011;support/man2html.c;423.19;0x8;{int []};{};{};{}
+tcap_initialized;000097.011;lib/readline/terminal.c;97.27;0x8;{int};{};{};{}
+tdir;000685.012;general.c;685.16;0x8;{char []};{};{};{}
+temp_dstack;004440.021;y.tab.c;4440.32;0x8;{dstack};{};{};{}
+tempenv_assign_error;000110.011;execute_cmd.c;110.31;0x0;{int};{};{};{}
+tempenv_assign_error;000136.004;variables.c;136.24;0x0;{int};{};{};{}
+tempenv_assign_error;000167.011;subst.c;167.31;0x0;{int};{};{};{}
+temporary_env;000132.012;variables.c;132.25;0x0;{HASH_TABLE *};{};{};{}
+temporary_env;000217.019;variables.h;217.32;0x0;{HASH_TABLE *};{};{};{}
+tempvar_list;003276.007;variables.c;3276.19;0x0;{char **};{};{};{}
+term_buffer;000094.013;lib/readline/terminal.c;94.24;0x8;{char *};{};{};{}
+term_entry;000145.013;lib/termcap/termcap.c;145.23;0x8;{char *};{};{};{}
+term_has_meta;000140.011;lib/readline/terminal.c;140.24;0x8;{int};{};{};{}
+term_string_buffer;000095.013;lib/readline/terminal.c;95.31;0x8;{char *};{};{};{}
+termcap_version_string;000022.013;lib/termcap/version.c;22.35;0x8;{char *};{};{};{}
+terminal_pgrp;000182.006;jobs.c;182.19;0x0;{pid_t};{};{};{}
+terminal_prepped;000064.011;lib/readline/rltty.c;64.27;0x8;{int};{};{};{}
+terminate_immediately;000090.004;sig.c;90.25;0x0;{int};{};{};{}
+terminate_immediately;000115.011;sig.h;115.32;0x0;{int};{};{};{}
+terminating_signal;000026.020;quit.h;26.38;0x100;{volatile int};{};{};{}
+terminating_signal;000075.013;sig.c;75.31;0x100;{volatile int};{};{};{}
+terminating_signals;000124.022;sig.c;124.41;0x8;{termsig []};{};{};{}
+termsigs_initialized;000218.011;sig.c;218.31;0x8;{int};{};{};{}
+test_error_return;000101.011;test.c;101.28;0x8;{int};{};{};{}
+test_exit_buf;000100.017;test.c;100.30;0x8;{procenv_t};{};{};{}
+tgoto_buf;000129.012;lib/termcap/tparam.c;129.21;0x8;{char []};{};{};{}
+th_datestr;000106.012;support/man2html.c;106.22;0x8;{char []};{};{};{}
+th_page_and_sec;000105.012;support/man2html.c;105.27;0x8;{char []};{};{};{}
+th_version;000107.012;support/man2html.c;107.22;0x8;{char []};{};{};{}
+the_current_maintainer;000075.019;error.c;75.41;0x0;{const char *const };{};{};{}
+the_current_working_directory;000099.013;builtins/common.h;99.42;0x0;{char *};{};{};{}
+the_current_working_directory;000542.006;builtins/common.c;542.35;0x0;{char *};{};{};{}
+the_history;000063.020;lib/readline/history.c;63.31;0x8;{HIST_ENTRY **};{};{};{}
+the_line;000202.013;lib/readline/readline.c;202.21;0x8;{char *};{};{};{}
+the_pipeline;000212.009;jobs.c;212.21;0x0;{PROCESS *};{};{};{}
+the_printed_command;000107.006;print_cmd.c;107.25;0x0;{char *};{};{};{}
+the_printed_command;000111.013;execute_cmd.c;111.32;0x0;{char *};{};{};{}
+the_printed_command_except_trap;000096.013;variables.c;96.44;0x0;{char *};{};{};{}
+the_printed_command_except_trap;000211.006;execute_cmd.c;211.37;0x0;{char *};{};{};{}
+the_printed_command_size;000108.004;print_cmd.c;108.28;0x0;{int};{};{};{}
+this_command_name;000039.013;arrayfunc.c;39.30;0x0;{char *};{};{};{}
+this_command_name;000042.013;builtins/setattr.c;42.30;0x0;{char *};{};{};{}
+this_command_name;000072.013;builtins/hash.c;72.30;0x0;{char *};{};{};{}
+this_command_name;000075.013;builtins/common.c;75.30;0x0;{char *};{};{};{}
+this_command_name;000079.013;builtins/type.c;79.30;0x0;{char *};{};{};{}
+this_command_name;000084.013;trap.c;84.30;0x0;{char *};{};{};{}
+this_command_name;000097.013;variables.c;97.30;0x0;{char *};{};{};{}
+this_command_name;000108.013;shell.c;108.30;0x0;{char *};{};{};{}
+this_command_name;000156.026;jobs.c;156.43;0x0;{char *};{};{};{}
+this_command_name;000163.013;subst.c;163.30;0x0;{char *};{};{};{}
+this_command_name;000206.006;execute_cmd.c;206.23;0x0;{char *};{};{};{}
+this_command_name;000217.013;expr.c;217.30;0x0;{char *};{};{};{}
+this_shell_builtin;000043.026;builtins/setattr.c;43.44;0x0;{sh_builtin_func_t *};{};{};{}
+this_shell_builtin;000053.026;builtins/exit.c;53.44;0x0;{sh_builtin_func_t *};{};{};{}
+this_shell_builtin;000072.026;builtins/evalstring.c;72.44;0x0;{sh_builtin_func_t *};{};{};{}
+this_shell_builtin;000079.026;nojobs.c;79.44;0x0;{sh_builtin_func_t *};{};{};{}
+this_shell_builtin;000080.019;builtins/common.c;80.37;0x0;{sh_builtin_func_t *};{};{};{}
+this_shell_builtin;000085.026;trap.c;85.44;0x0;{sh_builtin_func_t *};{};{};{}
+this_shell_builtin;000094.026;variables.c;94.44;0x0;{sh_builtin_func_t *};{};{};{}
+this_shell_builtin;000113.047;execute_cmd.c;113.65;0x0;{sh_builtin_func_t *};{};{};{}
+this_shell_builtin;000155.026;jobs.c;155.44;0x0;{sh_builtin_func_t *};{};{};{}
+this_shell_builtin;000184.047;bashline.c;184.65;0x0;{sh_builtin_func_t *};{};{};{}
+this_shell_builtin;000277.047;y.tab.c;277.65;0x0;{sh_builtin_func_t *};{};{};{}
+this_shell_function;000095.018;variables.c;95.37;0x0;{SHELL_VAR *};{};{};{}
+this_shell_function;000254.011;execute_cmd.c;254.30;0x0;{SHELL_VAR *};{};{};{}
+thoussep;000186.011;lib/sh/snprintf.c;186.19;0x8;{int};{};{};{}
+tilde_additional_prefixes;000059.014;lib/readline/tilde.h;59.39;0x0;{char **};{};{};{}
+tilde_additional_prefixes;000059.014;lib/tilde/tilde.h;59.39;0x0;{char **};{};{};{}
+tilde_additional_prefixes;000112.007;lib/readline/tilde.c;112.32;0x0;{char **};{};{};{}
+tilde_additional_prefixes;000112.007;lib/tilde/tilde.c;112.32;0x0;{char **};{};{};{}
+tilde_additional_suffixes;000064.014;lib/readline/tilde.h;64.39;0x0;{char **};{};{};{}
+tilde_additional_suffixes;000064.014;lib/tilde/tilde.h;64.39;0x0;{char **};{};{};{}
+tilde_additional_suffixes;000117.007;lib/readline/tilde.c;117.32;0x0;{char **};{};{};{}
+tilde_additional_suffixes;000117.007;lib/tilde/tilde.c;117.32;0x0;{char **};{};{};{}
+tilde_expansion_failure_hook;000054.026;lib/readline/tilde.h;54.54;0x0;{tilde_hook_func_t *};{};{};{}
+tilde_expansion_failure_hook;000054.026;lib/tilde/tilde.h;54.54;0x0;{tilde_hook_func_t *};{};{};{}
+tilde_expansion_failure_hook;000107.019;lib/readline/tilde.c;107.47;0x0;{tilde_hook_func_t *};{};{};{}
+tilde_expansion_failure_hook;000107.019;lib/tilde/tilde.c;107.47;0x0;{tilde_hook_func_t *};{};{};{}
+tilde_expansion_preexpansion_hook;000048.026;lib/readline/tilde.h;48.59;0x0;{tilde_hook_func_t *};{};{};{}
+tilde_expansion_preexpansion_hook;000048.026;lib/tilde/tilde.h;48.59;0x0;{tilde_hook_func_t *};{};{};{}
+tilde_expansion_preexpansion_hook;000101.019;lib/readline/tilde.c;101.52;0x0;{tilde_hook_func_t *};{};{};{}
+tilde_expansion_preexpansion_hook;000101.019;lib/tilde/tilde.c;101.52;0x0;{tilde_hook_func_t *};{};{};{}
+timezone;000103.016;lib/sh/strftime.c;103.24;0x0;{long};{};{};{}
+timezone;000106.016;lib/sh/strftime.c;106.24;0x0;{long};{};{};{}
+timezone;000108.011;lib/sh/strftime.c;108.19;0x0;{int};{};{};{}
+tmpnamelen;000055.011;lib/sh/tmpfile.c;55.21;0x8;{int};{};{};{}
+token;004792.013;y.tab.c;4792.18;0x8;{char *};{};{};{}
+token_before_that;000449.011;y.tab.c;449.28;0x8;{int};{};{};{}
+token_buffer_size;004795.011;y.tab.c;4795.28;0x8;{int};{};{};{}
+token_to_read;000467.011;y.tab.c;467.24;0x8;{int};{};{};{}
+tokstr;000168.013;expr.c;168.19;0x8;{char *};{};{};{}
+tokval;000169.016;expr.c;169.22;0x8;{intmax_t};{};{};{}
+top_level;000026.017;bashjmp.h;26.26;0x0;{procenv_t};{};{};{}
+top_level;000079.010;sig.c;79.19;0x0;{procenv_t};{};{};{}
+top_level;001418.010;expr.c;1418.19;0x0;{procenv_t};{};{};{}
+top_level_mask;000081.016;nojobs.c;81.30;0x0;{sigset_t};{};{};{}
+top_level_mask;000083.009;sig.c;83.23;0x0;{sigset_t};{};{};{}
+top_level_mask;000157.016;jobs.c;157.30;0x0;{sigset_t};{};{};{}
+totfds;004800.011;subst.c;4800.17;0x8;{int};{};{};{}
+tp;000163.013;expr.c;163.15;0x8;{char *};{};{};{}
+tputs_baud_rate;000294.004;lib/termcap/termcap.c;294.19;0x0;{int};{};{};{}
+transmem_list;000375.029;lib/intl/dcigettext.c;375.42;0x8;{transmem_list *};{};{};{}
+trap_list;000061.013;trap.h;61.22;0x0;{char *[]};{};{};{}
+trap_list;000099.006;trap.c;99.15;0x0;{char *[]};{};{};{}
+trap_saved_exit_value;000051.025;builtins/exit.c;51.46;0x0;{int};{};{};{}
+trap_saved_exit_value;000111.004;trap.c;111.25;0x0;{int};{};{};{}
+ttin;000033.017;lib/sh/shtty.c;33.21;0x8;{TTYSTRUCT};{};{};{}
+ttout;000033.023;lib/sh/shtty.c;33.28;0x8;{TTYSTRUCT};{};{};{}
+ttsaved;000034.011;lib/sh/shtty.c;34.18;0x8;{int};{};{};{}
+ttspeeds;001962.011;jobs.c;1962.19;0x8;{int []};{};{};{}
+tty_sigs_disabled;000935.011;lib/readline/rltty.c;935.28;0x8;{int};{};{};{}
+tvlist_ind;003277.004;variables.c;3277.14;0x0;{int};{};{};{}
+tw;000222.016;builtins/printf.c;222.18;0x8;{intmax_t};{};{};{}
+two_tokens_ago;000452.011;y.tab.c;452.25;0x8;{int};{};{};{}
+tzname;000100.013;lib/sh/strftime.c;100.19;0x0;{char *[]};{};{};{}
+u32init;000057.011;lib/sh/unicode.c;57.18;0x8;{int};{};{};{}
+unbound_vars_is_error;000046.020;flags.h;46.41;0x0;{int};{};{};{}
+unbound_vars_is_error;000086.004;flags.c;86.25;0x0;{int};{};{};{}
+unbound_vars_is_error;000218.011;expr.c;218.32;0x0;{int};{};{};{}
+unwind_protect_list;000089.019;unwind_prot.c;89.38;0x8;{UNWIND_ELT *};{};{};{}
+utf8locale;000058.011;lib/sh/unicode.c;58.21;0x8;{int};{};{};{}
+variable_context;000128.004;variables.c;128.20;0x0;{int};{};{};{}
+variable_context;000219.011;variables.h;219.27;0x0;{int};{};{};{}
+vblen;000220.011;builtins/printf.c;220.16;0x8;{int};{};{};{}
+vbsize;000219.014;builtins/printf.c;219.20;0x8;{size_t};{};{};{}
+vbuf;000218.013;builtins/printf.c;218.17;0x8;{char *};{};{};{}
+vflag;000217.011;builtins/printf.c;217.16;0x8;{int};{};{};{}
+vi_continued_command;000086.011;lib/readline/vi_mode.c;86.31;0x8;{int};{};{};{}
+vi_insert_buffer;000087.013;lib/readline/vi_mode.c;87.29;0x8;{char *};{};{};{}
+vi_insert_buffer_size;000088.011;lib/readline/vi_mode.c;88.32;0x8;{int};{};{};{}
+vi_insertion_keymap;000064.026;lib/readline/keymaps.h;64.45;0x0;{KEYMAP_ENTRY_ARRAY};{};{};{}
+vi_insertion_keymap;000313.019;lib/readline/vi_keymap.c;313.38;0x0;{KEYMAP_ENTRY_ARRAY};{};{};{}
+vi_mark_chars;000109.011;lib/readline/vi_mode.c;109.24;0x8;{int []};{};{};{}
+vi_motion;000074.026;lib/readline/vi_mode.c;74.35;0x8;{const char *const };{};{};{}
+vi_movement_keymap;000033.019;lib/readline/vi_keymap.c;33.37;0x0;{KEYMAP_ENTRY_ARRAY};{};{};{}
+vi_movement_keymap;000064.047;lib/readline/keymaps.h;64.65;0x0;{KEYMAP_ENTRY_ARRAY};{};{};{}
+vi_redoing;000103.011;lib/readline/vi_mode.c;103.21;0x8;{int};{};{};{}
+vi_replace_count;000081.011;lib/readline/vi_mode.c;81.27;0x8;{int};{};{};{}
+vi_replace_map;000078.014;lib/readline/vi_mode.c;78.28;0x8;{Keymap};{};{};{}
+vi_textmod;000106.026;lib/readline/vi_mode.c;106.36;0x8;{const char *const };{};{};{}
+visible_first_line_len;000207.011;lib/readline/display.c;207.33;0x8;{int};{};{};{}
+visible_wrap_offset;000196.011;lib/readline/display.c;196.30;0x8;{int};{};{};{}
+vname;000218.020;builtins/printf.c;218.25;0x8;{char *};{};{};{}
+wait_intr_buf;000074.010;builtins/wait.c;74.23;0x0;{procenv_t};{};{};{}
+wait_intr_buf;000083.017;nojobs.c;83.30;0x0;{procenv_t};{};{};{}
+wait_intr_buf;000086.017;trap.c;86.30;0x0;{procenv_t};{};{};{}
+wait_intr_buf;000158.017;jobs.c;158.30;0x0;{procenv_t};{};{};{}
+wait_sigint_received;000119.011;nojobs.c;119.31;0x8;{int};{};{};{}
+wait_sigint_received;002225.011;jobs.c;2225.31;0x8;{int};{};{};{}
+wait_signal_received;000084.011;nojobs.c;84.31;0x0;{int};{};{};{}
+wait_signal_received;000114.004;trap.c;114.24;0x0;{int};{};{};{}
+wait_signal_received;000159.011;jobs.c;159.31;0x0;{int};{};{};{}
+want_initial_help;000214.011;shell.c;214.28;0x8;{int};{};{};{}
+want_pending_command;000045.011;flags.c;45.31;0x0;{int};{};{};{}
+want_pending_command;000282.004;shell.c;282.24;0x0;{int};{};{};{}
+was_heredoc;000125.011;print_cmd.c;125.22;0x8;{int};{};{};{}
+wdcache;000032.022;dispose_cmd.c;32.29;0x0;{sh_obj_cache_t};{};{};{}
+wdcache;000061.015;make_cmd.c;61.22;0x0;{sh_obj_cache_t};{};{};{}
+winsize_assignment;000161.011;variables.c;161.29;0x8;{int};{};{};{}
+wlcache;000032.031;dispose_cmd.c;32.38;0x0;{sh_obj_cache_t};{};{};{}
+wlcache;000062.015;make_cmd.c;62.22;0x0;{sh_obj_cache_t};{};{};{}
+word_desc_to_read;000468.018;y.tab.c;468.35;0x8;{WORD_DESC *};{};{};{}
+word_lineno;000460.011;y.tab.c;460.22;0x8;{int []};{};{};{}
+word_token_alist;000083.024;pcomplete.c;83.40;0x0;{STRING_INT_ALIST []};{};{};{}
+word_token_alist;000183.024;bashline.c;183.40;0x0;{STRING_INT_ALIST []};{};{};{}
+word_token_alist;004351.017;y.tab.c;4351.33;0x0;{STRING_INT_ALIST []};{};{};{}
+word_top;000461.011;y.tab.c;461.19;0x8;{int};{};{};{}
+wordexp_only;000165.011;subst.c;165.23;0x0;{int};{};{};{}
+wordexp_only;000220.004;shell.c;220.16;0x0;{int};{};{};{}
+wordflags;000050.002;mksyntax.c;50.11;0x0;{wordflag []};{};{};{}
+wrap_offset;000200.011;lib/readline/display.c;200.22;0x8;{int};{};{};{}
+xpg_echo;000082.011;builtins/shopt.c;82.19;0x0;{int};{};{};{}
+xtrace_fd;000111.004;print_cmd.c;111.13;0x0;{int};{};{};{}
+xtrace_fp;000112.006;print_cmd.c;112.15;0x0;{FILE *};{};{};{}
+yychar;001814.004;y.tab.c;1814.10;0x0;{int};{};{};{}
+yydebug;000372.011;y.tab.c;372.18;0x0;{int};{};{};{}
+yydebug;000732.004;lib/intl/plural.c;732.11;0x0;{int};{};{};{}
+yydebug;001525.004;y.tab.c;1525.11;0x0;{int};{};{};{}
+yylval;000163.015;y.tab.h;163.21;0x0;{YYSTYPE};{};{};{}
+yylval;001817.008;y.tab.c;1817.14;0x0;{YYSTYPE};{};{};{}
+yynerrs;001820.004;y.tab.c;1820.11;0x0;{int};{};{};{}
+zerojs;000162.023;jobs.c;162.29;0x8;{jobstats};{};{};{}
